@@ -3,11 +3,6 @@
 This project performs exploratory data analysis (EDA) on a synthetic dataset of e-commerce transactions. 
 The main goals are data cleaning, feature engineering, descriptive statistics, and insightful visualizations.
 
-## Dataset
-
-- **File**: `transactions.csv`
-- **Fields**: `transaction_id`, `customer_id`, `gender`, `age`, `country`, `product_category`, `price`, `quantity`, `payment_method`, `transaction_date`
-
 ## Key Steps
 
 - Handling missing and incorrect data
@@ -22,6 +17,24 @@ The main goals are data cleaning, feature engineering, descriptive statistics, a
   - Correlation heatmap between age, quantity, and revenue
   - Payment method distribution (pie chart)
 - Saving cleaned dataset and figures
+
+## Project Structure
+
+```
+├── .gitignore
+├── exploratory_analysis.py                        # Main analysis script
+├── transactions.csv
+├── transactions_cleaned.csv                       # Exported data file (auto-generated)
+├── age_distribution.png
+├── age_quantity_revenue.png
+├── amount_by_country.png
+├── amount_by_gender.png
+├── orders_by_months.png
+├── payment_methods_distribution.png
+├── top_5_categories.png
+├── requirements.txt
+└── README.md
+```
 
 ## Output
 
