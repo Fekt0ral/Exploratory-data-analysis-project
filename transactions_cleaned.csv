@@ -1,0 +1,981 @@
+,transaction_id,customer_id,gender,age,country,transaction_date,product_category,price,quantity,payment_method,total_amount,month
+0,1,1033,Unknown,23,France,2024-09-20,Home,55.88,1,Bank Transfer,55.88,September
+1,2,1007,Female,59,Canada,2022-06-22,Home,287.6,1,PayPal,287.6,June
+2,3,1039,Female,41,Canada,2022-02-08,Home,14.09,4,PayPal,56.36,February
+3,4,1082,Unknown,34,UK,2023-03-04,Beauty,243.77,3,Credit Card,731.3100000000001,March
+4,5,1041,Male,23,UK,2023-01-16,Electronics,109.12,2,Bank Transfer,218.24,January
+5,6,1040,Male,41,UK,2022-12-13,Home,176.28,2,Bank Transfer,352.56,December
+6,7,1005,Male,60,USA,2022-08-05,Clothing,389.02,2,Credit Card,778.04,August
+7,8,1051,Female,59,USA,2022-06-09,Toys,470.91,1,Bank Transfer,470.91,June
+8,9,1025,Male,28,UK,2024-11-17,Clothing,40.85,2,Bank Transfer,81.7,November
+9,10,1063,Female,21,USA,2024-04-27,Clothing,269.45,1,Bank Transfer,269.45,April
+10,11,1097,Unknown,43,Germany,2022-05-16,Beauty,441.85,1,Credit Card,441.85,May
+11,12,1058,Unknown,58,UK,2024-07-06,Home,45.84,4,PayPal,183.36,July
+12,13,1055,Female,37,Germany,2023-10-18,Toys,413.13,2,PayPal,826.26,October
+13,14,1058,Female,64,France,2022-02-19,Books,182.11,2,Bank Transfer,364.22,February
+14,15,1069,Unknown,62,Germany,2022-02-16,Beauty,164.44,3,PayPal,493.32,February
+15,16,1032,Unknown,66,France,2022-05-26,Clothing,488.85,4,Credit Card,1955.4,May
+16,17,1052,Female,32,Australia,2022-12-06,Books,104.43,3,PayPal,313.29,December
+17,18,1021,Unknown,45,France,2022-12-28,Beauty,348.13,4,Credit Card,1392.52,December
+18,19,1020,Unknown,59,UK,2024-02-25,Beauty,411.61,2,Bank Transfer,823.22,February
+19,20,1069,Male,23,UK,2024-07-24,Beauty,25.39,1,Credit Card,25.39,July
+20,21,1069,Male,63,France,2022-02-11,Books,336.84,1,Credit Card,336.84,February
+21,22,1003,Unknown,24,USA,2024-05-21,Electronics,476.02,1,Credit Card,476.02,May
+22,23,1093,Unknown,18,Canada,2022-11-05,Toys,66.49,1,Bank Transfer,66.49,November
+23,24,1074,Male,31,Germany,2024-10-06,Toys,448.63,1,PayPal,448.63,October
+24,25,1061,Unknown,48,France,2024-12-25,Clothing,299.41,3,PayPal,898.23,December
+26,27,1093,Unknown,26,UK,2023-10-14,Electronics,308.41,2,Credit Card,616.82,October
+27,28,1094,Unknown,55,UK,2022-12-09,Electronics,152.92,3,PayPal,458.76,December
+28,29,1023,Female,32,Australia,2023-11-29,Toys,467.92,4,Bank Transfer,1871.68,November
+29,30,1054,Male,51,Australia,2024-07-04,Toys,473.94,1,Credit Card,473.94,July
+30,31,1008,Unknown,61,France,2023-03-09,Home,314.53,4,PayPal,1258.12,March
+31,32,1002,Male,46,USA,2022-01-11,Toys,392.79,4,Credit Card,1571.16,January
+32,33,1030,Male,18,France,2022-09-06,Toys,308.07,1,Credit Card,308.07,September
+33,34,1039,Unknown,18,Germany,2024-12-20,Electronics,244.78,1,Credit Card,244.78,December
+34,35,1035,Unknown,62,Australia,2023-10-19,Books,332.11,1,Bank Transfer,332.11,October
+35,36,1023,Male,39,Canada,2023-06-13,Clothing,278.74,2,Bank Transfer,557.48,June
+36,37,1094,Unknown,42,USA,2023-03-08,Beauty,300.75,1,PayPal,300.75,March
+37,38,1005,Unknown,25,Australia,2022-08-30,Beauty,393.0,2,Bank Transfer,786.0,August
+38,39,1065,Male,42,France,2022-12-01,Beauty,243.05,1,Bank Transfer,243.05,December
+39,40,1083,Male,45,Germany,2023-06-07,Books,25.17,2,Credit Card,50.34,June
+40,41,1091,Female,62,Germany,2022-06-08,Clothing,86.18,4,PayPal,344.72,June
+41,42,1074,Unknown,26,USA,2022-05-25,Home,222.11,3,Credit Card,666.33,May
+42,43,1003,Female,48,Germany,2023-08-14,Beauty,363.79,4,Credit Card,1455.16,August
+43,44,1078,Male,22,Germany,2022-05-31,Toys,298.67,4,Credit Card,1194.68,May
+44,45,1005,Unknown,32,Germany,2023-07-12,Clothing,326.9,1,PayPal,326.9,July
+45,46,1093,Male,42,Germany,2023-06-19,Clothing,242.24,2,Credit Card,484.48,June
+46,47,1050,Unknown,23,France,2024-07-26,Clothing,309.79,3,Bank Transfer,929.3700000000001,July
+47,48,1061,Unknown,64,Australia,2023-02-15,Clothing,167.86,1,Bank Transfer,167.86,February
+48,49,1056,Female,69,Australia,2022-03-09,Toys,237.74,1,PayPal,237.74,March
+49,50,1065,Male,24,USA,2023-12-15,Books,373.42,1,Bank Transfer,373.42,December
+50,51,1078,Unknown,24,Canada,2024-04-13,Clothing,436.56,4,Credit Card,1746.24,April
+51,52,1074,Female,38,Canada,2022-07-13,Electronics,219.66,2,Credit Card,439.32,July
+52,53,1007,Male,41,Germany,2023-08-12,Clothing,26.61,2,PayPal,53.22,August
+53,54,1025,Female,42,Australia,2022-05-03,Beauty,85.03,3,Bank Transfer,255.09,May
+54,55,1050,Male,37,France,2024-05-07,Toys,15.33,2,Credit Card,30.66,May
+55,56,1044,Unknown,26,Germany,2023-04-01,Electronics,328.37,2,Bank Transfer,656.74,April
+56,57,1043,Female,42,Germany,2024-09-03,Toys,169.5,1,Bank Transfer,169.5,September
+57,58,1004,Female,67,Australia,2024-08-18,Home,273.53,1,Credit Card,273.53,August
+58,59,1069,Unknown,42,France,2023-07-16,Beauty,249.17,4,Credit Card,996.68,July
+59,60,1025,Male,66,UK,2024-06-15,Toys,45.36,1,PayPal,45.36,June
+60,61,1067,Unknown,42,Australia,2022-10-26,Electronics,204.61,1,Credit Card,204.61,October
+61,62,1018,Female,26,USA,2024-12-30,Books,114.18,1,PayPal,114.18,December
+62,63,1083,Unknown,59,Canada,2022-04-19,Beauty,212.11,1,Bank Transfer,212.11,April
+63,64,1096,Female,61,France,2022-03-13,Electronics,105.77,4,Bank Transfer,423.08,March
+64,65,1019,Unknown,27,Canada,2024-10-24,Books,421.02,1,PayPal,421.02,October
+65,66,1011,Male,22,France,2022-12-21,Electronics,91.23,3,PayPal,273.69,December
+66,67,1046,Female,51,Australia,2023-03-26,Clothing,480.59,3,Bank Transfer,1441.77,March
+67,68,1000,Female,54,France,2022-05-04,Beauty,210.87,3,Credit Card,632.61,May
+68,69,1089,Male,18,UK,2022-12-28,Toys,423.89,3,Credit Card,1271.67,December
+69,70,1013,Unknown,57,Germany,2022-06-06,Home,316.24,1,Bank Transfer,316.24,June
+70,71,1063,Male,59,USA,2023-08-14,Books,369.0,3,PayPal,1107.0,August
+71,72,1037,Unknown,28,UK,2023-03-08,Books,385.02,1,PayPal,385.02,March
+72,73,1036,Male,46,Canada,2023-12-06,Clothing,254.9,4,Bank Transfer,1019.6,December
+73,74,1010,Male,40,USA,2024-09-14,Beauty,273.93,3,Credit Card,821.79,September
+74,75,1099,Female,64,Germany,2023-07-21,Beauty,259.43,2,PayPal,518.86,July
+75,76,1076,Female,31,Australia,2022-09-10,Clothing,296.09,3,Credit Card,888.27,September
+76,77,1002,Unknown,58,UK,2023-07-30,Electronics,19.55,3,PayPal,58.650000000000006,July
+77,78,1032,Male,65,France,2023-07-06,Books,200.78,1,Bank Transfer,200.78,July
+78,79,1005,Unknown,27,Canada,2022-11-22,Toys,305.06,3,PayPal,915.1800000000001,November
+79,80,1049,Male,44,UK,2024-11-07,Electronics,300.87,2,Bank Transfer,601.74,November
+80,81,1009,Male,57,UK,2023-02-19,Clothing,397.51,1,PayPal,397.51,February
+81,82,1004,Female,61,USA,2024-12-26,Books,329.23,1,Bank Transfer,329.23,December
+82,83,1022,Male,46,Canada,2024-11-27,Home,496.11,4,Bank Transfer,1984.44,November
+83,84,1009,Female,42,Canada,2024-10-03,Home,145.51,4,PayPal,582.04,October
+84,85,1043,Female,31,Canada,2022-04-21,Books,182.78,3,Credit Card,548.34,April
+85,86,1001,Male,23,USA,2024-08-04,Toys,195.0,4,Bank Transfer,780.0,August
+86,87,1012,Male,24,Canada,2024-09-13,Beauty,235.58,4,Credit Card,942.32,September
+87,88,1039,Unknown,26,USA,2022-09-23,Books,418.82,4,Bank Transfer,1675.28,September
+88,89,1001,Unknown,66,France,2024-04-09,Beauty,121.72,1,PayPal,121.72,April
+89,90,1083,Unknown,25,USA,2023-01-16,Toys,389.12,1,PayPal,389.12,January
+90,91,1064,Female,55,Germany,2022-09-11,Clothing,205.63,1,Bank Transfer,205.63,September
+91,92,1062,Female,64,Australia,2023-12-20,Toys,302.92,4,PayPal,1211.68,December
+92,93,1072,Female,42,Canada,2023-08-13,Toys,318.11,1,PayPal,318.11,August
+93,94,1016,Female,40,Germany,2023-02-24,Books,189.56,4,Bank Transfer,758.24,February
+94,95,1008,Female,45,Germany,2024-09-21,Books,258.74,1,Bank Transfer,258.74,September
+95,96,1074,Female,38,France,2024-12-05,Home,209.45,1,Credit Card,209.45,December
+96,97,1014,Male,68,UK,2024-05-15,Clothing,39.22,2,Credit Card,78.44,May
+97,98,1023,Unknown,26,France,2022-12-08,Electronics,221.4,3,Bank Transfer,664.2,December
+98,99,1037,Unknown,33,Australia,2024-11-29,Books,53.21,4,Credit Card,212.84,November
+99,100,1034,Unknown,35,USA,2023-05-19,Clothing,205.49,2,PayPal,410.98,May
+100,101,1093,Male,59,Australia,2022-03-28,Clothing,298.49,1,PayPal,298.49,March
+101,102,1094,Unknown,23,USA,2022-12-22,Beauty,291.81,4,PayPal,1167.24,December
+102,103,1048,Female,33,Canada,2022-02-19,Beauty,333.0,1,Bank Transfer,333.0,February
+103,104,1068,Male,53,Germany,2023-05-06,Beauty,52.15,3,PayPal,156.45,May
+104,105,1061,Male,56,France,2023-09-16,Home,327.8,2,PayPal,655.6,September
+105,106,1059,Unknown,56,UK,2023-02-20,Books,159.51,3,Credit Card,478.53,February
+106,107,1049,Female,64,France,2022-04-13,Books,202.53,2,Bank Transfer,405.06,April
+107,108,1077,Unknown,56,Canada,2022-11-24,Clothing,429.7,1,Bank Transfer,429.7,November
+108,109,1074,Male,36,France,2024-05-31,Beauty,9.47,3,PayPal,28.410000000000004,May
+109,110,1008,Unknown,67,UK,2023-05-04,Beauty,296.26,3,Bank Transfer,888.78,May
+110,111,1033,Male,62,UK,2022-11-27,Books,301.36,1,Credit Card,301.36,November
+111,112,1075,Male,19,Germany,2024-10-15,Home,201.35,3,Credit Card,604.05,October
+112,113,1098,Male,42,Germany,2024-02-15,Home,122.33,4,Bank Transfer,489.32,February
+113,114,1034,Female,42,Canada,2023-09-07,Home,121.16,2,PayPal,242.32,September
+114,115,1000,Female,60,Germany,2024-09-25,Books,442.44,2,Bank Transfer,884.88,September
+115,116,1039,Unknown,42,Australia,2023-12-14,Books,223.8,2,Credit Card,447.6,December
+116,117,1063,Unknown,37,Australia,2022-08-10,Home,168.79,4,PayPal,675.16,August
+117,118,1021,Unknown,31,USA,2023-02-16,Toys,227.14,2,Bank Transfer,454.28,February
+118,119,1059,Female,51,Germany,2022-08-05,Electronics,336.35,1,Credit Card,336.35,August
+119,120,1063,Unknown,56,USA,2023-01-19,Clothing,77.15,3,Bank Transfer,231.45000000000002,January
+120,121,1092,Female,50,France,2024-05-22,Beauty,227.47,4,Bank Transfer,909.88,May
+121,122,1071,Male,30,USA,2024-04-17,Toys,296.0,2,PayPal,592.0,April
+122,123,1010,Male,65,Canada,2023-02-13,Electronics,474.55,1,Credit Card,474.55,February
+123,124,1013,Female,43,UK,2024-06-27,Books,130.0,3,Bank Transfer,390.0,June
+124,125,1059,Female,36,Canada,2023-10-28,Clothing,182.83,3,Bank Transfer,548.49,October
+125,126,1029,Male,59,Canada,2024-06-25,Toys,192.78,4,PayPal,771.12,June
+126,127,1034,Female,21,Australia,2023-09-13,Clothing,304.74,4,Bank Transfer,1218.96,September
+127,128,1084,Male,68,Canada,2023-07-17,Books,181.58,4,Credit Card,726.32,July
+128,129,1036,Unknown,68,Australia,2022-12-07,Beauty,269.09,1,Bank Transfer,269.09,December
+129,130,1004,Male,33,Canada,2022-08-03,Beauty,391.99,1,PayPal,391.99,August
+130,131,1082,Male,49,Germany,2024-03-02,Electronics,354.17,4,PayPal,1416.68,March
+131,132,1077,Unknown,42,Australia,2024-02-06,Beauty,225.95,2,PayPal,451.9,February
+132,133,1025,Female,25,France,2022-05-22,Electronics,432.79,3,Bank Transfer,1298.3700000000001,May
+133,134,1061,Unknown,33,UK,2022-03-15,Electronics,281.28,3,PayPal,843.8399999999999,March
+134,135,1003,Male,49,USA,2022-06-20,Toys,272.25,1,Credit Card,272.25,June
+135,136,1088,Male,58,Australia,2022-08-26,Beauty,21.92,3,Credit Card,65.76,August
+136,137,1041,Male,56,USA,2024-09-01,Electronics,493.41,2,Bank Transfer,986.82,September
+137,138,1088,Male,22,France,2022-09-06,Toys,65.87,3,Bank Transfer,197.61,September
+138,139,1017,Male,51,Canada,2024-11-23,Toys,119.41,1,Credit Card,119.41,November
+139,140,1039,Unknown,42,Australia,2023-10-18,Home,30.59,1,Credit Card,30.59,October
+140,141,1071,Male,18,Canada,2024-07-15,Toys,321.8,2,Credit Card,643.6,July
+141,142,1038,Female,41,UK,2022-04-09,Clothing,116.23,2,Credit Card,232.46,April
+142,143,1013,Unknown,38,USA,2023-08-21,Electronics,94.11,3,Credit Card,282.33,August
+143,144,1031,Unknown,26,Canada,2023-08-16,Toys,48.84,3,Credit Card,146.52,August
+144,145,1050,Unknown,42,Germany,2024-07-14,Books,56.14,1,Credit Card,56.14,July
+145,146,1037,Male,42,UK,2023-12-29,Toys,294.41,2,PayPal,588.82,December
+147,148,1022,Unknown,54,Australia,2023-01-26,Home,201.7,2,Credit Card,403.4,January
+148,149,1062,Male,44,Australia,2024-05-09,Beauty,242.55,3,Credit Card,727.6500000000001,May
+149,150,1014,Female,41,Australia,2022-01-18,Clothing,344.55,2,Bank Transfer,689.1,January
+150,151,1096,Female,52,Germany,2024-11-22,Books,13.6,1,Bank Transfer,13.6,November
+151,152,1024,Male,61,France,2022-06-27,Home,164.95,1,PayPal,164.95,June
+152,153,1016,Unknown,29,France,2024-11-25,Clothing,486.68,3,Bank Transfer,1460.04,November
+153,154,1096,Male,66,Germany,2024-04-14,Toys,292.16,4,PayPal,1168.64,April
+154,155,1065,Male,48,France,2023-02-19,Beauty,130.84,3,Bank Transfer,392.52,February
+155,156,1077,Male,67,Germany,2024-09-22,Books,263.26,4,Bank Transfer,1053.04,September
+156,157,1052,Unknown,22,Canada,2023-06-13,Clothing,174.61,2,Bank Transfer,349.22,June
+158,159,1038,Male,55,Germany,2023-04-01,Toys,67.24,1,PayPal,67.24,April
+159,160,1050,Unknown,22,Australia,2023-11-07,Toys,70.69,2,Credit Card,141.38,November
+160,161,1069,Unknown,18,UK,2022-09-03,Electronics,76.05,1,PayPal,76.05,September
+161,162,1005,Female,34,UK,2023-12-06,Home,470.21,2,Credit Card,940.42,December
+162,163,1066,Unknown,31,France,2022-01-06,Books,367.78,3,Bank Transfer,1103.34,January
+163,164,1006,Unknown,20,UK,2023-02-14,Toys,85.38,4,Bank Transfer,341.52,February
+164,165,1050,Unknown,21,USA,2024-02-17,Electronics,98.23,2,Credit Card,196.46,February
+165,166,1071,Female,68,USA,2022-10-05,Beauty,366.76,4,Credit Card,1467.04,October
+166,167,1041,Male,43,UK,2024-02-28,Clothing,82.3,2,Credit Card,164.6,February
+167,168,1063,Female,50,Australia,2022-06-15,Toys,121.11,1,Bank Transfer,121.11,June
+168,169,1014,Male,36,Germany,2024-08-29,Beauty,481.86,1,PayPal,481.86,August
+169,170,1028,Unknown,58,UK,2023-04-09,Clothing,131.38,2,Credit Card,262.76,April
+170,171,1032,Unknown,63,Australia,2024-09-19,Toys,332.51,4,PayPal,1330.04,September
+171,172,1093,Male,50,UK,2024-02-28,Clothing,489.42,3,Bank Transfer,1468.26,February
+172,173,1026,Female,67,UK,2024-08-04,Home,190.28,3,Credit Card,570.84,August
+173,174,1035,Female,44,Germany,2022-11-05,Clothing,13.67,1,PayPal,13.67,November
+174,175,1028,Female,45,Germany,2022-08-26,Clothing,125.85,3,Bank Transfer,377.54999999999995,August
+175,176,1037,Male,62,Australia,2023-08-04,Toys,416.28,1,Bank Transfer,416.28,August
+176,177,1056,Unknown,43,USA,2022-09-08,Toys,432.98,3,PayPal,1298.94,September
+177,178,1096,Unknown,23,France,2024-04-17,Beauty,385.42,2,PayPal,770.84,April
+178,179,1026,Unknown,58,USA,2024-04-03,Clothing,60.99,1,Bank Transfer,60.99,April
+179,180,1054,Male,52,Germany,2022-01-01,Beauty,398.78,1,Credit Card,398.78,January
+180,181,1032,Unknown,52,Germany,2024-07-19,Beauty,459.75,2,Bank Transfer,919.5,July
+181,182,1067,Unknown,57,Australia,2023-05-19,Home,302.3,1,PayPal,302.3,May
+182,183,1085,Female,27,Germany,2024-01-30,Books,470.73,3,Bank Transfer,1412.19,January
+183,184,1065,Unknown,35,Germany,2022-01-31,Electronics,414.29,3,Credit Card,1242.8700000000001,January
+184,185,1009,Female,23,Germany,2022-06-23,Clothing,335.15,1,Bank Transfer,335.15,June
+185,186,1004,Male,37,Australia,2023-07-18,Home,290.71,3,Credit Card,872.1299999999999,July
+186,187,1073,Female,23,Australia,2023-04-23,Clothing,177.54,4,PayPal,710.16,April
+187,188,1096,Unknown,50,Australia,2023-01-07,Electronics,83.85,1,Credit Card,83.85,January
+188,189,1037,Unknown,31,Germany,2022-03-31,Books,304.45,2,Credit Card,608.9,March
+189,190,1012,Female,69,Canada,2023-01-10,Books,162.47,4,Bank Transfer,649.88,January
+190,191,1030,Unknown,27,Canada,2024-05-31,Clothing,433.89,1,Credit Card,433.89,May
+191,192,1046,Female,52,UK,2022-05-03,Electronics,496.7,2,Credit Card,993.4,May
+192,193,1099,Unknown,38,Canada,2022-05-14,Beauty,377.45,3,Bank Transfer,1132.35,May
+193,194,1087,Female,43,USA,2024-01-25,Clothing,49.79,2,Credit Card,99.58,January
+195,196,1055,Male,58,France,2024-04-07,Books,59.01,3,PayPal,177.03,April
+196,197,1014,Female,66,Australia,2022-07-15,Home,327.0,1,Credit Card,327.0,July
+197,198,1028,Female,42,Germany,2022-07-19,Home,383.77,3,Credit Card,1151.31,July
+198,199,1007,Male,59,Australia,2024-10-21,Home,463.21,1,Bank Transfer,463.21,October
+199,200,1004,Unknown,61,Canada,2024-01-09,Electronics,221.9,1,Bank Transfer,221.9,January
+200,201,1028,Female,59,Australia,2024-05-04,Electronics,451.18,2,Credit Card,902.36,May
+201,202,1046,Male,22,USA,2022-09-14,Beauty,439.56,2,Bank Transfer,879.12,September
+202,203,1067,Male,37,Australia,2023-02-16,Books,162.01,2,Bank Transfer,324.02,February
+203,204,1075,Female,62,France,2024-03-30,Electronics,435.11,4,Credit Card,1740.44,March
+204,205,1044,Unknown,45,Germany,2024-07-31,Beauty,190.96,4,Bank Transfer,763.84,July
+205,206,1001,Male,64,Germany,2023-10-20,Toys,151.95,2,Bank Transfer,303.9,October
+206,207,1026,Female,42,France,2022-11-26,Beauty,326.29,4,Bank Transfer,1305.16,November
+207,208,1094,Male,33,France,2024-04-17,Books,167.55,3,PayPal,502.65000000000003,April
+208,209,1035,Unknown,21,France,2024-12-07,Beauty,316.95,3,Bank Transfer,950.8499999999999,December
+209,210,1035,Female,33,Australia,2022-11-09,Books,306.87,4,Credit Card,1227.48,November
+210,211,1025,Female,23,USA,2023-04-30,Toys,283.9,4,Bank Transfer,1135.6,April
+211,212,1042,Unknown,45,UK,2023-09-12,Toys,193.31,3,Bank Transfer,579.9300000000001,September
+212,213,1026,Unknown,25,Australia,2024-11-09,Toys,276.51,1,PayPal,276.51,November
+213,214,1068,Male,47,UK,2024-10-06,Clothing,300.26,3,Bank Transfer,900.78,October
+214,215,1019,Female,57,Canada,2023-08-04,Home,275.12,3,PayPal,825.36,August
+215,216,1010,Male,56,Germany,2023-11-12,Beauty,224.99,4,Bank Transfer,899.96,November
+216,217,1073,Female,21,Australia,2024-03-15,Home,12.26,3,Bank Transfer,36.78,March
+217,218,1037,Male,37,Australia,2023-12-03,Books,295.6,4,PayPal,1182.4,December
+218,219,1005,Female,60,Canada,2022-07-07,Toys,88.38,4,Credit Card,353.52,July
+219,220,1071,Unknown,65,Australia,2023-01-21,Beauty,323.08,2,Credit Card,646.16,January
+220,221,1022,Male,60,UK,2022-12-16,Electronics,380.88,3,Credit Card,1142.6399999999999,December
+221,222,1046,Female,65,Australia,2022-04-10,Toys,252.72,1,Bank Transfer,252.72,April
+222,223,1089,Female,29,France,2023-06-10,Books,273.47,2,PayPal,546.94,June
+223,224,1045,Male,25,Australia,2022-02-02,Home,475.98,4,Bank Transfer,1903.92,February
+224,225,1011,Unknown,18,Germany,2024-07-02,Clothing,424.35,4,PayPal,1697.4,July
+225,226,1089,Unknown,63,UK,2024-05-10,Toys,457.55,1,Bank Transfer,457.55,May
+226,227,1012,Male,26,Germany,2022-12-24,Home,407.81,4,Credit Card,1631.24,December
+227,228,1061,Male,62,Canada,2024-07-03,Books,58.91,3,Bank Transfer,176.73,July
+228,229,1081,Female,18,Australia,2022-12-09,Books,78.75,2,Bank Transfer,157.5,December
+229,230,1088,Female,28,UK,2022-01-12,Home,265.68,4,PayPal,1062.72,January
+230,231,1096,Unknown,49,Canada,2022-04-21,Home,126.8,4,PayPal,507.2,April
+231,232,1059,Unknown,40,Germany,2024-09-07,Toys,240.96,1,PayPal,240.96,September
+232,233,1042,Unknown,51,USA,2022-04-02,Electronics,200.21,3,Bank Transfer,600.63,April
+233,234,1075,Male,51,France,2022-12-22,Toys,276.96,4,PayPal,1107.84,December
+234,235,1099,Male,68,Canada,2022-04-15,Clothing,374.7,1,PayPal,374.7,April
+235,236,1067,Male,42,Australia,2022-02-18,Home,359.17,4,PayPal,1436.68,February
+236,237,1004,Unknown,64,Germany,2023-05-29,Clothing,263.01,1,Bank Transfer,263.01,May
+237,238,1036,Unknown,34,Australia,2022-04-21,Clothing,412.08,1,PayPal,412.08,April
+238,239,1071,Unknown,28,UK,2024-03-09,Electronics,218.28,3,Bank Transfer,654.84,March
+239,240,1091,Unknown,41,Canada,2023-01-05,Toys,448.87,4,PayPal,1795.48,January
+240,241,1030,Male,26,Australia,2023-03-09,Beauty,40.28,3,Bank Transfer,120.84,March
+241,242,1008,Female,65,Germany,2024-11-05,Books,477.56,1,Credit Card,477.56,November
+242,243,1050,Male,67,Australia,2024-01-25,Clothing,329.07,2,Bank Transfer,658.14,January
+243,244,1028,Female,42,USA,2022-11-29,Clothing,193.14,4,Bank Transfer,772.56,November
+244,245,1077,Female,35,Canada,2024-04-17,Clothing,102.59,2,Credit Card,205.18,April
+245,246,1039,Male,64,Germany,2022-07-25,Clothing,242.2,4,PayPal,968.8,July
+246,247,1040,Male,42,Canada,2024-06-06,Books,101.31,3,Bank Transfer,303.93,June
+247,248,1085,Male,25,Australia,2024-06-14,Toys,87.33,3,Bank Transfer,261.99,June
+248,249,1010,Unknown,67,Germany,2024-01-05,Beauty,310.59,3,PayPal,931.77,January
+249,250,1022,Male,19,France,2023-01-13,Electronics,263.93,3,PayPal,791.79,January
+250,251,1000,Unknown,39,Germany,2024-01-05,Beauty,336.7,3,PayPal,1010.0999999999999,January
+251,252,1045,Female,69,Germany,2023-09-25,Clothing,465.15,2,PayPal,930.3,September
+252,253,1020,Male,45,Germany,2022-10-23,Home,268.47,3,PayPal,805.4100000000001,October
+253,254,1089,Unknown,35,UK,2022-05-27,Books,292.56,1,Credit Card,292.56,May
+254,255,1035,Unknown,51,Germany,2022-05-31,Beauty,49.37,1,Bank Transfer,49.37,May
+255,256,1053,Unknown,22,France,2024-10-20,Electronics,360.23,2,Credit Card,720.46,October
+256,257,1086,Male,34,USA,2023-11-01,Home,202.95,4,PayPal,811.8,November
+257,258,1056,Female,63,France,2023-07-05,Beauty,488.48,1,Bank Transfer,488.48,July
+258,259,1000,Male,54,USA,2023-10-21,Home,412.47,4,Credit Card,1649.88,October
+259,260,1062,Unknown,58,Australia,2023-10-01,Home,263.63,2,Bank Transfer,527.26,October
+260,261,1053,Female,22,UK,2023-12-27,Clothing,66.0,4,Credit Card,264.0,December
+261,262,1054,Female,49,UK,2022-03-26,Toys,430.41,4,PayPal,1721.64,March
+262,263,1039,Female,47,UK,2024-11-12,Clothing,400.89,4,Credit Card,1603.56,November
+263,264,1014,Female,50,USA,2024-10-12,Beauty,96.37,4,PayPal,385.48,October
+264,265,1020,Unknown,41,France,2024-09-30,Home,151.16,2,Credit Card,302.32,September
+265,266,1046,Unknown,21,Canada,2022-06-02,Electronics,397.74,1,Credit Card,397.74,June
+266,267,1072,Female,49,UK,2022-04-05,Clothing,96.69,3,PayPal,290.07,April
+267,268,1052,Female,42,USA,2023-09-18,Electronics,459.29,4,Credit Card,1837.16,September
+268,269,1008,Female,54,Australia,2023-06-12,Clothing,215.14,1,Bank Transfer,215.14,June
+269,270,1073,Female,28,France,2022-06-19,Toys,48.08,1,PayPal,48.08,June
+270,271,1051,Unknown,41,UK,2023-01-22,Toys,408.8,2,Bank Transfer,817.6,January
+271,272,1056,Female,28,Germany,2022-10-25,Clothing,189.89,1,Bank Transfer,189.89,October
+272,273,1025,Female,34,France,2022-10-23,Clothing,265.62,2,Bank Transfer,531.24,October
+273,274,1040,Male,67,USA,2024-04-13,Beauty,60.59,4,Bank Transfer,242.36,April
+274,275,1034,Unknown,24,Canada,2023-11-28,Toys,6.28,4,Bank Transfer,25.12,November
+275,276,1062,Female,54,Canada,2022-08-06,Electronics,320.8,3,Credit Card,962.4000000000001,August
+276,277,1024,Female,61,Canada,2023-10-18,Toys,260.01,3,Credit Card,780.03,October
+277,278,1089,Male,64,Germany,2022-10-13,Clothing,298.8,3,Credit Card,896.4000000000001,October
+278,279,1074,Female,25,France,2023-03-09,Electronics,397.9,1,PayPal,397.9,March
+279,280,1037,Female,32,UK,2023-12-20,Clothing,325.07,4,PayPal,1300.28,December
+280,281,1001,Female,65,France,2023-01-24,Books,91.51,2,Credit Card,183.02,January
+281,282,1006,Male,50,Canada,2022-04-28,Clothing,183.58,3,Credit Card,550.74,April
+282,283,1081,Unknown,18,Germany,2023-11-20,Toys,453.42,2,PayPal,906.84,November
+283,284,1090,Male,20,Australia,2024-05-04,Home,386.12,2,PayPal,772.24,May
+284,285,1033,Unknown,42,Canada,2022-06-02,Toys,280.54,3,Bank Transfer,841.6200000000001,June
+285,286,1090,Male,42,USA,2022-03-20,Toys,131.54,4,Credit Card,526.16,March
+286,287,1016,Male,18,France,2024-10-10,Beauty,154.52,3,Credit Card,463.56000000000006,October
+287,288,1042,Female,33,Germany,2024-04-19,Electronics,367.32,2,PayPal,734.64,April
+288,289,1058,Unknown,20,Australia,2022-01-23,Beauty,426.33,3,PayPal,1278.99,January
+289,290,1050,Unknown,48,Canada,2022-05-25,Beauty,337.36,2,Credit Card,674.72,May
+290,291,1053,Unknown,41,Germany,2023-01-03,Beauty,405.72,2,Bank Transfer,811.44,January
+291,292,1023,Unknown,42,Australia,2022-09-16,Books,384.49,3,PayPal,1153.47,September
+292,293,1024,Female,27,USA,2023-09-24,Electronics,79.1,1,Bank Transfer,79.1,September
+293,294,1070,Female,29,USA,2024-01-25,Clothing,214.85,3,Credit Card,644.55,January
+294,295,1051,Male,42,France,2024-01-18,Home,80.73,1,Bank Transfer,80.73,January
+295,296,1069,Male,20,Germany,2022-11-29,Toys,121.44,2,Credit Card,242.88,November
+296,297,1087,Female,53,Canada,2023-09-15,Home,435.28,2,Bank Transfer,870.56,September
+297,298,1032,Male,69,Canada,2022-04-02,Home,239.08,1,PayPal,239.08,April
+298,299,1048,Female,63,UK,2022-09-13,Clothing,270.0,2,PayPal,540.0,September
+299,300,1028,Unknown,65,Canada,2023-08-12,Clothing,93.33,1,Credit Card,93.33,August
+300,301,1062,Male,59,France,2022-01-04,Home,159.57,1,PayPal,159.57,January
+301,302,1021,Female,44,USA,2023-08-30,Toys,118.97,2,Bank Transfer,237.94,August
+302,303,1025,Unknown,32,Canada,2023-02-16,Clothing,107.06,4,Bank Transfer,428.24,February
+303,304,1027,Unknown,38,UK,2023-12-08,Toys,320.79,1,Bank Transfer,320.79,December
+304,305,1084,Unknown,33,France,2023-03-20,Clothing,132.16,3,Credit Card,396.48,March
+305,306,1048,Female,44,Australia,2023-10-20,Toys,317.85,3,Bank Transfer,953.5500000000001,October
+306,307,1070,Female,64,France,2024-12-18,Beauty,33.94,2,Bank Transfer,67.88,December
+307,308,1080,Female,38,France,2024-05-13,Toys,75.18,4,PayPal,300.72,May
+308,309,1083,Unknown,35,France,2024-10-25,Books,140.9,2,Credit Card,281.8,October
+309,310,1048,Unknown,42,France,2024-01-27,Clothing,300.54,4,Bank Transfer,1202.16,January
+310,311,1019,Unknown,22,France,2022-08-29,Beauty,339.54,1,Bank Transfer,339.54,August
+311,312,1085,Female,54,USA,2022-10-22,Beauty,224.14,1,PayPal,224.14,October
+312,313,1091,Female,41,USA,2023-04-06,Books,225.67,1,Credit Card,225.67,April
+313,314,1062,Male,25,UK,2022-12-05,Home,363.64,1,Credit Card,363.64,December
+314,315,1060,Unknown,50,Canada,2022-04-01,Toys,12.83,3,PayPal,38.49,April
+315,316,1048,Female,61,Australia,2024-06-18,Toys,173.84,3,PayPal,521.52,June
+316,317,1070,Male,21,Germany,2024-04-22,Electronics,410.26,2,PayPal,820.52,April
+318,319,1095,Unknown,32,Germany,2023-05-03,Home,171.93,1,Credit Card,171.93,May
+319,320,1012,Unknown,69,UK,2022-03-30,Home,453.23,1,Credit Card,453.23,March
+320,321,1093,Female,51,Canada,2022-03-19,Clothing,387.45,4,Bank Transfer,1549.8,March
+321,322,1086,Male,20,USA,2024-06-26,Electronics,136.12,4,Bank Transfer,544.48,June
+322,323,1050,Unknown,43,Australia,2024-01-11,Electronics,324.42,2,Bank Transfer,648.84,January
+323,324,1055,Unknown,22,USA,2024-02-21,Clothing,299.9,4,Credit Card,1199.6,February
+324,325,1082,Male,42,Australia,2024-04-05,Toys,203.59,1,Bank Transfer,203.59,April
+325,326,1061,Unknown,47,Australia,2022-09-02,Toys,186.64,1,Bank Transfer,186.64,September
+326,327,1031,Male,42,Canada,2022-03-30,Beauty,175.06,1,PayPal,175.06,March
+327,328,1029,Male,36,Canada,2024-02-28,Home,310.49,1,Credit Card,310.49,February
+328,329,1028,Unknown,67,Australia,2022-05-05,Clothing,223.99,1,PayPal,223.99,May
+329,330,1048,Male,42,Germany,2022-10-16,Toys,416.77,2,Bank Transfer,833.54,October
+330,331,1044,Male,37,Germany,2022-04-17,Electronics,336.45,1,Credit Card,336.45,April
+331,332,1092,Female,38,Canada,2024-07-13,Clothing,39.62,2,PayPal,79.24,July
+332,333,1029,Male,23,USA,2022-04-16,Home,321.88,1,Bank Transfer,321.88,April
+333,334,1015,Unknown,53,France,2024-11-14,Toys,139.22,3,Bank Transfer,417.65999999999997,November
+334,335,1039,Male,47,UK,2023-01-01,Toys,298.44,3,Credit Card,895.3199999999999,January
+336,337,1017,Unknown,41,Germany,2022-07-06,Toys,119.26,3,Bank Transfer,357.78000000000003,July
+337,338,1000,Male,30,Canada,2024-06-03,Toys,231.15,2,Bank Transfer,462.3,June
+338,339,1077,Male,36,USA,2023-01-18,Electronics,99.21,2,Credit Card,198.42,January
+339,340,1046,Male,54,USA,2024-06-18,Electronics,30.91,4,Credit Card,123.64,June
+340,341,1065,Unknown,68,Germany,2024-07-12,Home,192.35,1,Credit Card,192.35,July
+341,342,1091,Female,37,Germany,2022-03-03,Beauty,184.66,3,Bank Transfer,553.98,March
+342,343,1093,Female,65,France,2024-08-20,Clothing,497.76,2,Bank Transfer,995.52,August
+343,344,1037,Male,57,Australia,2022-05-08,Toys,225.94,1,PayPal,225.94,May
+344,345,1050,Unknown,33,UK,2023-10-14,Toys,170.12,1,PayPal,170.12,October
+345,346,1062,Unknown,47,UK,2024-10-18,Electronics,292.34,2,Bank Transfer,584.68,October
+346,347,1003,Unknown,41,UK,2024-06-25,Beauty,48.94,3,Bank Transfer,146.82,June
+347,348,1000,Unknown,55,Germany,2024-05-28,Beauty,481.02,4,Bank Transfer,1924.08,May
+349,350,1028,Unknown,67,Australia,2023-05-07,Toys,378.64,4,Credit Card,1514.56,May
+350,351,1054,Female,67,Canada,2023-02-10,Home,89.39,3,PayPal,268.17,February
+351,352,1002,Male,30,Germany,2022-11-14,Books,207.69,3,PayPal,623.0699999999999,November
+352,353,1031,Male,64,France,2024-11-06,Electronics,214.23,4,PayPal,856.92,November
+353,354,1009,Unknown,52,Germany,2023-05-04,Beauty,411.79,3,Credit Card,1235.3700000000001,May
+354,355,1073,Unknown,66,Canada,2023-01-06,Toys,5.61,1,Credit Card,5.61,January
+355,356,1082,Female,68,Canada,2023-02-17,Home,153.92,4,PayPal,615.68,February
+356,357,1033,Male,33,France,2023-09-07,Clothing,490.71,3,Credit Card,1472.1299999999999,September
+357,358,1096,Male,27,USA,2022-07-23,Home,240.07,4,PayPal,960.28,July
+358,359,1086,Unknown,18,Canada,2024-11-09,Home,194.35,1,Bank Transfer,194.35,November
+359,360,1054,Unknown,44,Canada,2024-09-29,Books,64.32,3,Bank Transfer,192.95999999999998,September
+360,361,1091,Female,19,Australia,2023-04-12,Toys,487.21,1,Credit Card,487.21,April
+361,362,1031,Unknown,32,Canada,2023-12-12,Beauty,14.91,3,Bank Transfer,44.730000000000004,December
+362,363,1049,Female,52,Canada,2023-05-07,Beauty,369.9,2,PayPal,739.8,May
+363,364,1006,Male,40,Australia,2022-04-23,Toys,385.46,3,PayPal,1156.3799999999999,April
+364,365,1092,Unknown,58,USA,2022-01-15,Electronics,125.61,4,Credit Card,502.44,January
+365,366,1007,Unknown,42,UK,2023-12-13,Home,337.42,3,PayPal,1012.26,December
+366,367,1064,Unknown,62,UK,2024-08-22,Clothing,51.0,1,Bank Transfer,51.0,August
+367,368,1056,Female,42,Canada,2024-05-24,Books,132.24,1,PayPal,132.24,May
+368,369,1066,Male,18,USA,2022-06-05,Home,395.01,3,Bank Transfer,1185.03,June
+369,370,1087,Male,39,Germany,2022-04-24,Clothing,433.02,4,Credit Card,1732.08,April
+370,371,1086,Male,18,Australia,2024-04-15,Electronics,306.2,2,Credit Card,612.4,April
+371,372,1058,Unknown,66,Australia,2022-11-28,Books,255.89,4,PayPal,1023.56,November
+372,373,1071,Male,60,USA,2024-02-25,Toys,83.86,2,Bank Transfer,167.72,February
+373,374,1053,Male,42,France,2023-02-16,Toys,36.24,1,Credit Card,36.24,February
+374,375,1066,Male,42,Australia,2022-07-25,Home,63.24,4,PayPal,252.96,July
+375,376,1050,Unknown,65,Germany,2023-06-27,Books,117.54,2,PayPal,235.08,June
+376,377,1096,Unknown,64,UK,2022-04-17,Clothing,174.13,3,Bank Transfer,522.39,April
+377,378,1091,Female,37,UK,2023-01-15,Electronics,193.55,1,Bank Transfer,193.55,January
+378,379,1007,Female,24,USA,2023-07-29,Beauty,176.43,3,Credit Card,529.29,July
+379,380,1033,Female,31,UK,2023-03-19,Beauty,123.33,1,Bank Transfer,123.33,March
+380,381,1034,Female,51,USA,2022-09-03,Electronics,257.31,4,Bank Transfer,1029.24,September
+381,382,1095,Male,33,Australia,2023-11-12,Toys,413.52,4,Bank Transfer,1654.08,November
+382,383,1087,Female,44,USA,2024-04-23,Toys,143.45,1,Bank Transfer,143.45,April
+383,384,1077,Female,49,Australia,2024-12-28,Electronics,471.48,1,Credit Card,471.48,December
+384,385,1031,Female,21,USA,2023-04-15,Toys,437.3,1,Credit Card,437.3,April
+385,386,1045,Unknown,27,USA,2024-08-08,Electronics,85.07,4,Credit Card,340.28,August
+386,387,1015,Male,63,Australia,2024-10-12,Home,394.21,2,PayPal,788.42,October
+387,388,1067,Unknown,35,USA,2024-04-01,Beauty,289.42,3,PayPal,868.26,April
+388,389,1036,Male,23,France,2022-01-13,Clothing,285.45,3,PayPal,856.3499999999999,January
+389,390,1053,Female,20,France,2024-11-03,Beauty,198.57,4,Bank Transfer,794.28,November
+390,391,1084,Unknown,32,France,2024-05-11,Books,253.07,3,Bank Transfer,759.21,May
+391,392,1013,Male,42,USA,2023-04-11,Home,201.6,1,Credit Card,201.6,April
+392,393,1094,Unknown,51,UK,2024-10-27,Books,272.17,2,Credit Card,544.34,October
+393,394,1054,Unknown,44,Germany,2022-06-10,Electronics,315.84,3,Bank Transfer,947.52,June
+394,395,1047,Male,62,France,2022-07-28,Clothing,338.78,2,PayPal,677.56,July
+395,396,1081,Male,41,Australia,2023-02-15,Home,268.58,1,PayPal,268.58,February
+396,397,1006,Female,47,Canada,2022-06-29,Beauty,362.1,3,PayPal,1086.3000000000002,June
+397,398,1073,Female,65,Canada,2022-06-16,Toys,74.93,4,PayPal,299.72,June
+398,399,1006,Female,23,Australia,2024-05-09,Books,109.93,2,Credit Card,219.86,May
+399,400,1032,Unknown,55,Australia,2022-08-30,Books,410.27,1,PayPal,410.27,August
+400,401,1022,Female,24,Australia,2023-02-28,Toys,164.65,2,PayPal,329.3,February
+401,402,1084,Male,50,USA,2023-03-14,Home,16.33,3,Bank Transfer,48.989999999999995,March
+402,403,1018,Unknown,26,Germany,2024-07-28,Toys,81.13,3,Bank Transfer,243.39,July
+403,404,1018,Male,58,France,2022-11-24,Books,115.69,4,Credit Card,462.76,November
+404,405,1035,Unknown,42,Australia,2023-06-17,Toys,478.87,1,PayPal,478.87,June
+405,406,1028,Male,43,USA,2022-11-13,Books,288.66,1,Credit Card,288.66,November
+406,407,1059,Male,22,Australia,2024-12-03,Beauty,466.7,4,PayPal,1866.8,December
+407,408,1081,Female,55,UK,2024-09-12,Home,289.71,4,Bank Transfer,1158.84,September
+408,409,1001,Female,54,Germany,2023-02-15,Clothing,242.28,1,PayPal,242.28,February
+409,410,1000,Unknown,21,UK,2024-02-25,Home,160.3,2,Bank Transfer,320.6,February
+410,411,1046,Female,45,UK,2024-01-29,Toys,305.15,2,Credit Card,610.3,January
+411,412,1068,Unknown,60,Australia,2023-01-26,Toys,73.9,4,PayPal,295.6,January
+412,413,1019,Male,26,Canada,2022-03-20,Home,449.64,2,Credit Card,899.28,March
+413,414,1010,Unknown,33,France,2022-05-24,Clothing,415.52,1,Credit Card,415.52,May
+414,415,1001,Male,36,USA,2024-09-12,Books,162.18,3,Credit Card,486.54,September
+415,416,1066,Male,34,UK,2023-10-21,Toys,476.63,3,Bank Transfer,1429.8899999999999,October
+416,417,1086,Male,42,Australia,2023-03-06,Toys,413.47,2,PayPal,826.94,March
+417,418,1011,Unknown,38,UK,2022-03-10,Home,334.82,4,Credit Card,1339.28,March
+418,419,1019,Unknown,69,USA,2022-01-06,Books,65.27,4,Bank Transfer,261.08,January
+419,420,1004,Female,43,Germany,2023-06-03,Books,241.73,4,Credit Card,966.92,June
+420,421,1036,Female,62,USA,2022-07-23,Toys,255.52,4,Credit Card,1022.08,July
+421,422,1037,Male,42,USA,2024-09-16,Books,120.11,4,Bank Transfer,480.44,September
+422,423,1093,Male,65,France,2023-02-11,Beauty,44.58,2,Credit Card,89.16,February
+423,424,1008,Unknown,38,Canada,2022-09-09,Home,389.48,3,Credit Card,1168.44,September
+424,425,1097,Female,38,UK,2023-11-18,Beauty,65.41,3,Bank Transfer,196.23,November
+425,426,1052,Unknown,46,Canada,2024-05-07,Clothing,299.17,2,Credit Card,598.34,May
+426,427,1043,Unknown,35,Germany,2023-10-27,Beauty,468.54,4,PayPal,1874.16,October
+427,428,1098,Unknown,32,UK,2024-05-21,Electronics,438.67,2,Credit Card,877.34,May
+428,429,1085,Male,22,Canada,2022-01-16,Beauty,142.49,3,PayPal,427.47,January
+429,430,1023,Male,30,Germany,2022-06-23,Clothing,426.47,1,Bank Transfer,426.47,June
+430,431,1080,Female,26,Australia,2022-04-27,Home,5.16,2,Credit Card,10.32,April
+431,432,1073,Male,67,France,2024-12-09,Beauty,13.76,4,PayPal,55.04,December
+432,433,1029,Male,67,Germany,2022-08-20,Clothing,303.26,3,PayPal,909.78,August
+433,434,1058,Unknown,55,Canada,2024-04-27,Electronics,185.58,3,PayPal,556.74,April
+434,435,1086,Male,24,USA,2022-02-25,Clothing,196.3,3,Credit Card,588.9000000000001,February
+435,436,1095,Unknown,27,UK,2023-07-28,Toys,284.4,3,PayPal,853.1999999999999,July
+436,437,1080,Female,24,France,2024-06-23,Home,99.93,4,Credit Card,399.72,June
+437,438,1080,Male,28,Canada,2024-05-08,Books,109.82,1,Bank Transfer,109.82,May
+438,439,1013,Female,46,Australia,2022-08-19,Toys,244.88,3,Bank Transfer,734.64,August
+439,440,1008,Male,47,France,2023-10-30,Toys,378.36,2,Credit Card,756.72,October
+440,441,1039,Unknown,38,Germany,2022-07-17,Beauty,311.65,1,Credit Card,311.65,July
+441,442,1065,Male,44,Canada,2022-03-06,Beauty,152.19,3,Bank Transfer,456.57,March
+442,443,1024,Unknown,25,USA,2023-04-24,Beauty,218.02,1,Bank Transfer,218.02,April
+443,444,1072,Female,52,USA,2023-07-21,Electronics,89.48,2,PayPal,178.96,July
+444,445,1021,Unknown,40,Australia,2022-03-03,Clothing,41.94,3,Bank Transfer,125.82,March
+445,446,1003,Unknown,67,USA,2023-07-10,Home,392.43,2,PayPal,784.86,July
+446,447,1025,Female,31,USA,2022-11-23,Beauty,136.37,4,Bank Transfer,545.48,November
+447,448,1057,Female,46,UK,2024-11-25,Electronics,92.99,3,Bank Transfer,278.96999999999997,November
+448,449,1028,Unknown,37,Australia,2023-01-23,Electronics,347.35,3,Credit Card,1042.0500000000002,January
+449,450,1097,Male,47,France,2024-11-02,Clothing,310.94,3,Bank Transfer,932.8199999999999,November
+450,451,1086,Unknown,34,Canada,2022-06-09,Home,318.43,3,Bank Transfer,955.29,June
+451,452,1036,Unknown,42,USA,2023-07-04,Toys,118.3,4,Bank Transfer,473.2,July
+452,453,1074,Male,25,UK,2024-05-19,Home,120.16,3,Credit Card,360.48,May
+453,454,1069,Unknown,23,USA,2023-09-24,Electronics,114.3,1,PayPal,114.3,September
+455,456,1084,Female,69,Australia,2022-08-29,Books,329.58,4,Bank Transfer,1318.32,August
+456,457,1041,Male,61,USA,2023-01-03,Clothing,424.77,3,Bank Transfer,1274.31,January
+457,458,1099,Male,37,Germany,2022-09-10,Books,363.54,1,Credit Card,363.54,September
+458,459,1040,Female,42,Australia,2022-10-03,Electronics,397.09,4,PayPal,1588.36,October
+459,460,1037,Male,63,Canada,2023-10-03,Toys,205.38,4,Credit Card,821.52,October
+460,461,1033,Male,62,France,2022-02-08,Electronics,328.77,1,Credit Card,328.77,February
+461,462,1016,Female,56,Germany,2022-10-06,Beauty,180.35,1,PayPal,180.35,October
+462,463,1036,Unknown,20,Germany,2023-06-01,Home,265.12,1,Credit Card,265.12,June
+463,464,1024,Unknown,31,France,2023-10-02,Home,243.41,1,Bank Transfer,243.41,October
+464,465,1075,Unknown,42,USA,2024-11-06,Toys,92.56,1,Bank Transfer,92.56,November
+465,466,1086,Female,42,USA,2023-01-21,Beauty,196.6,4,PayPal,786.4,January
+466,467,1085,Female,38,Canada,2023-02-19,Toys,482.09,4,Credit Card,1928.36,February
+467,468,1084,Male,27,USA,2022-09-05,Books,128.05,3,PayPal,384.15000000000003,September
+468,469,1026,Unknown,23,Germany,2024-12-25,Beauty,71.23,3,Bank Transfer,213.69,December
+469,470,1056,Female,63,Germany,2022-06-17,Toys,212.2,2,Credit Card,424.4,June
+470,471,1030,Female,33,Australia,2023-08-18,Electronics,396.22,3,Credit Card,1188.66,August
+471,472,1005,Female,40,Germany,2022-03-02,Clothing,293.16,3,PayPal,879.48,March
+472,473,1090,Male,43,France,2024-01-02,Beauty,342.08,1,Bank Transfer,342.08,January
+473,474,1039,Female,50,Australia,2022-12-12,Home,98.9,1,PayPal,98.9,December
+474,475,1097,Unknown,21,USA,2022-11-07,Home,311.38,3,Bank Transfer,934.14,November
+475,476,1011,Female,61,USA,2023-12-17,Electronics,165.13,2,Bank Transfer,330.26,December
+476,477,1052,Female,37,USA,2023-06-28,Clothing,417.98,1,PayPal,417.98,June
+477,478,1070,Male,34,USA,2023-04-20,Beauty,316.5,3,Credit Card,949.5,April
+478,479,1009,Unknown,42,Canada,2022-12-20,Toys,103.43,3,Credit Card,310.29,December
+479,480,1044,Unknown,29,Australia,2022-12-13,Books,36.99,4,PayPal,147.96,December
+480,481,1016,Unknown,19,Australia,2022-02-06,Clothing,26.1,2,Bank Transfer,52.2,February
+481,482,1025,Female,43,Canada,2024-10-22,Electronics,188.85,4,PayPal,755.4,October
+482,483,1084,Male,42,Germany,2022-10-28,Toys,136.6,2,Credit Card,273.2,October
+483,484,1091,Unknown,46,Germany,2023-09-11,Toys,324.81,1,PayPal,324.81,September
+484,485,1061,Female,53,France,2023-05-25,Toys,252.17,2,Bank Transfer,504.34,May
+485,486,1045,Male,65,UK,2023-03-09,Beauty,136.68,3,Bank Transfer,410.04,March
+486,487,1063,Unknown,53,Germany,2022-04-18,Clothing,78.87,3,Credit Card,236.61,April
+487,488,1001,Male,33,Australia,2023-03-10,Toys,67.96,2,PayPal,135.92,March
+488,489,1053,Male,24,USA,2023-06-30,Clothing,433.01,2,PayPal,866.02,June
+489,490,1064,Female,47,Germany,2024-09-23,Beauty,125.52,2,Bank Transfer,251.04,September
+490,491,1050,Male,24,Germany,2024-03-02,Electronics,327.6,4,Bank Transfer,1310.4,March
+491,492,1052,Female,69,Canada,2023-09-13,Books,406.29,2,Credit Card,812.58,September
+492,493,1035,Unknown,68,USA,2024-11-21,Clothing,308.97,1,Credit Card,308.97,November
+493,494,1025,Unknown,26,France,2024-04-12,Beauty,430.48,4,Credit Card,1721.92,April
+496,497,1010,Female,21,Germany,2022-06-29,Electronics,70.91,1,Bank Transfer,70.91,June
+497,498,1039,Female,42,France,2023-02-10,Books,55.56,4,Bank Transfer,222.24,February
+498,499,1010,Female,67,Australia,2022-10-05,Home,331.05,3,Credit Card,993.1500000000001,October
+499,500,1035,Male,32,France,2024-06-20,Books,471.7,4,Credit Card,1886.8,June
+500,501,1058,Male,26,France,2023-02-17,Beauty,405.4,2,Credit Card,810.8,February
+501,502,1038,Male,30,Australia,2022-03-01,Home,42.83,1,Bank Transfer,42.83,March
+502,503,1098,Female,42,Canada,2022-06-18,Home,143.29,2,PayPal,286.58,June
+503,504,1053,Female,43,USA,2024-07-15,Toys,465.51,3,PayPal,1396.53,July
+504,505,1097,Female,41,Canada,2023-11-07,Clothing,130.26,3,PayPal,390.78,November
+505,506,1054,Female,61,Australia,2023-06-22,Toys,391.68,3,PayPal,1175.04,June
+506,507,1023,Male,58,Australia,2023-05-03,Electronics,413.44,2,Bank Transfer,826.88,May
+507,508,1021,Male,59,USA,2023-11-09,Beauty,250.25,4,Credit Card,1001.0,November
+508,509,1068,Male,23,Canada,2024-07-30,Beauty,196.24,2,Credit Card,392.48,July
+509,510,1055,Male,55,USA,2024-03-05,Electronics,227.81,1,PayPal,227.81,March
+510,511,1032,Female,55,France,2022-06-29,Electronics,117.35,4,Bank Transfer,469.4,June
+511,512,1035,Female,34,UK,2023-08-22,Toys,445.25,3,PayPal,1335.75,August
+513,514,1082,Unknown,22,UK,2022-10-23,Beauty,441.82,3,Bank Transfer,1325.46,October
+514,515,1098,Unknown,19,Australia,2023-01-31,Toys,57.32,3,PayPal,171.96,January
+515,516,1080,Female,22,France,2022-03-10,Toys,494.2,1,Credit Card,494.2,March
+516,517,1061,Male,30,Canada,2023-11-09,Books,224.42,4,Bank Transfer,897.68,November
+517,518,1097,Male,59,UK,2022-01-03,Books,28.68,1,PayPal,28.68,January
+519,520,1025,Female,69,Germany,2024-04-16,Clothing,374.37,1,Bank Transfer,374.37,April
+520,521,1065,Unknown,26,UK,2024-12-02,Toys,331.22,3,PayPal,993.6600000000001,December
+521,522,1072,Male,23,USA,2024-11-07,Clothing,402.05,1,PayPal,402.05,November
+522,523,1072,Unknown,42,Australia,2022-11-03,Home,57.16,1,Credit Card,57.16,November
+523,524,1039,Unknown,42,Australia,2023-07-20,Home,22.61,4,Bank Transfer,90.44,July
+524,525,1016,Female,69,Canada,2023-11-01,Toys,256.75,4,PayPal,1027.0,November
+525,526,1000,Female,39,France,2022-04-19,Electronics,196.86,1,Credit Card,196.86,April
+526,527,1088,Male,25,France,2024-10-28,Books,233.66,4,Credit Card,934.64,October
+527,528,1060,Female,20,USA,2023-05-28,Clothing,495.84,4,PayPal,1983.36,May
+528,529,1042,Female,47,France,2024-08-26,Home,485.52,1,PayPal,485.52,August
+529,530,1041,Female,21,France,2023-05-03,Toys,471.45,3,Bank Transfer,1414.35,May
+530,531,1024,Male,28,USA,2024-10-27,Electronics,393.0,1,Credit Card,393.0,October
+531,532,1038,Unknown,54,USA,2022-07-13,Toys,180.65,4,Credit Card,722.6,July
+532,533,1034,Unknown,45,Germany,2023-04-12,Electronics,209.0,3,Bank Transfer,627.0,April
+533,534,1002,Male,42,Australia,2024-02-27,Toys,277.06,2,PayPal,554.12,February
+534,535,1043,Unknown,64,Germany,2023-04-26,Books,416.11,3,Bank Transfer,1248.33,April
+535,536,1050,Unknown,43,USA,2024-11-01,Books,39.01,4,Bank Transfer,156.04,November
+537,538,1097,Unknown,19,Australia,2023-05-22,Toys,45.9,1,Bank Transfer,45.9,May
+538,539,1011,Female,42,UK,2023-09-18,Books,259.76,2,Bank Transfer,519.52,September
+539,540,1018,Male,61,Australia,2024-12-19,Toys,449.96,2,Credit Card,899.92,December
+540,541,1043,Male,45,UK,2023-04-05,Toys,392.33,2,PayPal,784.66,April
+541,542,1058,Female,29,Australia,2024-05-11,Books,117.78,4,Credit Card,471.12,May
+542,543,1048,Female,40,UK,2022-07-17,Beauty,488.12,4,Bank Transfer,1952.48,July
+543,544,1060,Female,31,Canada,2022-10-26,Home,335.34,2,Credit Card,670.68,October
+544,545,1016,Female,29,Australia,2023-10-16,Home,10.16,3,PayPal,30.48,October
+545,546,1073,Male,35,Germany,2024-10-29,Toys,131.43,2,PayPal,262.86,October
+546,547,1056,Male,35,UK,2023-08-12,Home,134.05,3,Bank Transfer,402.15000000000003,August
+547,548,1054,Male,46,UK,2024-11-18,Clothing,39.28,3,PayPal,117.84,November
+548,549,1046,Female,42,Australia,2022-09-28,Books,480.11,4,PayPal,1920.44,September
+549,550,1011,Female,27,Australia,2024-08-14,Home,241.74,3,Bank Transfer,725.22,August
+550,551,1061,Female,20,UK,2024-06-03,Beauty,448.43,2,Credit Card,896.86,June
+551,552,1079,Female,57,USA,2023-04-13,Home,164.5,4,Credit Card,658.0,April
+552,553,1087,Female,57,France,2023-09-23,Toys,66.99,1,Bank Transfer,66.99,September
+553,554,1082,Male,57,Australia,2024-05-01,Electronics,239.8,1,Credit Card,239.8,May
+554,555,1007,Female,33,Australia,2022-01-01,Home,61.41,4,Bank Transfer,245.64,January
+555,556,1094,Female,59,Canada,2023-04-18,Electronics,245.58,2,Bank Transfer,491.16,April
+556,557,1020,Male,36,France,2023-03-22,Books,460.55,1,Bank Transfer,460.55,March
+557,558,1080,Unknown,49,Germany,2022-11-23,Electronics,262.78,1,Credit Card,262.78,November
+558,559,1086,Unknown,44,Australia,2023-10-30,Home,310.17,3,Credit Card,930.51,October
+559,560,1079,Female,42,Australia,2024-06-19,Beauty,82.54,3,PayPal,247.62,June
+560,561,1069,Unknown,53,Australia,2024-07-31,Clothing,26.65,2,Bank Transfer,53.3,July
+561,562,1071,Unknown,48,France,2024-10-14,Beauty,59.85,4,Bank Transfer,239.4,October
+562,563,1024,Male,21,Canada,2023-05-16,Beauty,301.27,2,Bank Transfer,602.54,May
+563,564,1081,Female,23,UK,2023-12-24,Clothing,52.03,4,Credit Card,208.12,December
+564,565,1088,Male,35,UK,2023-11-18,Books,191.12,1,PayPal,191.12,November
+565,566,1011,Male,42,USA,2023-11-18,Home,277.3,3,Credit Card,831.9000000000001,November
+566,567,1014,Female,26,USA,2024-11-15,Books,197.38,2,Bank Transfer,394.76,November
+567,568,1058,Male,44,Australia,2022-11-28,Toys,86.02,2,Bank Transfer,172.04,November
+568,569,1025,Female,30,Canada,2024-03-05,Toys,140.53,4,Credit Card,562.12,March
+569,570,1025,Female,59,UK,2024-01-06,Electronics,464.52,4,PayPal,1858.08,January
+570,571,1046,Unknown,42,France,2022-09-21,Beauty,339.61,2,Credit Card,679.22,September
+571,572,1031,Female,69,France,2024-10-20,Books,250.54,4,Bank Transfer,1002.16,October
+572,573,1009,Female,51,Canada,2022-05-12,Clothing,11.29,2,Bank Transfer,22.58,May
+573,574,1015,Female,33,USA,2023-03-17,Books,496.25,2,Bank Transfer,992.5,March
+574,575,1070,Female,58,France,2024-03-11,Electronics,337.37,2,Credit Card,674.74,March
+575,576,1016,Female,69,Germany,2024-10-28,Home,161.88,1,Credit Card,161.88,October
+576,577,1022,Unknown,52,Canada,2024-09-10,Beauty,440.24,4,PayPal,1760.96,September
+577,578,1025,Unknown,68,Germany,2024-08-19,Beauty,132.92,3,Credit Card,398.76,August
+578,579,1084,Male,19,Germany,2023-06-05,Books,274.29,3,Bank Transfer,822.8700000000001,June
+579,580,1085,Female,42,USA,2022-05-26,Electronics,319.86,4,Credit Card,1279.44,May
+580,581,1006,Female,68,UK,2022-12-31,Toys,114.43,2,PayPal,228.86,December
+581,582,1013,Unknown,63,Canada,2024-11-11,Clothing,489.31,3,PayPal,1467.93,November
+582,583,1078,Unknown,40,UK,2023-04-28,Home,375.35,3,PayPal,1126.0500000000002,April
+583,584,1006,Male,48,Australia,2022-12-15,Books,281.12,4,PayPal,1124.48,December
+584,585,1008,Female,52,France,2022-11-06,Books,94.39,3,PayPal,283.17,November
+585,586,1047,Female,68,France,2022-08-17,Clothing,31.66,2,Bank Transfer,63.32,August
+586,587,1071,Male,49,Canada,2022-02-07,Toys,163.43,4,Bank Transfer,653.72,February
+587,588,1058,Female,40,USA,2022-03-13,Books,377.83,2,Bank Transfer,755.66,March
+588,589,1086,Female,54,France,2023-01-16,Clothing,138.32,3,PayPal,414.96,January
+589,590,1092,Female,50,France,2024-01-09,Beauty,272.08,3,Credit Card,816.24,January
+590,591,1081,Unknown,38,UK,2024-08-07,Beauty,365.33,2,Credit Card,730.66,August
+591,592,1094,Unknown,42,France,2022-04-24,Clothing,58.43,1,Credit Card,58.43,April
+592,593,1093,Unknown,35,USA,2023-12-09,Home,344.22,3,Credit Card,1032.66,December
+593,594,1038,Female,29,France,2023-10-06,Beauty,50.48,1,Credit Card,50.48,October
+594,595,1098,Unknown,19,France,2024-09-05,Clothing,482.74,3,Credit Card,1448.22,September
+595,596,1017,Male,38,Germany,2024-06-13,Clothing,246.76,1,Bank Transfer,246.76,June
+596,597,1058,Female,56,USA,2022-10-30,Beauty,79.58,1,Bank Transfer,79.58,October
+597,598,1016,Female,32,France,2024-12-17,Clothing,174.48,1,PayPal,174.48,December
+598,599,1013,Female,19,Australia,2023-08-20,Books,209.64,2,Bank Transfer,419.28,August
+599,600,1030,Female,69,Australia,2024-02-07,Clothing,380.3,1,Bank Transfer,380.3,February
+600,601,1023,Female,67,USA,2023-09-13,Clothing,372.99,1,Bank Transfer,372.99,September
+601,602,1098,Male,35,USA,2023-01-15,Clothing,307.91,1,Credit Card,307.91,January
+602,603,1059,Unknown,21,France,2022-08-18,Clothing,57.44,3,Bank Transfer,172.32,August
+603,604,1044,Male,69,France,2024-10-16,Toys,80.03,1,Credit Card,80.03,October
+604,605,1097,Unknown,48,USA,2024-12-04,Books,51.41,3,Credit Card,154.23,December
+605,606,1002,Unknown,51,UK,2022-01-09,Clothing,290.7,1,Bank Transfer,290.7,January
+606,607,1036,Male,40,UK,2022-06-15,Electronics,439.18,1,Credit Card,439.18,June
+607,608,1042,Unknown,67,USA,2023-10-23,Electronics,219.73,2,PayPal,439.46,October
+608,609,1039,Unknown,55,USA,2022-12-06,Electronics,84.62,3,Credit Card,253.86,December
+609,610,1089,Male,32,UK,2022-10-01,Beauty,281.23,1,Bank Transfer,281.23,October
+610,611,1054,Unknown,28,UK,2024-12-17,Beauty,406.82,3,PayPal,1220.46,December
+611,612,1086,Female,24,Australia,2024-03-15,Home,372.15,3,Credit Card,1116.4499999999998,March
+612,613,1038,Unknown,33,Germany,2023-12-23,Toys,441.32,4,Bank Transfer,1765.28,December
+613,614,1014,Male,60,UK,2022-03-20,Electronics,142.56,2,Bank Transfer,285.12,March
+614,615,1003,Female,33,UK,2024-05-15,Toys,101.01,2,PayPal,202.02,May
+615,616,1092,Female,35,Canada,2023-01-23,Electronics,440.51,2,Bank Transfer,881.02,January
+616,617,1085,Unknown,52,Australia,2022-07-08,Home,330.49,4,Bank Transfer,1321.96,July
+617,618,1024,Male,42,Australia,2023-12-11,Books,158.91,4,PayPal,635.64,December
+618,619,1012,Female,68,France,2022-07-27,Toys,372.46,2,Credit Card,744.92,July
+619,620,1081,Unknown,65,Germany,2023-12-23,Books,408.48,4,PayPal,1633.92,December
+620,621,1032,Female,21,Germany,2024-11-03,Home,309.41,4,PayPal,1237.64,November
+621,622,1015,Male,66,USA,2024-04-05,Toys,345.5,4,PayPal,1382.0,April
+622,623,1041,Unknown,32,Canada,2024-05-18,Books,190.75,2,Credit Card,381.5,May
+623,624,1065,Female,54,France,2024-07-14,Home,271.65,2,Credit Card,543.3,July
+624,625,1054,Male,42,Germany,2023-05-08,Clothing,264.46,2,Credit Card,528.92,May
+625,626,1098,Female,69,UK,2023-11-19,Toys,424.78,4,Credit Card,1699.12,November
+626,627,1041,Unknown,42,UK,2024-08-09,Books,420.78,2,Credit Card,841.56,August
+627,628,1033,Male,40,UK,2024-02-24,Home,417.18,4,PayPal,1668.72,February
+628,629,1029,Unknown,42,France,2023-10-25,Clothing,10.46,1,Credit Card,10.46,October
+629,630,1012,Female,42,Australia,2024-05-01,Toys,376.03,4,PayPal,1504.12,May
+630,631,1012,Female,29,Australia,2023-11-24,Clothing,380.54,3,PayPal,1141.6200000000001,November
+631,632,1017,Male,29,Germany,2022-09-05,Electronics,340.8,2,Credit Card,681.6,September
+632,633,1031,Female,33,Australia,2024-01-08,Toys,379.35,2,Bank Transfer,758.7,January
+633,634,1095,Unknown,55,France,2023-12-01,Home,421.78,3,Bank Transfer,1265.34,December
+634,635,1098,Female,38,USA,2023-02-07,Home,237.81,4,Credit Card,951.24,February
+635,636,1038,Unknown,69,USA,2023-01-20,Toys,253.51,1,Credit Card,253.51,January
+636,637,1045,Female,65,Australia,2024-09-17,Electronics,66.73,3,Credit Card,200.19,September
+637,638,1028,Unknown,62,Canada,2023-03-07,Toys,195.76,3,Credit Card,587.28,March
+638,639,1061,Unknown,40,USA,2024-03-20,Books,323.47,4,PayPal,1293.88,March
+639,640,1092,Unknown,55,Germany,2024-01-23,Home,391.3,2,Bank Transfer,782.6,January
+640,641,1061,Female,19,Germany,2024-08-31,Beauty,112.52,4,PayPal,450.08,August
+641,642,1056,Unknown,63,Australia,2023-01-07,Clothing,73.22,3,Bank Transfer,219.66,January
+642,643,1015,Male,62,Germany,2023-03-03,Home,333.21,3,PayPal,999.6299999999999,March
+643,644,1055,Female,40,UK,2023-11-15,Electronics,5.93,2,PayPal,11.86,November
+644,645,1009,Unknown,54,UK,2022-05-01,Beauty,93.29,2,Credit Card,186.58,May
+645,646,1029,Unknown,54,Germany,2023-03-20,Toys,19.39,2,PayPal,38.78,March
+646,647,1024,Unknown,27,Australia,2022-12-31,Home,87.61,4,PayPal,350.44,December
+647,648,1083,Unknown,54,USA,2023-02-27,Books,94.75,2,Credit Card,189.5,February
+648,649,1004,Male,30,USA,2023-06-06,Beauty,196.9,3,Bank Transfer,590.7,June
+649,650,1064,Male,42,Canada,2023-05-12,Electronics,204.15,3,Bank Transfer,612.45,May
+650,651,1093,Male,69,France,2024-04-19,Electronics,437.76,1,PayPal,437.76,April
+651,652,1048,Unknown,42,Canada,2022-05-06,Beauty,257.5,4,Bank Transfer,1030.0,May
+652,653,1002,Unknown,49,Australia,2022-08-03,Clothing,363.09,1,PayPal,363.09,August
+653,654,1044,Female,52,Australia,2022-08-23,Home,56.55,3,PayPal,169.64999999999998,August
+654,655,1013,Male,37,Australia,2022-12-26,Toys,116.59,1,Bank Transfer,116.59,December
+655,656,1029,Unknown,29,France,2023-08-19,Electronics,352.96,3,Bank Transfer,1058.8799999999999,August
+656,657,1067,Unknown,49,USA,2024-12-14,Books,31.14,1,Bank Transfer,31.14,December
+657,658,1017,Male,20,Germany,2022-08-26,Books,245.87,2,Bank Transfer,491.74,August
+658,659,1061,Unknown,23,UK,2022-11-29,Toys,301.69,1,Bank Transfer,301.69,November
+659,660,1036,Unknown,21,Canada,2022-04-10,Books,303.06,2,Bank Transfer,606.12,April
+660,661,1024,Unknown,32,Canada,2023-10-07,Clothing,16.35,2,Bank Transfer,32.7,October
+661,662,1047,Unknown,56,USA,2023-09-26,Toys,164.44,4,Bank Transfer,657.76,September
+662,663,1064,Female,32,France,2023-05-30,Books,320.06,2,Credit Card,640.12,May
+663,664,1052,Female,19,Canada,2024-04-22,Clothing,78.75,2,Bank Transfer,157.5,April
+664,665,1078,Female,51,France,2023-12-25,Books,349.23,1,Credit Card,349.23,December
+665,666,1072,Male,48,Canada,2023-10-08,Home,374.23,3,PayPal,1122.69,October
+666,667,1014,Male,18,Australia,2022-04-07,Toys,491.07,4,PayPal,1964.28,April
+667,668,1048,Male,39,Germany,2022-11-18,Books,108.87,2,Credit Card,217.74,November
+668,669,1087,Female,57,USA,2023-10-15,Books,413.44,4,Credit Card,1653.76,October
+669,670,1067,Male,30,France,2023-08-29,Clothing,262.55,1,Bank Transfer,262.55,August
+670,671,1011,Unknown,69,USA,2024-06-26,Home,189.86,2,Bank Transfer,379.72,June
+671,672,1058,Unknown,26,Australia,2024-12-16,Home,65.58,1,PayPal,65.58,December
+672,673,1036,Unknown,39,Australia,2022-01-31,Clothing,369.08,4,Bank Transfer,1476.32,January
+673,674,1060,Unknown,63,UK,2024-06-13,Home,121.75,1,Credit Card,121.75,June
+674,675,1042,Unknown,29,USA,2023-08-14,Beauty,188.85,4,Bank Transfer,755.4,August
+675,676,1069,Unknown,69,France,2024-01-11,Books,35.96,1,PayPal,35.96,January
+676,677,1038,Unknown,42,France,2022-01-10,Books,401.68,4,Bank Transfer,1606.72,January
+677,678,1055,Male,42,Australia,2023-07-01,Home,384.46,3,Bank Transfer,1153.3799999999999,July
+678,679,1062,Female,38,UK,2023-04-09,Books,368.14,1,Credit Card,368.14,April
+679,680,1045,Female,21,UK,2023-08-29,Home,153.22,1,Credit Card,153.22,August
+680,681,1087,Female,19,Canada,2023-10-13,Clothing,90.87,3,PayPal,272.61,October
+681,682,1010,Female,27,France,2024-04-16,Toys,320.59,3,PayPal,961.77,April
+682,683,1061,Unknown,55,USA,2024-04-28,Clothing,250.6,1,PayPal,250.6,April
+683,684,1076,Unknown,63,UK,2024-07-26,Toys,93.23,3,PayPal,279.69,July
+684,685,1097,Unknown,27,Australia,2022-12-09,Beauty,344.53,2,PayPal,689.06,December
+685,686,1024,Unknown,67,USA,2024-01-29,Clothing,495.61,4,PayPal,1982.44,January
+686,687,1070,Male,25,UK,2022-12-07,Electronics,374.87,4,Credit Card,1499.48,December
+687,688,1051,Female,42,France,2023-02-28,Beauty,371.29,4,PayPal,1485.16,February
+688,689,1003,Male,51,UK,2023-11-09,Books,475.4,2,PayPal,950.8,November
+689,690,1058,Female,42,France,2024-01-25,Clothing,105.45,3,Bank Transfer,316.35,January
+690,691,1071,Male,41,UK,2022-02-15,Toys,284.95,3,Credit Card,854.8499999999999,February
+691,692,1019,Female,22,Canada,2023-08-28,Home,489.93,1,Bank Transfer,489.93,August
+692,693,1092,Female,41,Australia,2023-06-07,Home,86.82,3,Bank Transfer,260.46,June
+693,694,1062,Male,63,UK,2024-11-05,Clothing,351.62,1,Credit Card,351.62,November
+694,695,1053,Male,60,Canada,2024-11-21,Clothing,294.98,2,PayPal,589.96,November
+695,696,1073,Unknown,43,Australia,2023-09-21,Beauty,295.31,4,Bank Transfer,1181.24,September
+696,697,1097,Male,55,Canada,2022-09-14,Clothing,350.35,4,PayPal,1401.4,September
+697,698,1056,Female,24,USA,2023-12-28,Home,465.16,4,Credit Card,1860.64,December
+698,699,1089,Female,39,France,2022-07-18,Electronics,392.38,3,Bank Transfer,1177.1399999999999,July
+699,700,1040,Female,37,Australia,2024-08-24,Clothing,32.79,1,Bank Transfer,32.79,August
+700,701,1002,Female,38,UK,2024-04-09,Home,427.1,1,Credit Card,427.1,April
+701,702,1005,Male,26,UK,2022-02-11,Home,116.64,2,Credit Card,233.28,February
+702,703,1004,Unknown,28,Germany,2023-09-05,Clothing,191.57,3,Bank Transfer,574.71,September
+703,704,1004,Female,64,UK,2024-07-08,Beauty,233.56,2,Bank Transfer,467.12,July
+704,705,1053,Female,45,France,2024-05-26,Toys,243.05,1,Bank Transfer,243.05,May
+705,706,1046,Female,68,France,2024-10-26,Toys,220.41,1,Credit Card,220.41,October
+706,707,1086,Male,58,UK,2022-02-12,Beauty,468.99,4,PayPal,1875.96,February
+707,708,1048,Female,49,Australia,2022-05-11,Books,354.48,3,PayPal,1063.44,May
+708,709,1008,Unknown,59,Canada,2024-09-25,Home,317.43,1,PayPal,317.43,September
+709,710,1098,Unknown,38,Germany,2023-10-28,Books,29.67,4,PayPal,118.68,October
+710,711,1019,Female,29,France,2022-07-30,Books,452.44,3,Credit Card,1357.32,July
+711,712,1060,Female,63,Germany,2023-12-19,Toys,455.15,2,Credit Card,910.3,December
+712,713,1034,Male,53,Germany,2022-10-10,Toys,391.21,3,PayPal,1173.6299999999999,October
+713,714,1049,Female,62,France,2022-03-20,Electronics,8.48,3,Bank Transfer,25.44,March
+714,715,1081,Male,42,Canada,2023-02-09,Home,33.35,1,Bank Transfer,33.35,February
+715,716,1061,Unknown,57,Canada,2023-08-12,Electronics,116.49,1,Credit Card,116.49,August
+716,717,1016,Male,68,France,2023-05-24,Beauty,70.02,3,PayPal,210.06,May
+717,718,1087,Male,40,UK,2022-11-25,Clothing,202.42,1,Credit Card,202.42,November
+718,719,1002,Female,32,Australia,2023-12-08,Electronics,461.7,1,PayPal,461.7,December
+719,720,1031,Unknown,60,Australia,2023-05-23,Clothing,238.67,1,PayPal,238.67,May
+720,721,1098,Male,55,UK,2023-06-09,Books,11.63,4,Bank Transfer,46.52,June
+721,722,1012,Unknown,42,Germany,2023-08-12,Home,144.96,4,Bank Transfer,579.84,August
+722,723,1088,Male,29,Australia,2023-03-09,Beauty,27.07,3,Bank Transfer,81.21000000000001,March
+723,724,1072,Unknown,42,UK,2023-10-17,Electronics,22.96,1,Credit Card,22.96,October
+724,725,1067,Male,37,Germany,2023-01-27,Home,141.48,4,Bank Transfer,565.92,January
+725,726,1013,Unknown,64,Australia,2022-05-08,Beauty,141.43,3,Bank Transfer,424.29,May
+726,727,1097,Male,62,Australia,2024-01-01,Books,394.63,1,Credit Card,394.63,January
+727,728,1010,Unknown,36,UK,2022-01-31,Books,487.54,2,Credit Card,975.08,January
+728,729,1055,Male,26,Australia,2024-04-17,Books,188.75,1,Credit Card,188.75,April
+729,730,1066,Female,29,Canada,2022-03-22,Books,217.3,1,Bank Transfer,217.3,March
+730,731,1091,Unknown,64,Canada,2023-06-28,Toys,423.17,4,PayPal,1692.68,June
+731,732,1028,Female,18,Canada,2022-12-15,Toys,137.73,3,Bank Transfer,413.18999999999994,December
+732,733,1008,Female,62,UK,2024-10-06,Books,82.41,3,PayPal,247.23,October
+733,734,1066,Male,54,Australia,2022-04-17,Books,427.28,4,Credit Card,1709.12,April
+734,735,1024,Female,43,Germany,2024-10-09,Electronics,28.02,1,Bank Transfer,28.02,October
+735,736,1097,Unknown,42,Australia,2022-03-04,Home,311.75,2,Bank Transfer,623.5,March
+736,737,1075,Male,67,Germany,2022-02-18,Electronics,283.19,1,PayPal,283.19,February
+737,738,1041,Male,54,Australia,2023-01-20,Books,176.23,1,Bank Transfer,176.23,January
+738,739,1008,Unknown,20,Canada,2022-11-06,Beauty,161.02,2,Bank Transfer,322.04,November
+739,740,1078,Unknown,29,Australia,2022-02-01,Toys,387.07,4,Bank Transfer,1548.28,February
+740,741,1039,Female,56,Australia,2024-08-23,Clothing,47.78,3,Credit Card,143.34,August
+741,742,1024,Female,38,Canada,2022-08-25,Toys,122.21,4,PayPal,488.84,August
+742,743,1004,Male,69,UK,2023-01-06,Toys,367.56,4,Bank Transfer,1470.24,January
+743,744,1010,Unknown,57,UK,2022-07-16,Beauty,276.42,1,PayPal,276.42,July
+744,745,1058,Unknown,32,Australia,2024-01-06,Beauty,68.35,3,Credit Card,205.04999999999998,January
+745,746,1097,Male,58,Australia,2024-11-05,Toys,441.66,3,Credit Card,1324.98,November
+746,747,1087,Female,54,Germany,2022-06-27,Clothing,199.76,4,PayPal,799.04,June
+747,748,1078,Unknown,24,Australia,2024-05-26,Books,414.79,2,Bank Transfer,829.58,May
+748,749,1037,Female,49,USA,2022-12-05,Books,394.92,4,Bank Transfer,1579.68,December
+749,750,1071,Female,27,Germany,2023-12-24,Books,314.09,2,Credit Card,628.18,December
+751,752,1047,Unknown,65,France,2023-02-03,Toys,489.88,4,Credit Card,1959.52,February
+752,753,1089,Male,22,UK,2023-07-28,Home,76.76,1,Credit Card,76.76,July
+753,754,1017,Male,33,UK,2022-09-18,Beauty,363.95,4,Bank Transfer,1455.8,September
+754,755,1069,Female,40,Australia,2024-07-30,Home,99.64,3,Credit Card,298.92,July
+755,756,1036,Unknown,38,Australia,2024-08-01,Electronics,172.44,1,PayPal,172.44,August
+756,757,1059,Male,28,France,2022-06-27,Home,157.81,1,PayPal,157.81,June
+757,758,1047,Unknown,58,Australia,2022-09-12,Toys,473.78,2,PayPal,947.56,September
+758,759,1076,Male,42,Australia,2023-04-29,Books,483.84,1,Bank Transfer,483.84,April
+759,760,1027,Unknown,23,UK,2022-06-17,Home,95.59,1,PayPal,95.59,June
+760,761,1068,Male,42,Germany,2024-06-17,Beauty,15.91,4,PayPal,63.64,June
+761,762,1076,Female,63,France,2022-02-09,Clothing,361.4,3,Bank Transfer,1084.1999999999998,February
+762,763,1080,Female,60,USA,2023-04-30,Clothing,211.91,2,Credit Card,423.82,April
+763,764,1039,Male,58,UK,2024-06-13,Beauty,48.98,4,Credit Card,195.92,June
+764,765,1044,Female,64,USA,2024-11-18,Books,343.46,1,Credit Card,343.46,November
+765,766,1095,Male,42,USA,2023-08-07,Home,274.83,1,Credit Card,274.83,August
+766,767,1061,Female,39,France,2023-09-09,Beauty,490.36,2,Credit Card,980.72,September
+767,768,1092,Unknown,46,Canada,2022-11-05,Toys,117.57,3,Bank Transfer,352.71,November
+768,769,1057,Female,18,USA,2022-04-29,Toys,204.97,2,PayPal,409.94,April
+769,770,1066,Unknown,34,Australia,2024-07-08,Home,273.56,4,Credit Card,1094.24,July
+770,771,1055,Unknown,31,USA,2024-12-08,Electronics,396.89,2,PayPal,793.78,December
+771,772,1039,Female,33,Canada,2024-09-01,Electronics,276.68,1,PayPal,276.68,September
+772,773,1097,Unknown,62,Germany,2023-01-13,Clothing,308.39,4,PayPal,1233.56,January
+773,774,1039,Female,22,Canada,2022-06-08,Books,116.94,1,Bank Transfer,116.94,June
+774,775,1090,Unknown,40,Germany,2024-12-19,Clothing,424.22,3,Credit Card,1272.66,December
+775,776,1076,Female,34,Australia,2023-04-14,Books,217.17,1,Bank Transfer,217.17,April
+776,777,1032,Unknown,68,Germany,2024-11-28,Books,74.78,1,PayPal,74.78,November
+777,778,1005,Male,24,Canada,2024-07-21,Beauty,333.77,2,Credit Card,667.54,July
+778,779,1087,Female,64,USA,2022-07-08,Books,111.96,1,Credit Card,111.96,July
+779,780,1018,Female,18,Australia,2024-05-29,Beauty,53.29,4,Bank Transfer,213.16,May
+780,781,1079,Female,21,Germany,2022-03-05,Books,431.68,4,Bank Transfer,1726.72,March
+781,782,1039,Unknown,42,Canada,2023-06-24,Toys,232.78,3,PayPal,698.34,June
+782,783,1091,Male,46,UK,2024-04-07,Beauty,375.9,4,PayPal,1503.6,April
+783,784,1096,Unknown,64,USA,2023-10-28,Home,148.84,2,PayPal,297.68,October
+784,785,1058,Unknown,44,Germany,2024-10-24,Books,394.55,3,PayPal,1183.65,October
+785,786,1058,Female,28,France,2023-07-30,Home,60.41,4,Credit Card,241.64,July
+786,787,1047,Unknown,42,USA,2022-04-18,Books,181.21,2,Bank Transfer,362.42,April
+788,789,1012,Male,49,Australia,2024-10-02,Toys,398.02,4,Credit Card,1592.08,October
+789,790,1044,Unknown,42,Australia,2023-06-15,Toys,251.14,1,Credit Card,251.14,June
+790,791,1088,Male,42,UK,2022-01-20,Home,173.19,4,Bank Transfer,692.76,January
+791,792,1052,Female,40,Canada,2023-10-15,Home,436.71,4,PayPal,1746.84,October
+792,793,1041,Male,52,Australia,2024-02-01,Clothing,274.7,2,Bank Transfer,549.4,February
+793,794,1099,Male,42,Australia,2022-06-13,Clothing,380.42,2,Bank Transfer,760.84,June
+795,796,1026,Male,42,France,2023-07-17,Clothing,13.88,4,Credit Card,55.52,July
+796,797,1037,Male,48,Canada,2024-09-14,Beauty,67.5,1,Credit Card,67.5,September
+797,798,1059,Female,68,UK,2023-12-16,Clothing,331.52,4,Credit Card,1326.08,December
+798,799,1006,Unknown,42,Australia,2022-08-26,Beauty,85.0,3,Credit Card,255.0,August
+799,800,1004,Male,54,Germany,2023-11-08,Books,131.47,3,Credit Card,394.40999999999997,November
+800,801,1044,Unknown,59,Australia,2022-10-01,Beauty,473.59,1,Bank Transfer,473.59,October
+801,802,1057,Female,66,Australia,2024-03-21,Beauty,282.29,1,PayPal,282.29,March
+802,803,1030,Female,61,USA,2024-10-07,Beauty,376.61,1,Credit Card,376.61,October
+803,804,1022,Unknown,32,France,2023-02-24,Electronics,281.2,2,Credit Card,562.4,February
+804,805,1041,Male,28,France,2024-08-14,Clothing,278.49,2,Credit Card,556.98,August
+805,806,1009,Unknown,46,France,2024-04-16,Clothing,51.61,2,Bank Transfer,103.22,April
+806,807,1031,Female,22,Australia,2024-01-22,Home,175.11,1,Bank Transfer,175.11,January
+807,808,1052,Female,69,Germany,2023-12-24,Electronics,144.8,4,Bank Transfer,579.2,December
+808,809,1029,Male,42,UK,2023-11-08,Electronics,198.41,3,PayPal,595.23,November
+809,810,1038,Female,20,USA,2024-07-09,Electronics,400.18,1,PayPal,400.18,July
+810,811,1030,Unknown,36,USA,2023-02-21,Home,189.11,2,Credit Card,378.22,February
+811,812,1081,Unknown,19,Australia,2023-05-16,Toys,228.59,2,Credit Card,457.18,May
+812,813,1099,Unknown,38,Germany,2023-01-17,Electronics,201.7,1,Credit Card,201.7,January
+813,814,1001,Unknown,34,Canada,2022-05-15,Electronics,51.24,1,PayPal,51.24,May
+814,815,1077,Male,24,UK,2023-03-10,Home,223.33,2,Credit Card,446.66,March
+815,816,1076,Unknown,22,France,2023-12-02,Toys,101.83,4,Credit Card,407.32,December
+816,817,1092,Male,39,Canada,2023-01-14,Electronics,97.43,2,Bank Transfer,194.86,January
+817,818,1011,Female,28,Australia,2023-12-23,Electronics,51.55,2,PayPal,103.1,December
+819,820,1065,Male,42,Australia,2024-08-06,Toys,379.95,4,Bank Transfer,1519.8,August
+820,821,1095,Male,28,Australia,2024-11-03,Clothing,141.84,2,Bank Transfer,283.68,November
+821,822,1012,Female,64,Germany,2023-08-12,Electronics,159.61,2,Bank Transfer,319.22,August
+822,823,1045,Female,22,UK,2023-06-07,Beauty,323.12,3,Bank Transfer,969.36,June
+823,824,1026,Unknown,53,UK,2022-02-14,Home,101.94,1,Bank Transfer,101.94,February
+824,825,1016,Male,23,Australia,2024-02-07,Books,448.99,3,Bank Transfer,1346.97,February
+825,826,1094,Female,39,UK,2023-05-20,Clothing,262.49,3,Credit Card,787.47,May
+826,827,1097,Male,56,Canada,2022-10-10,Clothing,226.56,2,PayPal,453.12,October
+827,828,1059,Female,57,Australia,2024-01-28,Beauty,281.12,1,Bank Transfer,281.12,January
+828,829,1063,Male,48,Canada,2022-11-26,Books,87.19,4,Bank Transfer,348.76,November
+829,830,1087,Male,63,Germany,2023-07-06,Home,308.67,2,PayPal,617.34,July
+830,831,1034,Female,19,France,2023-02-06,Beauty,184.73,4,Credit Card,738.92,February
+831,832,1069,Unknown,45,Canada,2023-06-13,Clothing,449.11,4,Credit Card,1796.44,June
+832,833,1082,Unknown,59,Australia,2023-03-11,Clothing,88.58,1,PayPal,88.58,March
+833,834,1029,Unknown,28,USA,2024-07-15,Toys,255.99,3,PayPal,767.97,July
+834,835,1070,Female,56,Canada,2024-12-25,Clothing,301.07,1,PayPal,301.07,December
+835,836,1073,Female,42,Canada,2023-03-06,Electronics,21.52,4,PayPal,86.08,March
+836,837,1095,Unknown,45,Australia,2024-05-13,Electronics,185.03,2,Credit Card,370.06,May
+837,838,1097,Female,28,UK,2022-01-16,Beauty,367.65,4,PayPal,1470.6,January
+838,839,1062,Female,21,USA,2024-03-13,Books,411.09,2,Bank Transfer,822.18,March
+839,840,1027,Unknown,24,France,2022-10-24,Books,160.02,2,Credit Card,320.04,October
+840,841,1059,Female,39,USA,2022-05-13,Home,400.3,1,PayPal,400.3,May
+841,842,1078,Female,31,France,2023-01-10,Home,484.04,4,PayPal,1936.16,January
+842,843,1093,Male,30,Germany,2023-09-24,Toys,429.15,3,Credit Card,1287.4499999999998,September
+843,844,1036,Male,44,UK,2024-01-29,Books,63.23,4,Credit Card,252.92,January
+844,845,1092,Unknown,62,Germany,2024-05-12,Toys,371.17,4,Bank Transfer,1484.68,May
+845,846,1021,Male,53,Canada,2023-01-09,Home,163.24,3,PayPal,489.72,January
+846,847,1067,Male,64,Canada,2024-12-08,Clothing,494.27,1,PayPal,494.27,December
+847,848,1019,Female,64,UK,2024-01-10,Beauty,245.25,4,Bank Transfer,981.0,January
+848,849,1095,Male,52,Germany,2024-09-30,Toys,65.6,4,PayPal,262.4,September
+849,850,1099,Female,34,USA,2024-02-02,Clothing,363.97,2,Bank Transfer,727.94,February
+850,851,1067,Male,60,Germany,2023-11-28,Toys,164.89,4,Credit Card,659.56,November
+851,852,1090,Unknown,36,France,2022-01-27,Toys,498.55,3,Bank Transfer,1495.65,January
+852,853,1063,Female,37,Australia,2022-05-25,Home,489.99,2,Credit Card,979.98,May
+853,854,1016,Male,33,Canada,2023-04-03,Beauty,329.79,1,Bank Transfer,329.79,April
+854,855,1011,Female,24,USA,2022-12-11,Beauty,69.26,2,Credit Card,138.52,December
+855,856,1021,Unknown,21,Canada,2023-09-21,Beauty,345.0,3,Credit Card,1035.0,September
+856,857,1016,Unknown,43,Germany,2024-12-10,Toys,51.05,3,Bank Transfer,153.14999999999998,December
+857,858,1009,Female,54,UK,2023-01-13,Home,19.54,2,Bank Transfer,39.08,January
+858,859,1064,Unknown,53,USA,2023-04-21,Toys,412.36,1,Bank Transfer,412.36,April
+859,860,1021,Unknown,42,Australia,2024-10-28,Beauty,108.83,2,Bank Transfer,217.66,October
+860,861,1089,Male,49,UK,2024-06-22,Beauty,192.62,1,Credit Card,192.62,June
+861,862,1081,Unknown,27,Australia,2023-07-28,Toys,486.86,2,PayPal,973.72,July
+862,863,1049,Male,21,Germany,2024-01-06,Books,171.74,3,Bank Transfer,515.22,January
+863,864,1013,Female,41,France,2024-05-09,Books,151.76,4,Bank Transfer,607.04,May
+864,865,1063,Unknown,18,UK,2024-04-04,Home,459.51,4,Bank Transfer,1838.04,April
+865,866,1046,Female,45,UK,2023-06-19,Toys,59.82,1,Bank Transfer,59.82,June
+866,867,1028,Unknown,23,Germany,2023-10-23,Clothing,380.99,1,PayPal,380.99,October
+867,868,1075,Male,36,USA,2024-05-04,Electronics,494.09,1,PayPal,494.09,May
+868,869,1035,Unknown,42,Australia,2023-05-29,Home,451.14,3,Bank Transfer,1353.42,May
+869,870,1098,Female,60,Germany,2023-07-01,Books,327.58,2,PayPal,655.16,July
+870,871,1051,Unknown,58,UK,2024-12-27,Books,160.46,3,PayPal,481.38,December
+871,872,1075,Male,56,Canada,2023-12-06,Home,130.89,4,Bank Transfer,523.56,December
+872,873,1006,Female,48,Canada,2023-02-25,Books,410.53,1,Bank Transfer,410.53,February
+873,874,1028,Male,30,UK,2023-04-22,Clothing,440.51,2,Bank Transfer,881.02,April
+874,875,1010,Unknown,24,USA,2023-01-26,Books,265.09,4,PayPal,1060.36,January
+875,876,1032,Unknown,19,UK,2022-12-25,Electronics,125.95,4,Credit Card,503.8,December
+876,877,1005,Male,31,Canada,2022-07-07,Electronics,60.91,4,Bank Transfer,243.64,July
+877,878,1078,Female,28,France,2022-10-27,Toys,48.15,3,Bank Transfer,144.45,October
+878,879,1031,Male,58,UK,2023-05-06,Clothing,360.94,1,PayPal,360.94,May
+879,880,1050,Female,36,UK,2022-07-05,Books,212.96,4,Bank Transfer,851.84,July
+880,881,1074,Female,23,France,2024-04-12,Books,453.15,1,Bank Transfer,453.15,April
+881,882,1057,Female,48,USA,2024-12-08,Home,371.14,3,Bank Transfer,1113.42,December
+882,883,1086,Male,42,Germany,2022-10-15,Toys,99.67,4,PayPal,398.68,October
+883,884,1025,Female,25,Canada,2022-10-25,Electronics,308.82,3,PayPal,926.46,October
+884,885,1097,Male,37,Canada,2022-12-03,Beauty,220.58,3,Credit Card,661.74,December
+885,886,1045,Male,68,Australia,2024-01-23,Home,290.74,1,Bank Transfer,290.74,January
+886,887,1097,Male,43,Germany,2023-03-06,Home,370.34,4,Credit Card,1481.36,March
+887,888,1028,Unknown,48,Germany,2024-07-04,Books,404.07,3,Bank Transfer,1212.21,July
+888,889,1003,Unknown,49,Germany,2024-03-25,Electronics,422.65,4,PayPal,1690.6,March
+889,890,1080,Unknown,60,Germany,2024-07-16,Home,130.72,1,Credit Card,130.72,July
+890,891,1098,Female,34,Canada,2023-03-16,Books,20.4,3,Credit Card,61.199999999999996,March
+891,892,1012,Unknown,23,UK,2022-06-06,Toys,370.95,1,Credit Card,370.95,June
+892,893,1038,Unknown,59,UK,2022-10-29,Clothing,57.64,4,Credit Card,230.56,October
+893,894,1014,Unknown,52,France,2023-04-06,Electronics,160.89,4,PayPal,643.56,April
+895,896,1028,Male,29,Australia,2023-07-15,Books,342.43,2,Credit Card,684.86,July
+896,897,1074,Unknown,41,USA,2022-10-06,Clothing,87.73,3,Bank Transfer,263.19,October
+897,898,1031,Male,42,USA,2023-04-15,Home,329.36,4,Credit Card,1317.44,April
+898,899,1001,Male,42,Australia,2022-01-22,Toys,495.91,4,Bank Transfer,1983.64,January
+899,900,1046,Male,41,Germany,2024-04-09,Home,40.97,3,PayPal,122.91,April
+900,901,1077,Male,29,France,2022-07-16,Home,43.15,1,PayPal,43.15,July
+901,902,1083,Unknown,46,Canada,2023-03-03,Clothing,173.49,1,Credit Card,173.49,March
+902,903,1021,Female,20,Australia,2022-03-12,Clothing,433.86,1,PayPal,433.86,March
+903,904,1074,Unknown,34,UK,2022-03-26,Beauty,111.69,2,PayPal,223.38,March
+904,905,1026,Female,46,UK,2024-05-09,Beauty,183.39,2,Bank Transfer,366.78,May
+905,906,1066,Unknown,47,Canada,2023-03-30,Beauty,38.91,4,Bank Transfer,155.64,March
+906,907,1080,Unknown,34,USA,2024-12-19,Home,382.76,1,Credit Card,382.76,December
+907,908,1055,Male,32,Australia,2022-07-16,Home,207.11,3,Credit Card,621.33,July
+908,909,1091,Female,42,Germany,2024-09-17,Clothing,380.83,4,Bank Transfer,1523.32,September
+909,910,1092,Unknown,35,France,2024-02-02,Books,452.29,3,Credit Card,1356.8700000000001,February
+910,911,1020,Female,54,USA,2022-06-09,Electronics,120.22,4,Bank Transfer,480.88,June
+911,912,1046,Female,21,France,2022-01-20,Home,404.66,2,PayPal,809.32,January
+912,913,1079,Unknown,27,Germany,2024-06-10,Beauty,34.25,4,PayPal,137.0,June
+913,914,1058,Female,66,UK,2023-03-18,Clothing,449.93,2,Credit Card,899.86,March
+914,915,1083,Unknown,62,Australia,2023-12-31,Toys,327.13,4,PayPal,1308.52,December
+915,916,1005,Unknown,60,Germany,2024-01-14,Toys,437.74,1,PayPal,437.74,January
+916,917,1018,Male,24,USA,2023-11-16,Beauty,5.09,3,Bank Transfer,15.27,November
+917,918,1056,Male,23,UK,2023-06-14,Beauty,88.7,1,Bank Transfer,88.7,June
+918,919,1068,Female,60,Germany,2022-10-14,Books,197.93,4,PayPal,791.72,October
+919,920,1002,Male,40,UK,2022-03-21,Books,192.85,4,Credit Card,771.4,March
+920,921,1000,Female,69,UK,2023-01-28,Beauty,117.23,4,Credit Card,468.92,January
+921,922,1057,Unknown,52,France,2024-01-13,Beauty,193.9,2,Bank Transfer,387.8,January
+922,923,1037,Male,44,France,2022-06-27,Toys,68.78,3,PayPal,206.34,June
+923,924,1014,Unknown,66,USA,2022-04-12,Books,209.32,3,PayPal,627.96,April
+924,925,1033,Male,55,Germany,2023-09-15,Home,402.17,4,PayPal,1608.68,September
+925,926,1060,Male,32,Australia,2024-02-03,Clothing,242.14,4,Bank Transfer,968.56,February
+927,928,1063,Unknown,21,Germany,2024-06-15,Clothing,213.61,1,Bank Transfer,213.61,June
+928,929,1024,Female,42,UK,2024-09-04,Clothing,18.45,1,Credit Card,18.45,September
+929,930,1023,Male,42,USA,2024-12-02,Books,483.29,3,Credit Card,1449.8700000000001,December
+930,931,1011,Unknown,42,USA,2022-03-25,Electronics,68.09,2,Credit Card,136.18,March
+931,932,1017,Female,51,Canada,2022-08-24,Beauty,355.31,4,PayPal,1421.24,August
+932,933,1014,Female,44,UK,2022-08-20,Home,486.52,3,PayPal,1459.56,August
+933,934,1079,Male,52,UK,2024-05-24,Toys,413.89,2,Bank Transfer,827.78,May
+934,935,1026,Unknown,61,USA,2023-04-17,Home,351.16,1,PayPal,351.16,April
+935,936,1071,Unknown,42,Australia,2022-05-13,Books,420.53,2,PayPal,841.06,May
+936,937,1059,Female,48,USA,2023-01-21,Beauty,490.99,1,Credit Card,490.99,January
+937,938,1045,Unknown,54,Canada,2022-07-04,Toys,312.57,2,Bank Transfer,625.14,July
+938,939,1088,Female,42,Australia,2024-05-16,Home,281.8,3,Credit Card,845.4000000000001,May
+939,940,1016,Female,33,Australia,2023-10-09,Clothing,315.98,1,PayPal,315.98,October
+940,941,1092,Female,48,Canada,2024-07-30,Books,268.67,3,Credit Card,806.01,July
+941,942,1052,Male,37,Australia,2024-07-15,Electronics,319.37,3,Bank Transfer,958.11,July
+942,943,1007,Unknown,23,France,2024-08-18,Clothing,227.67,1,PayPal,227.67,August
+943,944,1078,Male,43,USA,2022-12-17,Electronics,113.13,1,Bank Transfer,113.13,December
+944,945,1026,Female,42,Canada,2024-03-22,Toys,64.52,4,PayPal,258.08,March
+946,947,1049,Unknown,20,Australia,2023-12-01,Clothing,135.34,4,PayPal,541.36,December
+947,948,1070,Female,50,Australia,2023-11-19,Electronics,27.83,3,Bank Transfer,83.49,November
+948,949,1002,Unknown,54,France,2023-04-07,Books,285.75,3,Credit Card,857.25,April
+949,950,1092,Female,51,Australia,2024-07-03,Books,145.5,4,Bank Transfer,582.0,July
+950,951,1063,Female,69,USA,2023-10-29,Clothing,413.14,3,PayPal,1239.42,October
+951,952,1043,Female,54,Australia,2023-04-20,Beauty,41.75,3,Bank Transfer,125.25,April
+952,953,1052,Female,61,Australia,2024-06-02,Home,117.04,1,Bank Transfer,117.04,June
+953,954,1023,Unknown,57,Canada,2024-08-22,Beauty,366.47,1,Bank Transfer,366.47,August
+954,955,1059,Male,27,USA,2022-04-04,Electronics,301.41,3,PayPal,904.23,April
+955,956,1002,Unknown,25,France,2024-08-05,Clothing,36.92,4,Bank Transfer,147.68,August
+956,957,1019,Male,66,Australia,2022-06-04,Electronics,439.23,2,Bank Transfer,878.46,June
+957,958,1045,Unknown,46,Germany,2022-11-19,Clothing,439.24,4,Credit Card,1756.96,November
+958,959,1014,Female,29,USA,2024-08-29,Electronics,168.55,2,Credit Card,337.1,August
+959,960,1024,Unknown,28,USA,2022-11-24,Home,173.5,4,Bank Transfer,694.0,November
+960,961,1093,Unknown,31,USA,2023-02-16,Clothing,494.57,1,Bank Transfer,494.57,February
+961,962,1077,Unknown,69,USA,2024-10-22,Books,314.96,3,PayPal,944.8799999999999,October
+962,963,1070,Female,30,Canada,2022-05-07,Home,268.0,3,PayPal,804.0,May
+963,964,1016,Male,26,Germany,2022-09-01,Books,419.89,1,Credit Card,419.89,September
+964,965,1083,Unknown,20,UK,2023-01-08,Home,146.22,2,Credit Card,292.44,January
+965,966,1099,Female,45,USA,2022-09-28,Books,217.45,2,PayPal,434.9,September
+966,967,1008,Male,23,UK,2024-05-07,Home,137.55,2,Credit Card,275.1,May
+967,968,1037,Female,61,Canada,2022-04-27,Beauty,395.63,1,PayPal,395.63,April
+968,969,1047,Male,45,Germany,2022-09-01,Electronics,288.81,2,PayPal,577.62,September
+969,970,1059,Female,30,France,2022-01-05,Books,331.12,1,Bank Transfer,331.12,January
+970,971,1062,Female,42,France,2023-09-27,Electronics,129.89,4,Bank Transfer,519.56,September
+971,972,1085,Female,58,France,2023-12-01,Clothing,114.01,4,Credit Card,456.04,December
+972,973,1001,Female,27,Australia,2024-12-06,Electronics,246.75,1,Bank Transfer,246.75,December
+973,974,1087,Female,42,France,2024-07-11,Books,370.1,3,Bank Transfer,1110.3000000000002,July
+974,975,1071,Unknown,56,France,2023-12-31,Home,264.99,4,PayPal,1059.96,December
+975,976,1010,Unknown,34,Germany,2023-03-29,Electronics,21.16,2,Credit Card,42.32,March
+976,977,1063,Male,38,USA,2022-02-20,Toys,434.93,1,Bank Transfer,434.93,February
+977,978,1076,Unknown,64,France,2022-12-26,Home,37.02,2,Credit Card,74.04,December
+978,979,1080,Female,69,Australia,2023-03-24,Clothing,478.13,2,PayPal,956.26,March
+979,980,1071,Female,22,USA,2023-03-16,Clothing,17.45,3,Bank Transfer,52.349999999999994,March
+980,981,1020,Unknown,23,UK,2024-12-28,Books,348.75,2,PayPal,697.5,December
+981,982,1017,Male,42,USA,2023-12-07,Home,45.69,3,Bank Transfer,137.07,December
+982,983,1093,Male,53,Australia,2022-04-21,Electronics,455.78,4,Credit Card,1823.12,April
+983,984,1063,Male,43,Australia,2024-12-03,Electronics,234.89,1,PayPal,234.89,December
+984,985,1081,Unknown,53,UK,2022-12-29,Beauty,73.07,2,PayPal,146.14,December
+985,986,1094,Female,38,USA,2023-02-15,Clothing,173.7,1,Credit Card,173.7,February
+986,987,1037,Male,42,Australia,2024-08-28,Home,86.59,2,PayPal,173.18,August
+987,988,1031,Male,35,UK,2024-07-05,Home,89.44,1,Credit Card,89.44,July
+988,989,1010,Male,51,USA,2024-10-24,Clothing,474.31,2,PayPal,948.62,October
+989,990,1044,Female,47,Australia,2022-11-04,Beauty,225.4,2,PayPal,450.8,November
+990,991,1088,Female,42,USA,2023-10-23,Electronics,395.46,2,PayPal,790.92,October
+991,992,1032,Male,18,Germany,2022-06-28,Clothing,321.6,2,Credit Card,643.2,June
+992,993,1040,Female,68,UK,2024-04-25,Home,339.83,2,Bank Transfer,679.66,April
+993,994,1007,Male,62,USA,2022-12-16,Beauty,70.19,2,PayPal,140.38,December
+994,995,1010,Unknown,57,Germany,2024-10-03,Electronics,120.92,2,Credit Card,241.84,October
+995,996,1085,Male,55,Australia,2022-08-20,Toys,394.44,2,Credit Card,788.88,August
+996,997,1050,Unknown,51,Germany,2023-02-17,Beauty,485.53,2,PayPal,971.06,February
+997,998,1087,Female,68,UK,2022-08-09,Clothing,135.02,1,Credit Card,135.02,August
+998,999,1040,Male,44,USA,2022-04-21,Home,139.43,3,Credit Card,418.29,April
+999,1000,1016,Female,25,Germany,2022-04-03,Home,239.08,2,Credit Card,478.16,April

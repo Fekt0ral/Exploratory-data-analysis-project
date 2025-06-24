@@ -1,0 +1,1001 @@
+transaction_id,customer_id,gender,age,country,transaction_date,product_category,price,quantity,payment_method
+1,1033,,23.0,France,2024-09-20,Home,55.88,1,Bank Transfer
+2,1007,Female,59.0,Canada,2022-06-22,Home,287.6,1,PayPal
+3,1039,Female,41.0,Canada,2022-02-08,Home,14.09,4,PayPal
+4,1082,,34.0,UK,2023-03-04,Beauty,243.77,3,Credit Card
+5,1041,Male,23.0,UK,2023-01-16,Electronics,109.12,2,Bank Transfer
+6,1040,Male,41.0,UK,2022-12-13,Home,176.28,2,Bank Transfer
+7,1005,Male,60.0,USA,2022-08-05,Clothing,389.02,2,Credit Card
+8,1051,Female,59.0,USA,2022-06-09,Toys,470.91,1,Bank Transfer
+9,1025,Male,28.0,UK,2024-11-17,Clothing,40.85,2,Bank Transfer
+10,1063,Female,21.0,USA,2024-04-27,Clothing,269.45,1,Bank Transfer
+11,1097,,43.0,Germany,2022-05-16,Beauty,441.85,1,Credit Card
+12,1058,,58.0,UK,2024-07-06,Home,45.84,4,PayPal
+13,1055,Female,37.0,Germany,2023-10-18,Toys,413.13,2,PayPal
+14,1058,Female,64.0,France,2022-02-19,Books,182.11,2,Bank Transfer
+15,1069,,62.0,Germany,2022-02-16,Beauty,164.44,3,PayPal
+16,1032,,66.0,France,2022-05-26,Clothing,488.85,4,Credit Card
+17,1052,Female,32.0,Australia,2022-12-06,Books,104.43,3,PayPal
+18,1021,,45.0,France,2022-12-28,Beauty,348.13,4,Credit Card
+19,1020,,59.0,UK,2024-02-25,Beauty,411.61,2,Bank Transfer
+20,1069,Male,23.0,UK,2024-07-24,Beauty,25.39,1,Credit Card
+21,1069,Male,63.0,France,2022-02-11,Books,336.84,1,Credit Card
+22,1003,,24.0,USA,2024-05-21,Electronics,476.02,1,Credit Card
+23,1093,,18.0,Canada,2022-11-05,Toys,66.49,1,Bank Transfer
+24,1074,Male,31.0,Germany,2024-10-06,Toys,448.63,1,PayPal
+25,1061,,48.0,France,2024-12-25,Clothing,299.41,3,PayPal
+26,1061,Female,22.0,Canada,2024-04-26,Electronics,0.0,4,Credit Card
+27,1093,,26.0,UK,2023-10-14,Electronics,308.41,2,Credit Card
+28,1094,,55.0,UK,2022-12-09,Electronics,152.92,3,PayPal
+29,1023,Female,32.0,Australia,2023-11-29,Toys,467.92,4,Bank Transfer
+30,1054,Male,51.0,Australia,2024-07-04,Toys,473.94,1,Credit Card
+31,1008,,61.0,France,2023-03-09,Home,314.53,4,PayPal
+32,1002,Male,46.0,USA,2022-01-11,Toys,392.79,4,Credit Card
+33,1030,Male,18.0,France,2022-09-06,Toys,308.07,1,Credit Card
+34,1039,,18.0,Germany,2024-12-20,Electronics,244.78,1,Credit Card
+35,1035,,62.0,Australia,2023-10-19,Books,332.11,1,Bank Transfer
+36,1023,Male,39.0,Canada,2023-06-13,Clothing,278.74,2,Bank Transfer
+37,1094,,,USA,2023-03-08,Beauty,300.75,1,PayPal
+38,1005,,25.0,Australia,2022-08-30,Beauty,393.0,2,Bank Transfer
+39,1065,Male,,France,2022-12-01,Beauty,243.05,1,Bank Transfer
+40,1083,Male,45.0,Germany,2023-06-07,Books,25.17,2,Credit Card
+41,1091,Female,62.0,Germany,2022-06-08,Clothing,86.18,4,PayPal
+42,1074,,26.0,USA,2022-05-25,Home,222.11,3,Credit Card
+43,1003,Female,48.0,Germany,2023-08-14,Beauty,363.79,4,Credit Card
+44,1078,Male,22.0,Germany,2022-05-31,Toys,298.67,4,Credit Card
+45,1005,,32.0,Germany,2023-07-12,Clothing,326.9,1,PayPal
+46,1093,Male,42.0,Germany,2023-06-19,Clothing,242.24,2,Credit Card
+47,1050,,23.0,France,2024-07-26,Clothing,309.79,3,Bank Transfer
+48,1061,,64.0,Australia,2023-02-15,Clothing,167.86,1,Bank Transfer
+49,1056,Female,69.0,Australia,2022-03-09,Toys,237.74,1,PayPal
+50,1065,Male,24.0,USA,2023-12-15,Books,373.42,1,Bank Transfer
+51,1078,,24.0,Canada,2024-04-13,Clothing,436.56,4,Credit Card
+52,1074,Female,38.0,Canada,2022-07-13,Electronics,219.66,2,Credit Card
+53,1007,Male,41.0,Germany,2023-08-12,Clothing,26.61,2,PayPal
+54,1025,Female,,Australia,2022-05-03,Beauty,85.03,3,Bank Transfer
+55,1050,Male,37.0,France,2024-05-07,Toys,15.33,2,Credit Card
+56,1044,,26.0,Germany,2023-04-01,Electronics,328.37,2,Bank Transfer
+57,1043,Female,42.0,Germany,2024-09-03,Toys,169.5,1,Bank Transfer
+58,1004,Female,67.0,Australia,2024-08-18,Home,273.53,1,Credit Card
+59,1069,,,France,2023-07-16,Beauty,249.17,4,Credit Card
+60,1025,Male,66.0,UK,2024-06-15,Toys,45.36,1,PayPal
+61,1067,,,Australia,2022-10-26,Electronics,204.61,1,Credit Card
+62,1018,Female,26.0,USA,2024-12-30,Books,114.18,1,PayPal
+63,1083,,59.0,Canada,2022-04-19,Beauty,212.11,1,Bank Transfer
+64,1096,Female,61.0,France,2022-03-13,Electronics,105.77,4,Bank Transfer
+65,1019,,27.0,Canada,2024-10-24,Books,421.02,1,PayPal
+66,1011,Male,22.0,France,2022-12-21,Electronics,91.23,3,PayPal
+67,1046,Female,51.0,Australia,2023-03-26,Clothing,480.59,3,Bank Transfer
+68,1000,Female,54.0,France,2022-05-04,Beauty,210.87,3,Credit Card
+69,1089,Male,18.0,UK,2022-12-28,Toys,423.89,3,Credit Card
+70,1013,,57.0,Germany,2022-06-06,Home,316.24,1,Bank Transfer
+71,1063,Male,59.0,USA,2023-08-14,Books,369.0,3,PayPal
+72,1037,,28.0,UK,2023-03-08,Books,385.02,1,PayPal
+73,1036,Male,46.0,Canada,2023-12-06,Clothing,254.9,4,Bank Transfer
+74,1010,Male,40.0,USA,2024-09-14,Beauty,273.93,3,Credit Card
+75,1099,Female,64.0,Germany,2023-07-21,Beauty,259.43,2,PayPal
+76,1076,Female,31.0,Australia,2022-09-10,Clothing,296.09,3,Credit Card
+77,1002,,58.0,UK,2023-07-30,Electronics,19.55,3,PayPal
+78,1032,Male,65.0,France,2023-07-06,Books,200.78,1,Bank Transfer
+79,1005,,27.0,Canada,2022-11-22,Toys,305.06,3,PayPal
+80,1049,Male,44.0,UK,2024-11-07,Electronics,300.87,2,Bank Transfer
+81,1009,Male,57.0,UK,2023-02-19,Clothing,397.51,1,PayPal
+82,1004,Female,61.0,USA,2024-12-26,Books,329.23,1,Bank Transfer
+83,1022,Male,46.0,Canada,2024-11-27,Home,496.11,4,Bank Transfer
+84,1009,Female,,Canada,2024-10-03,Home,145.51,4,PayPal
+85,1043,Female,31.0,Canada,2022-04-21,Books,182.78,3,Credit Card
+86,1001,Male,23.0,USA,2024-08-04,Toys,195.0,4,Bank Transfer
+87,1012,Male,24.0,Canada,2024-09-13,Beauty,235.58,4,Credit Card
+88,1039,,26.0,USA,2022-09-23,Books,418.82,4,Bank Transfer
+89,1001,,66.0,France,2024-04-09,Beauty,121.72,1,PayPal
+90,1083,,25.0,USA,2023-01-16,Toys,389.12,1,PayPal
+91,1064,Female,55.0,Germany,2022-09-11,Clothing,205.63,1,Bank Transfer
+92,1062,Female,64.0,Australia,2023-12-20,Toys,302.92,4,PayPal
+93,1072,Female,42.0,Canada,2023-08-13,Toys,318.11,1,PayPal
+94,1016,Female,40.0,Germany,2023-02-24,Books,189.56,4,Bank Transfer
+95,1008,Female,45.0,Germany,2024-09-21,Books,258.74,1,Bank Transfer
+96,1074,Female,38.0,France,2024-12-05,Home,209.45,1,Credit Card
+97,1014,Male,68.0,UK,2024-05-15,Clothing,39.22,2,Credit Card
+98,1023,,26.0,France,2022-12-08,Electronics,221.4,3,Bank Transfer
+99,1037,,33.0,Australia,2024-11-29,Books,53.21,4,Credit Card
+100,1034,,35.0,USA,2023-05-19,Clothing,205.49,2,PayPal
+101,1093,Male,59.0,Australia,2022-03-28,Clothing,298.49,1,PayPal
+102,1094,,23.0,USA,2022-12-22,Beauty,291.81,4,PayPal
+103,1048,Female,33.0,Canada,2022-02-19,Beauty,333.0,1,Bank Transfer
+104,1068,Male,53.0,Germany,2023-05-06,Beauty,52.15,3,PayPal
+105,1061,Male,56.0,France,2023-09-16,Home,327.8,2,PayPal
+106,1059,,56.0,UK,2023-02-20,Books,159.51,3,Credit Card
+107,1049,Female,64.0,France,2022-04-13,Books,202.53,2,Bank Transfer
+108,1077,,56.0,Canada,2022-11-24,Clothing,429.7,1,Bank Transfer
+109,1074,Male,36.0,France,2024-05-31,Beauty,9.47,3,PayPal
+110,1008,,67.0,UK,2023-05-04,Beauty,296.26,3,Bank Transfer
+111,1033,Male,62.0,UK,2022-11-27,Books,301.36,1,Credit Card
+112,1075,Male,19.0,Germany,2024-10-15,Home,201.35,3,Credit Card
+113,1098,Male,,Germany,2024-02-15,Home,122.33,4,Bank Transfer
+114,1034,Female,,Canada,2023-09-07,Home,121.16,2,PayPal
+115,1000,Female,60.0,Germany,2024-09-25,Books,442.44,2,Bank Transfer
+116,1039,,,Australia,2023-12-14,Books,223.8,2,Credit Card
+117,1063,,37.0,Australia,2022-08-10,Home,168.79,4,PayPal
+118,1021,,31.0,USA,2023-02-16,Toys,227.14,2,Bank Transfer
+119,1059,Female,51.0,Germany,2022-08-05,Electronics,336.35,1,Credit Card
+120,1063,,56.0,USA,2023-01-19,Clothing,77.15,3,Bank Transfer
+121,1092,Female,50.0,France,2024-05-22,Beauty,227.47,4,Bank Transfer
+122,1071,Male,30.0,USA,2024-04-17,Toys,296.0,2,PayPal
+123,1010,Male,65.0,Canada,2023-02-13,Electronics,474.55,1,Credit Card
+124,1013,Female,43.0,UK,2024-06-27,Books,130.0,3,Bank Transfer
+125,1059,Female,36.0,Canada,2023-10-28,Clothing,182.83,3,Bank Transfer
+126,1029,Male,59.0,Canada,2024-06-25,Toys,192.78,4,PayPal
+127,1034,Female,21.0,Australia,2023-09-13,Clothing,304.74,4,Bank Transfer
+128,1084,Male,68.0,Canada,2023-07-17,Books,181.58,4,Credit Card
+129,1036,,68.0,Australia,2022-12-07,Beauty,269.09,1,Bank Transfer
+130,1004,Male,33.0,Canada,2022-08-03,Beauty,391.99,1,PayPal
+131,1082,Male,49.0,Germany,2024-03-02,Electronics,354.17,4,PayPal
+132,1077,,42.0,Australia,2024-02-06,Beauty,225.95,2,PayPal
+133,1025,Female,25.0,France,2022-05-22,Electronics,432.79,3,Bank Transfer
+134,1061,,33.0,UK,2022-03-15,Electronics,281.28,3,PayPal
+135,1003,Male,49.0,USA,2022-06-20,Toys,272.25,1,Credit Card
+136,1088,Male,58.0,Australia,2022-08-26,Beauty,21.92,3,Credit Card
+137,1041,Male,56.0,USA,2024-09-01,Electronics,493.41,2,Bank Transfer
+138,1088,Male,22.0,France,2022-09-06,Toys,65.87,3,Bank Transfer
+139,1017,Male,51.0,Canada,2024-11-23,Toys,119.41,1,Credit Card
+140,1039,,,Australia,2023-10-18,Home,30.59,1,Credit Card
+141,1071,Male,18.0,Canada,2024-07-15,Toys,321.8,2,Credit Card
+142,1038,Female,41.0,UK,2022-04-09,Clothing,116.23,2,Credit Card
+143,1013,,38.0,USA,2023-08-21,Electronics,94.11,3,Credit Card
+144,1031,,26.0,Canada,2023-08-16,Toys,48.84,3,Credit Card
+145,1050,,42.0,Germany,2024-07-14,Books,56.14,1,Credit Card
+146,1037,Male,,UK,2023-12-29,Toys,294.41,2,PayPal
+147,1096,Male,,Germany,2024-04-01,Toys,0.0,2,Credit Card
+148,1022,,54.0,Australia,2023-01-26,Home,201.7,2,Credit Card
+149,1062,Male,44.0,Australia,2024-05-09,Beauty,242.55,3,Credit Card
+150,1014,Female,41.0,Australia,2022-01-18,Clothing,344.55,2,Bank Transfer
+151,1096,Female,52.0,Germany,2024-11-22,Books,13.6,1,Bank Transfer
+152,1024,Male,61.0,France,2022-06-27,Home,164.95,1,PayPal
+153,1016,,29.0,France,2024-11-25,Clothing,486.68,3,Bank Transfer
+154,1096,Male,66.0,Germany,2024-04-14,Toys,292.16,4,PayPal
+155,1065,Male,48.0,France,2023-02-19,Beauty,130.84,3,Bank Transfer
+156,1077,Male,67.0,Germany,2024-09-22,Books,263.26,4,Bank Transfer
+157,1052,,22.0,Canada,2023-06-13,Clothing,174.61,2,Bank Transfer
+158,1050,Female,19.0,France,2022-06-23,Home,268.46,0,Bank Transfer
+159,1038,Male,55.0,Germany,2023-04-01,Toys,67.24,1,PayPal
+160,1050,,22.0,Australia,2023-11-07,Toys,70.69,2,Credit Card
+161,1069,,18.0,UK,2022-09-03,Electronics,76.05,1,PayPal
+162,1005,Female,34.0,UK,2023-12-06,Home,470.21,2,Credit Card
+163,1066,,31.0,France,2022-01-06,Books,367.78,3,Bank Transfer
+164,1006,,20.0,UK,2023-02-14,Toys,85.38,4,Bank Transfer
+165,1050,,21.0,USA,2024-02-17,Electronics,98.23,2,Credit Card
+166,1071,Female,68.0,USA,2022-10-05,Beauty,366.76,4,Credit Card
+167,1041,Male,43.0,UK,2024-02-28,Clothing,82.3,2,Credit Card
+168,1063,Female,50.0,Australia,2022-06-15,Toys,121.11,1,Bank Transfer
+169,1014,Male,36.0,Germany,2024-08-29,Beauty,481.86,1,PayPal
+170,1028,,58.0,UK,2023-04-09,Clothing,131.38,2,Credit Card
+171,1032,,63.0,Australia,2024-09-19,Toys,332.51,4,PayPal
+172,1093,Male,50.0,UK,2024-02-28,Clothing,489.42,3,Bank Transfer
+173,1026,Female,67.0,UK,2024-08-04,Home,190.28,3,Credit Card
+174,1035,Female,44.0,Germany,2022-11-05,Clothing,13.67,1,PayPal
+175,1028,Female,45.0,Germany,2022-08-26,Clothing,125.85,3,Bank Transfer
+176,1037,Male,62.0,Australia,2023-08-04,Toys,416.28,1,Bank Transfer
+177,1056,,43.0,USA,2022-09-08,Toys,432.98,3,PayPal
+178,1096,,23.0,France,2024-04-17,Beauty,385.42,2,PayPal
+179,1026,,58.0,USA,2024-04-03,Clothing,60.99,1,Bank Transfer
+180,1054,Male,52.0,Germany,2022-01-01,Beauty,398.78,1,Credit Card
+181,1032,,52.0,Germany,2024-07-19,Beauty,459.75,2,Bank Transfer
+182,1067,,57.0,Australia,2023-05-19,Home,302.3,1,PayPal
+183,1085,Female,27.0,Germany,2024-01-30,Books,470.73,3,Bank Transfer
+184,1065,,35.0,Germany,2022-01-31,Electronics,414.29,3,Credit Card
+185,1009,Female,23.0,Germany,2022-06-23,Clothing,335.15,1,Bank Transfer
+186,1004,Male,37.0,Australia,2023-07-18,Home,290.71,3,Credit Card
+187,1073,Female,23.0,Australia,2023-04-23,Clothing,177.54,4,PayPal
+188,1096,,50.0,Australia,2023-01-07,Electronics,83.85,1,Credit Card
+189,1037,,31.0,Germany,2022-03-31,Books,304.45,2,Credit Card
+190,1012,Female,69.0,Canada,2023-01-10,Books,162.47,4,Bank Transfer
+191,1030,,27.0,Canada,2024-05-31,Clothing,433.89,1,Credit Card
+192,1046,Female,52.0,UK,2022-05-03,Electronics,496.7,2,Credit Card
+193,1099,,38.0,Canada,2022-05-14,Beauty,377.45,3,Bank Transfer
+194,1087,Female,43.0,USA,2024-01-25,Clothing,49.79,2,Credit Card
+195,1051,Female,55.0,UK,2022-04-18,Toys,0.0,4,Bank Transfer
+196,1055,Male,58.0,France,2024-04-07,Books,59.01,3,PayPal
+197,1014,Female,66.0,Australia,2022-07-15,Home,327.0,1,Credit Card
+198,1028,Female,,Germany,2022-07-19,Home,383.77,3,Credit Card
+199,1007,Male,59.0,Australia,2024-10-21,Home,463.21,1,Bank Transfer
+200,1004,,61.0,Canada,2024-01-09,Electronics,221.9,1,Bank Transfer
+201,1028,Female,59.0,Australia,2024-05-04,Electronics,451.18,2,Credit Card
+202,1046,Male,22.0,USA,2022-09-14,Beauty,439.56,2,Bank Transfer
+203,1067,Male,37.0,Australia,2023-02-16,Books,162.01,2,Bank Transfer
+204,1075,Female,62.0,France,2024-03-30,Electronics,435.11,4,Credit Card
+205,1044,,45.0,Germany,2024-07-31,Beauty,190.96,4,Bank Transfer
+206,1001,Male,64.0,Germany,2023-10-20,Toys,151.95,2,Bank Transfer
+207,1026,Female,,France,2022-11-26,Beauty,326.29,4,Bank Transfer
+208,1094,Male,33.0,France,2024-04-17,Books,167.55,3,PayPal
+209,1035,,21.0,France,2024-12-07,Beauty,316.95,3,Bank Transfer
+210,1035,Female,33.0,Australia,2022-11-09,Books,306.87,4,Credit Card
+211,1025,Female,23.0,USA,2023-04-30,Toys,283.9,4,Bank Transfer
+212,1042,,45.0,UK,2023-09-12,Toys,193.31,3,Bank Transfer
+213,1026,,25.0,Australia,2024-11-09,Toys,276.51,1,PayPal
+214,1068,Male,47.0,UK,2024-10-06,Clothing,300.26,3,Bank Transfer
+215,1019,Female,57.0,Canada,2023-08-04,Home,275.12,3,PayPal
+216,1010,Male,56.0,Germany,2023-11-12,Beauty,224.99,4,Bank Transfer
+217,1073,Female,21.0,Australia,2024-03-15,Home,12.26,3,Bank Transfer
+218,1037,Male,37.0,Australia,2023-12-03,Books,295.6,4,PayPal
+219,1005,Female,60.0,Canada,2022-07-07,Toys,88.38,4,Credit Card
+220,1071,,65.0,Australia,2023-01-21,Beauty,323.08,2,Credit Card
+221,1022,Male,60.0,UK,2022-12-16,Electronics,380.88,3,Credit Card
+222,1046,Female,65.0,Australia,2022-04-10,Toys,252.72,1,Bank Transfer
+223,1089,Female,29.0,France,2023-06-10,Books,273.47,2,PayPal
+224,1045,Male,25.0,Australia,2022-02-02,Home,475.98,4,Bank Transfer
+225,1011,,18.0,Germany,2024-07-02,Clothing,424.35,4,PayPal
+226,1089,,63.0,UK,2024-05-10,Toys,457.55,1,Bank Transfer
+227,1012,Male,26.0,Germany,2022-12-24,Home,407.81,4,Credit Card
+228,1061,Male,62.0,Canada,2024-07-03,Books,58.91,3,Bank Transfer
+229,1081,Female,18.0,Australia,2022-12-09,Books,78.75,2,Bank Transfer
+230,1088,Female,28.0,UK,2022-01-12,Home,265.68,4,PayPal
+231,1096,,49.0,Canada,2022-04-21,Home,126.8,4,PayPal
+232,1059,,40.0,Germany,2024-09-07,Toys,240.96,1,PayPal
+233,1042,,51.0,USA,2022-04-02,Electronics,200.21,3,Bank Transfer
+234,1075,Male,51.0,France,2022-12-22,Toys,276.96,4,PayPal
+235,1099,Male,68.0,Canada,2022-04-15,Clothing,374.7,1,PayPal
+236,1067,Male,,Australia,2022-02-18,Home,359.17,4,PayPal
+237,1004,,64.0,Germany,2023-05-29,Clothing,263.01,1,Bank Transfer
+238,1036,,34.0,Australia,2022-04-21,Clothing,412.08,1,PayPal
+239,1071,,28.0,UK,2024-03-09,Electronics,218.28,3,Bank Transfer
+240,1091,,41.0,Canada,2023-01-05,Toys,448.87,4,PayPal
+241,1030,Male,26.0,Australia,2023-03-09,Beauty,40.28,3,Bank Transfer
+242,1008,Female,65.0,Germany,2024-11-05,Books,477.56,1,Credit Card
+243,1050,Male,67.0,Australia,2024-01-25,Clothing,329.07,2,Bank Transfer
+244,1028,Female,,USA,2022-11-29,Clothing,193.14,4,Bank Transfer
+245,1077,Female,35.0,Canada,2024-04-17,Clothing,102.59,2,Credit Card
+246,1039,Male,64.0,Germany,2022-07-25,Clothing,242.2,4,PayPal
+247,1040,Male,,Canada,2024-06-06,Books,101.31,3,Bank Transfer
+248,1085,Male,25.0,Australia,2024-06-14,Toys,87.33,3,Bank Transfer
+249,1010,,67.0,Germany,2024-01-05,Beauty,310.59,3,PayPal
+250,1022,Male,19.0,France,2023-01-13,Electronics,263.93,3,PayPal
+251,1000,,39.0,Germany,2024-01-05,Beauty,336.7,3,PayPal
+252,1045,Female,69.0,Germany,2023-09-25,Clothing,465.15,2,PayPal
+253,1020,Male,45.0,Germany,2022-10-23,Home,268.47,3,PayPal
+254,1089,,35.0,UK,2022-05-27,Books,292.56,1,Credit Card
+255,1035,,51.0,Germany,2022-05-31,Beauty,49.37,1,Bank Transfer
+256,1053,,22.0,France,2024-10-20,Electronics,360.23,2,Credit Card
+257,1086,Male,34.0,USA,2023-11-01,Home,202.95,4,PayPal
+258,1056,Female,63.0,France,2023-07-05,Beauty,488.48,1,Bank Transfer
+259,1000,Male,54.0,USA,2023-10-21,Home,412.47,4,Credit Card
+260,1062,,58.0,Australia,2023-10-01,Home,263.63,2,Bank Transfer
+261,1053,Female,22.0,UK,2023-12-27,Clothing,66.0,4,Credit Card
+262,1054,Female,49.0,UK,2022-03-26,Toys,430.41,4,PayPal
+263,1039,Female,47.0,UK,2024-11-12,Clothing,400.89,4,Credit Card
+264,1014,Female,50.0,USA,2024-10-12,Beauty,96.37,4,PayPal
+265,1020,,41.0,France,2024-09-30,Home,151.16,2,Credit Card
+266,1046,,21.0,Canada,2022-06-02,Electronics,397.74,1,Credit Card
+267,1072,Female,49.0,UK,2022-04-05,Clothing,96.69,3,PayPal
+268,1052,Female,,USA,2023-09-18,Electronics,459.29,4,Credit Card
+269,1008,Female,54.0,Australia,2023-06-12,Clothing,215.14,1,Bank Transfer
+270,1073,Female,28.0,France,2022-06-19,Toys,48.08,1,PayPal
+271,1051,,41.0,UK,2023-01-22,Toys,408.8,2,Bank Transfer
+272,1056,Female,28.0,Germany,2022-10-25,Clothing,189.89,1,Bank Transfer
+273,1025,Female,34.0,France,2022-10-23,Clothing,265.62,2,Bank Transfer
+274,1040,Male,67.0,USA,2024-04-13,Beauty,60.59,4,Bank Transfer
+275,1034,,24.0,Canada,2023-11-28,Toys,6.28,4,Bank Transfer
+276,1062,Female,54.0,Canada,2022-08-06,Electronics,320.8,3,Credit Card
+277,1024,Female,61.0,Canada,2023-10-18,Toys,260.01,3,Credit Card
+278,1089,Male,64.0,Germany,2022-10-13,Clothing,298.8,3,Credit Card
+279,1074,Female,25.0,France,2023-03-09,Electronics,397.9,1,PayPal
+280,1037,Female,32.0,UK,2023-12-20,Clothing,325.07,4,PayPal
+281,1001,Female,65.0,France,2023-01-24,Books,91.51,2,Credit Card
+282,1006,Male,50.0,Canada,2022-04-28,Clothing,183.58,3,Credit Card
+283,1081,,18.0,Germany,2023-11-20,Toys,453.42,2,PayPal
+284,1090,Male,20.0,Australia,2024-05-04,Home,386.12,2,PayPal
+285,1033,,,Canada,2022-06-02,Toys,280.54,3,Bank Transfer
+286,1090,Male,,USA,2022-03-20,Toys,131.54,4,Credit Card
+287,1016,Male,18.0,France,2024-10-10,Beauty,154.52,3,Credit Card
+288,1042,Female,33.0,Germany,2024-04-19,Electronics,367.32,2,PayPal
+289,1058,,20.0,Australia,2022-01-23,Beauty,426.33,3,PayPal
+290,1050,,48.0,Canada,2022-05-25,Beauty,337.36,2,Credit Card
+291,1053,,41.0,Germany,2023-01-03,Beauty,405.72,2,Bank Transfer
+292,1023,,42.0,Australia,2022-09-16,Books,384.49,3,PayPal
+293,1024,Female,27.0,USA,2023-09-24,Electronics,79.1,1,Bank Transfer
+294,1070,Female,29.0,USA,2024-01-25,Clothing,214.85,3,Credit Card
+295,1051,Male,,France,2024-01-18,Home,80.73,1,Bank Transfer
+296,1069,Male,20.0,Germany,2022-11-29,Toys,121.44,2,Credit Card
+297,1087,Female,53.0,Canada,2023-09-15,Home,435.28,2,Bank Transfer
+298,1032,Male,69.0,Canada,2022-04-02,Home,239.08,1,PayPal
+299,1048,Female,63.0,UK,2022-09-13,Clothing,270.0,2,PayPal
+300,1028,,65.0,Canada,2023-08-12,Clothing,93.33,1,Credit Card
+301,1062,Male,59.0,France,2022-01-04,Home,159.57,1,PayPal
+302,1021,Female,44.0,USA,2023-08-30,Toys,118.97,2,Bank Transfer
+303,1025,,32.0,Canada,2023-02-16,Clothing,107.06,4,Bank Transfer
+304,1027,,38.0,UK,2023-12-08,Toys,320.79,1,Bank Transfer
+305,1084,,33.0,France,2023-03-20,Clothing,132.16,3,Credit Card
+306,1048,Female,44.0,Australia,2023-10-20,Toys,317.85,3,Bank Transfer
+307,1070,Female,64.0,France,2024-12-18,Beauty,33.94,2,Bank Transfer
+308,1080,Female,38.0,France,2024-05-13,Toys,75.18,4,PayPal
+309,1083,,35.0,France,2024-10-25,Books,140.9,2,Credit Card
+310,1048,,,France,2024-01-27,Clothing,300.54,4,Bank Transfer
+311,1019,,22.0,France,2022-08-29,Beauty,339.54,1,Bank Transfer
+312,1085,Female,54.0,USA,2022-10-22,Beauty,224.14,1,PayPal
+313,1091,Female,41.0,USA,2023-04-06,Books,225.67,1,Credit Card
+314,1062,Male,25.0,UK,2022-12-05,Home,363.64,1,Credit Card
+315,1060,,50.0,Canada,2022-04-01,Toys,12.83,3,PayPal
+316,1048,Female,61.0,Australia,2024-06-18,Toys,173.84,3,PayPal
+317,1070,Male,21.0,Germany,2024-04-22,Electronics,410.26,2,PayPal
+318,1000,Male,29.0,USA,2022-04-05,Clothing,303.59,0,PayPal
+319,1095,,32.0,Germany,2023-05-03,Home,171.93,1,Credit Card
+320,1012,,69.0,UK,2022-03-30,Home,453.23,1,Credit Card
+321,1093,Female,51.0,Canada,2022-03-19,Clothing,387.45,4,Bank Transfer
+322,1086,Male,20.0,USA,2024-06-26,Electronics,136.12,4,Bank Transfer
+323,1050,,43.0,Australia,2024-01-11,Electronics,324.42,2,Bank Transfer
+324,1055,,22.0,USA,2024-02-21,Clothing,299.9,4,Credit Card
+325,1082,Male,,Australia,2024-04-05,Toys,203.59,1,Bank Transfer
+326,1061,,47.0,Australia,2022-09-02,Toys,186.64,1,Bank Transfer
+327,1031,Male,,Canada,2022-03-30,Beauty,175.06,1,PayPal
+328,1029,Male,36.0,Canada,2024-02-28,Home,310.49,1,Credit Card
+329,1028,,67.0,Australia,2022-05-05,Clothing,223.99,1,PayPal
+330,1048,Male,,Germany,2022-10-16,Toys,416.77,2,Bank Transfer
+331,1044,Male,37.0,Germany,2022-04-17,Electronics,336.45,1,Credit Card
+332,1092,Female,38.0,Canada,2024-07-13,Clothing,39.62,2,PayPal
+333,1029,Male,23.0,USA,2022-04-16,Home,321.88,1,Bank Transfer
+334,1015,,53.0,France,2024-11-14,Toys,139.22,3,Bank Transfer
+335,1039,Male,47.0,UK,2023-01-01,Toys,298.44,3,Credit Card
+336,1018,Male,18.0,UK,2023-09-20,Electronics,341.67,0,PayPal
+337,1017,,41.0,Germany,2022-07-06,Toys,119.26,3,Bank Transfer
+338,1000,Male,30.0,Canada,2024-06-03,Toys,231.15,2,Bank Transfer
+339,1077,Male,36.0,USA,2023-01-18,Electronics,99.21,2,Credit Card
+340,1046,Male,54.0,USA,2024-06-18,Electronics,30.91,4,Credit Card
+341,1065,,68.0,Germany,2024-07-12,Home,192.35,1,Credit Card
+342,1091,Female,37.0,Germany,2022-03-03,Beauty,184.66,3,Bank Transfer
+343,1093,Female,65.0,France,2024-08-20,Clothing,497.76,2,Bank Transfer
+344,1037,Male,57.0,Australia,2022-05-08,Toys,225.94,1,PayPal
+345,1050,,33.0,UK,2023-10-14,Toys,170.12,1,PayPal
+346,1062,,47.0,UK,2024-10-18,Electronics,292.34,2,Bank Transfer
+347,1003,,41.0,UK,2024-06-25,Beauty,48.94,3,Bank Transfer
+348,1000,,55.0,Germany,2024-05-28,Beauty,481.02,4,Bank Transfer
+349,1007,Female,49.0,France,2024-03-23,Home,319.31,0,Credit Card
+350,1028,,67.0,Australia,2023-05-07,Toys,378.64,4,Credit Card
+351,1054,Female,67.0,Canada,2023-02-10,Home,89.39,3,PayPal
+352,1002,Male,30.0,Germany,2022-11-14,Books,207.69,3,PayPal
+353,1031,Male,64.0,France,2024-11-06,Electronics,214.23,4,PayPal
+354,1009,,52.0,Germany,2023-05-04,Beauty,411.79,3,Credit Card
+355,1073,,66.0,Canada,2023-01-06,Toys,5.61,1,Credit Card
+356,1082,Female,68.0,Canada,2023-02-17,Home,153.92,4,PayPal
+357,1033,Male,33.0,France,2023-09-07,Clothing,490.71,3,Credit Card
+358,1096,Male,27.0,USA,2022-07-23,Home,240.07,4,PayPal
+359,1086,,18.0,Canada,2024-11-09,Home,194.35,1,Bank Transfer
+360,1054,,44.0,Canada,2024-09-29,Books,64.32,3,Bank Transfer
+361,1091,Female,19.0,Australia,2023-04-12,Toys,487.21,1,Credit Card
+362,1031,,32.0,Canada,2023-12-12,Beauty,14.91,3,Bank Transfer
+363,1049,Female,52.0,Canada,2023-05-07,Beauty,369.9,2,PayPal
+364,1006,Male,40.0,Australia,2022-04-23,Toys,385.46,3,PayPal
+365,1092,,58.0,USA,2022-01-15,Electronics,125.61,4,Credit Card
+366,1007,,,UK,2023-12-13,Home,337.42,3,PayPal
+367,1064,,62.0,UK,2024-08-22,Clothing,51.0,1,Bank Transfer
+368,1056,Female,,Canada,2024-05-24,Books,132.24,1,PayPal
+369,1066,Male,18.0,USA,2022-06-05,Home,395.01,3,Bank Transfer
+370,1087,Male,39.0,Germany,2022-04-24,Clothing,433.02,4,Credit Card
+371,1086,Male,18.0,Australia,2024-04-15,Electronics,306.2,2,Credit Card
+372,1058,,66.0,Australia,2022-11-28,Books,255.89,4,PayPal
+373,1071,Male,60.0,USA,2024-02-25,Toys,83.86,2,Bank Transfer
+374,1053,Male,42.0,France,2023-02-16,Toys,36.24,1,Credit Card
+375,1066,Male,,Australia,2022-07-25,Home,63.24,4,PayPal
+376,1050,,65.0,Germany,2023-06-27,Books,117.54,2,PayPal
+377,1096,,64.0,UK,2022-04-17,Clothing,174.13,3,Bank Transfer
+378,1091,Female,37.0,UK,2023-01-15,Electronics,193.55,1,Bank Transfer
+379,1007,Female,24.0,USA,2023-07-29,Beauty,176.43,3,Credit Card
+380,1033,Female,31.0,UK,2023-03-19,Beauty,123.33,1,Bank Transfer
+381,1034,Female,51.0,USA,2022-09-03,Electronics,257.31,4,Bank Transfer
+382,1095,Male,33.0,Australia,2023-11-12,Toys,413.52,4,Bank Transfer
+383,1087,Female,44.0,USA,2024-04-23,Toys,143.45,1,Bank Transfer
+384,1077,Female,49.0,Australia,2024-12-28,Electronics,471.48,1,Credit Card
+385,1031,Female,21.0,USA,2023-04-15,Toys,437.3,1,Credit Card
+386,1045,,27.0,USA,2024-08-08,Electronics,85.07,4,Credit Card
+387,1015,Male,63.0,Australia,2024-10-12,Home,394.21,2,PayPal
+388,1067,,35.0,USA,2024-04-01,Beauty,289.42,3,PayPal
+389,1036,Male,23.0,France,2022-01-13,Clothing,285.45,3,PayPal
+390,1053,Female,20.0,France,2024-11-03,Beauty,198.57,4,Bank Transfer
+391,1084,,32.0,France,2024-05-11,Books,253.07,3,Bank Transfer
+392,1013,Male,,USA,2023-04-11,Home,201.6,1,Credit Card
+393,1094,,51.0,UK,2024-10-27,Books,272.17,2,Credit Card
+394,1054,,44.0,Germany,2022-06-10,Electronics,315.84,3,Bank Transfer
+395,1047,Male,62.0,France,2022-07-28,Clothing,338.78,2,PayPal
+396,1081,Male,41.0,Australia,2023-02-15,Home,268.58,1,PayPal
+397,1006,Female,47.0,Canada,2022-06-29,Beauty,362.1,3,PayPal
+398,1073,Female,65.0,Canada,2022-06-16,Toys,74.93,4,PayPal
+399,1006,Female,23.0,Australia,2024-05-09,Books,109.93,2,Credit Card
+400,1032,,55.0,Australia,2022-08-30,Books,410.27,1,PayPal
+401,1022,Female,24.0,Australia,2023-02-28,Toys,164.65,2,PayPal
+402,1084,Male,50.0,USA,2023-03-14,Home,16.33,3,Bank Transfer
+403,1018,,26.0,Germany,2024-07-28,Toys,81.13,3,Bank Transfer
+404,1018,Male,58.0,France,2022-11-24,Books,115.69,4,Credit Card
+405,1035,,,Australia,2023-06-17,Toys,478.87,1,PayPal
+406,1028,Male,43.0,USA,2022-11-13,Books,288.66,1,Credit Card
+407,1059,Male,22.0,Australia,2024-12-03,Beauty,466.7,4,PayPal
+408,1081,Female,55.0,UK,2024-09-12,Home,289.71,4,Bank Transfer
+409,1001,Female,54.0,Germany,2023-02-15,Clothing,242.28,1,PayPal
+410,1000,,21.0,UK,2024-02-25,Home,160.3,2,Bank Transfer
+411,1046,Female,45.0,UK,2024-01-29,Toys,305.15,2,Credit Card
+412,1068,,60.0,Australia,2023-01-26,Toys,73.9,4,PayPal
+413,1019,Male,26.0,Canada,2022-03-20,Home,449.64,2,Credit Card
+414,1010,,33.0,France,2022-05-24,Clothing,415.52,1,Credit Card
+415,1001,Male,36.0,USA,2024-09-12,Books,162.18,3,Credit Card
+416,1066,Male,34.0,UK,2023-10-21,Toys,476.63,3,Bank Transfer
+417,1086,Male,,Australia,2023-03-06,Toys,413.47,2,PayPal
+418,1011,,38.0,UK,2022-03-10,Home,334.82,4,Credit Card
+419,1019,,69.0,USA,2022-01-06,Books,65.27,4,Bank Transfer
+420,1004,Female,43.0,Germany,2023-06-03,Books,241.73,4,Credit Card
+421,1036,Female,62.0,USA,2022-07-23,Toys,255.52,4,Credit Card
+422,1037,Male,,USA,2024-09-16,Books,120.11,4,Bank Transfer
+423,1093,Male,65.0,France,2023-02-11,Beauty,44.58,2,Credit Card
+424,1008,,38.0,Canada,2022-09-09,Home,389.48,3,Credit Card
+425,1097,Female,38.0,UK,2023-11-18,Beauty,65.41,3,Bank Transfer
+426,1052,,46.0,Canada,2024-05-07,Clothing,299.17,2,Credit Card
+427,1043,,35.0,Germany,2023-10-27,Beauty,468.54,4,PayPal
+428,1098,,32.0,UK,2024-05-21,Electronics,438.67,2,Credit Card
+429,1085,Male,22.0,Canada,2022-01-16,Beauty,142.49,3,PayPal
+430,1023,Male,30.0,Germany,2022-06-23,Clothing,426.47,1,Bank Transfer
+431,1080,Female,26.0,Australia,2022-04-27,Home,5.16,2,Credit Card
+432,1073,Male,67.0,France,2024-12-09,Beauty,13.76,4,PayPal
+433,1029,Male,67.0,Germany,2022-08-20,Clothing,303.26,3,PayPal
+434,1058,,55.0,Canada,2024-04-27,Electronics,185.58,3,PayPal
+435,1086,Male,24.0,USA,2022-02-25,Clothing,196.3,3,Credit Card
+436,1095,,27.0,UK,2023-07-28,Toys,284.4,3,PayPal
+437,1080,Female,24.0,France,2024-06-23,Home,99.93,4,Credit Card
+438,1080,Male,28.0,Canada,2024-05-08,Books,109.82,1,Bank Transfer
+439,1013,Female,46.0,Australia,2022-08-19,Toys,244.88,3,Bank Transfer
+440,1008,Male,47.0,France,2023-10-30,Toys,378.36,2,Credit Card
+441,1039,,38.0,Germany,2022-07-17,Beauty,311.65,1,Credit Card
+442,1065,Male,44.0,Canada,2022-03-06,Beauty,152.19,3,Bank Transfer
+443,1024,,25.0,USA,2023-04-24,Beauty,218.02,1,Bank Transfer
+444,1072,Female,52.0,USA,2023-07-21,Electronics,89.48,2,PayPal
+445,1021,,40.0,Australia,2022-03-03,Clothing,41.94,3,Bank Transfer
+446,1003,,67.0,USA,2023-07-10,Home,392.43,2,PayPal
+447,1025,Female,31.0,USA,2022-11-23,Beauty,136.37,4,Bank Transfer
+448,1057,Female,46.0,UK,2024-11-25,Electronics,92.99,3,Bank Transfer
+449,1028,,37.0,Australia,2023-01-23,Electronics,347.35,3,Credit Card
+450,1097,Male,47.0,France,2024-11-02,Clothing,310.94,3,Bank Transfer
+451,1086,,34.0,Canada,2022-06-09,Home,318.43,3,Bank Transfer
+452,1036,,,USA,2023-07-04,Toys,118.3,4,Bank Transfer
+453,1074,Male,25.0,UK,2024-05-19,Home,120.16,3,Credit Card
+454,1069,,23.0,USA,2023-09-24,Electronics,114.3,1,PayPal
+455,1017,,28.0,Australia,2024-08-22,Electronics,0.0,3,Bank Transfer
+456,1084,Female,69.0,Australia,2022-08-29,Books,329.58,4,Bank Transfer
+457,1041,Male,61.0,USA,2023-01-03,Clothing,424.77,3,Bank Transfer
+458,1099,Male,37.0,Germany,2022-09-10,Books,363.54,1,Credit Card
+459,1040,Female,,Australia,2022-10-03,Electronics,397.09,4,PayPal
+460,1037,Male,63.0,Canada,2023-10-03,Toys,205.38,4,Credit Card
+461,1033,Male,62.0,France,2022-02-08,Electronics,328.77,1,Credit Card
+462,1016,Female,56.0,Germany,2022-10-06,Beauty,180.35,1,PayPal
+463,1036,,20.0,Germany,2023-06-01,Home,265.12,1,Credit Card
+464,1024,,31.0,France,2023-10-02,Home,243.41,1,Bank Transfer
+465,1075,,,USA,2024-11-06,Toys,92.56,1,Bank Transfer
+466,1086,Female,,USA,2023-01-21,Beauty,196.6,4,PayPal
+467,1085,Female,38.0,Canada,2023-02-19,Toys,482.09,4,Credit Card
+468,1084,Male,27.0,USA,2022-09-05,Books,128.05,3,PayPal
+469,1026,,23.0,Germany,2024-12-25,Beauty,71.23,3,Bank Transfer
+470,1056,Female,63.0,Germany,2022-06-17,Toys,212.2,2,Credit Card
+471,1030,Female,33.0,Australia,2023-08-18,Electronics,396.22,3,Credit Card
+472,1005,Female,40.0,Germany,2022-03-02,Clothing,293.16,3,PayPal
+473,1090,Male,43.0,France,2024-01-02,Beauty,342.08,1,Bank Transfer
+474,1039,Female,50.0,Australia,2022-12-12,Home,98.9,1,PayPal
+475,1097,,21.0,USA,2022-11-07,Home,311.38,3,Bank Transfer
+476,1011,Female,61.0,USA,2023-12-17,Electronics,165.13,2,Bank Transfer
+477,1052,Female,37.0,USA,2023-06-28,Clothing,417.98,1,PayPal
+478,1070,Male,34.0,USA,2023-04-20,Beauty,316.5,3,Credit Card
+479,1009,,,Canada,2022-12-20,Toys,103.43,3,Credit Card
+480,1044,,29.0,Australia,2022-12-13,Books,36.99,4,PayPal
+481,1016,,19.0,Australia,2022-02-06,Clothing,26.1,2,Bank Transfer
+482,1025,Female,43.0,Canada,2024-10-22,Electronics,188.85,4,PayPal
+483,1084,Male,,Germany,2022-10-28,Toys,136.6,2,Credit Card
+484,1091,,46.0,Germany,2023-09-11,Toys,324.81,1,PayPal
+485,1061,Female,53.0,France,2023-05-25,Toys,252.17,2,Bank Transfer
+486,1045,Male,65.0,UK,2023-03-09,Beauty,136.68,3,Bank Transfer
+487,1063,,53.0,Germany,2022-04-18,Clothing,78.87,3,Credit Card
+488,1001,Male,33.0,Australia,2023-03-10,Toys,67.96,2,PayPal
+489,1053,Male,24.0,USA,2023-06-30,Clothing,433.01,2,PayPal
+490,1064,Female,47.0,Germany,2024-09-23,Beauty,125.52,2,Bank Transfer
+491,1050,Male,24.0,Germany,2024-03-02,Electronics,327.6,4,Bank Transfer
+492,1052,Female,69.0,Canada,2023-09-13,Books,406.29,2,Credit Card
+493,1035,,68.0,USA,2024-11-21,Clothing,308.97,1,Credit Card
+494,1025,,26.0,France,2024-04-12,Beauty,430.48,4,Credit Card
+495,1028,Male,25.0,France,2023-05-30,Electronics,0.0,4,Bank Transfer
+496,1020,,18.0,France,2022-02-12,Clothing,478.33,0,PayPal
+497,1010,Female,21.0,Germany,2022-06-29,Electronics,70.91,1,Bank Transfer
+498,1039,Female,,France,2023-02-10,Books,55.56,4,Bank Transfer
+499,1010,Female,67.0,Australia,2022-10-05,Home,331.05,3,Credit Card
+500,1035,Male,32.0,France,2024-06-20,Books,471.7,4,Credit Card
+501,1058,Male,26.0,France,2023-02-17,Beauty,405.4,2,Credit Card
+502,1038,Male,30.0,Australia,2022-03-01,Home,42.83,1,Bank Transfer
+503,1098,Female,,Canada,2022-06-18,Home,143.29,2,PayPal
+504,1053,Female,43.0,USA,2024-07-15,Toys,465.51,3,PayPal
+505,1097,Female,41.0,Canada,2023-11-07,Clothing,130.26,3,PayPal
+506,1054,Female,61.0,Australia,2023-06-22,Toys,391.68,3,PayPal
+507,1023,Male,58.0,Australia,2023-05-03,Electronics,413.44,2,Bank Transfer
+508,1021,Male,59.0,USA,2023-11-09,Beauty,250.25,4,Credit Card
+509,1068,Male,23.0,Canada,2024-07-30,Beauty,196.24,2,Credit Card
+510,1055,Male,55.0,USA,2024-03-05,Electronics,227.81,1,PayPal
+511,1032,Female,55.0,France,2022-06-29,Electronics,117.35,4,Bank Transfer
+512,1035,Female,34.0,UK,2023-08-22,Toys,445.25,3,PayPal
+513,1019,,,France,2024-06-14,Books,0.0,2,PayPal
+514,1082,,22.0,UK,2022-10-23,Beauty,441.82,3,Bank Transfer
+515,1098,,19.0,Australia,2023-01-31,Toys,57.32,3,PayPal
+516,1080,Female,22.0,France,2022-03-10,Toys,494.2,1,Credit Card
+517,1061,Male,30.0,Canada,2023-11-09,Books,224.42,4,Bank Transfer
+518,1097,Male,59.0,UK,2022-01-03,Books,28.68,1,PayPal
+519,1072,Male,46.0,France,2024-03-18,Books,23.82,0,Credit Card
+520,1025,Female,69.0,Germany,2024-04-16,Clothing,374.37,1,Bank Transfer
+521,1065,,26.0,UK,2024-12-02,Toys,331.22,3,PayPal
+522,1072,Male,23.0,USA,2024-11-07,Clothing,402.05,1,PayPal
+523,1072,,,Australia,2022-11-03,Home,57.16,1,Credit Card
+524,1039,,,Australia,2023-07-20,Home,22.61,4,Bank Transfer
+525,1016,Female,69.0,Canada,2023-11-01,Toys,256.75,4,PayPal
+526,1000,Female,39.0,France,2022-04-19,Electronics,196.86,1,Credit Card
+527,1088,Male,25.0,France,2024-10-28,Books,233.66,4,Credit Card
+528,1060,Female,20.0,USA,2023-05-28,Clothing,495.84,4,PayPal
+529,1042,Female,47.0,France,2024-08-26,Home,485.52,1,PayPal
+530,1041,Female,21.0,France,2023-05-03,Toys,471.45,3,Bank Transfer
+531,1024,Male,28.0,USA,2024-10-27,Electronics,393.0,1,Credit Card
+532,1038,,54.0,USA,2022-07-13,Toys,180.65,4,Credit Card
+533,1034,,45.0,Germany,2023-04-12,Electronics,209.0,3,Bank Transfer
+534,1002,Male,,Australia,2024-02-27,Toys,277.06,2,PayPal
+535,1043,,64.0,Germany,2023-04-26,Books,416.11,3,Bank Transfer
+536,1050,,43.0,USA,2024-11-01,Books,39.01,4,Bank Transfer
+537,1093,Male,49.0,Australia,2023-09-27,Electronics,0.0,3,Bank Transfer
+538,1097,,19.0,Australia,2023-05-22,Toys,45.9,1,Bank Transfer
+539,1011,Female,42.0,UK,2023-09-18,Books,259.76,2,Bank Transfer
+540,1018,Male,61.0,Australia,2024-12-19,Toys,449.96,2,Credit Card
+541,1043,Male,45.0,UK,2023-04-05,Toys,392.33,2,PayPal
+542,1058,Female,29.0,Australia,2024-05-11,Books,117.78,4,Credit Card
+543,1048,Female,40.0,UK,2022-07-17,Beauty,488.12,4,Bank Transfer
+544,1060,Female,31.0,Canada,2022-10-26,Home,335.34,2,Credit Card
+545,1016,Female,29.0,Australia,2023-10-16,Home,10.16,3,PayPal
+546,1073,Male,35.0,Germany,2024-10-29,Toys,131.43,2,PayPal
+547,1056,Male,35.0,UK,2023-08-12,Home,134.05,3,Bank Transfer
+548,1054,Male,46.0,UK,2024-11-18,Clothing,39.28,3,PayPal
+549,1046,Female,,Australia,2022-09-28,Books,480.11,4,PayPal
+550,1011,Female,27.0,Australia,2024-08-14,Home,241.74,3,Bank Transfer
+551,1061,Female,20.0,UK,2024-06-03,Beauty,448.43,2,Credit Card
+552,1079,Female,57.0,USA,2023-04-13,Home,164.5,4,Credit Card
+553,1087,Female,57.0,France,2023-09-23,Toys,66.99,1,Bank Transfer
+554,1082,Male,57.0,Australia,2024-05-01,Electronics,239.8,1,Credit Card
+555,1007,Female,33.0,Australia,2022-01-01,Home,61.41,4,Bank Transfer
+556,1094,Female,59.0,Canada,2023-04-18,Electronics,245.58,2,Bank Transfer
+557,1020,Male,36.0,France,2023-03-22,Books,460.55,1,Bank Transfer
+558,1080,,49.0,Germany,2022-11-23,Electronics,262.78,1,Credit Card
+559,1086,,44.0,Australia,2023-10-30,Home,310.17,3,Credit Card
+560,1079,Female,,Australia,2024-06-19,Beauty,82.54,3,PayPal
+561,1069,,53.0,Australia,2024-07-31,Clothing,26.65,2,Bank Transfer
+562,1071,,48.0,France,2024-10-14,Beauty,59.85,4,Bank Transfer
+563,1024,Male,21.0,Canada,2023-05-16,Beauty,301.27,2,Bank Transfer
+564,1081,Female,23.0,UK,2023-12-24,Clothing,52.03,4,Credit Card
+565,1088,Male,35.0,UK,2023-11-18,Books,191.12,1,PayPal
+566,1011,Male,42.0,USA,2023-11-18,Home,277.3,3,Credit Card
+567,1014,Female,26.0,USA,2024-11-15,Books,197.38,2,Bank Transfer
+568,1058,Male,44.0,Australia,2022-11-28,Toys,86.02,2,Bank Transfer
+569,1025,Female,30.0,Canada,2024-03-05,Toys,140.53,4,Credit Card
+570,1025,Female,59.0,UK,2024-01-06,Electronics,464.52,4,PayPal
+571,1046,,,France,2022-09-21,Beauty,339.61,2,Credit Card
+572,1031,Female,69.0,France,2024-10-20,Books,250.54,4,Bank Transfer
+573,1009,Female,51.0,Canada,2022-05-12,Clothing,11.29,2,Bank Transfer
+574,1015,Female,33.0,USA,2023-03-17,Books,496.25,2,Bank Transfer
+575,1070,Female,58.0,France,2024-03-11,Electronics,337.37,2,Credit Card
+576,1016,Female,69.0,Germany,2024-10-28,Home,161.88,1,Credit Card
+577,1022,,52.0,Canada,2024-09-10,Beauty,440.24,4,PayPal
+578,1025,,68.0,Germany,2024-08-19,Beauty,132.92,3,Credit Card
+579,1084,Male,19.0,Germany,2023-06-05,Books,274.29,3,Bank Transfer
+580,1085,Female,42.0,USA,2022-05-26,Electronics,319.86,4,Credit Card
+581,1006,Female,68.0,UK,2022-12-31,Toys,114.43,2,PayPal
+582,1013,,63.0,Canada,2024-11-11,Clothing,489.31,3,PayPal
+583,1078,,40.0,UK,2023-04-28,Home,375.35,3,PayPal
+584,1006,Male,48.0,Australia,2022-12-15,Books,281.12,4,PayPal
+585,1008,Female,52.0,France,2022-11-06,Books,94.39,3,PayPal
+586,1047,Female,68.0,France,2022-08-17,Clothing,31.66,2,Bank Transfer
+587,1071,Male,49.0,Canada,2022-02-07,Toys,163.43,4,Bank Transfer
+588,1058,Female,40.0,USA,2022-03-13,Books,377.83,2,Bank Transfer
+589,1086,Female,54.0,France,2023-01-16,Clothing,138.32,3,PayPal
+590,1092,Female,50.0,France,2024-01-09,Beauty,272.08,3,Credit Card
+591,1081,,38.0,UK,2024-08-07,Beauty,365.33,2,Credit Card
+592,1094,,42.0,France,2022-04-24,Clothing,58.43,1,Credit Card
+593,1093,,35.0,USA,2023-12-09,Home,344.22,3,Credit Card
+594,1038,Female,29.0,France,2023-10-06,Beauty,50.48,1,Credit Card
+595,1098,,19.0,France,2024-09-05,Clothing,482.74,3,Credit Card
+596,1017,Male,38.0,Germany,2024-06-13,Clothing,246.76,1,Bank Transfer
+597,1058,Female,56.0,USA,2022-10-30,Beauty,79.58,1,Bank Transfer
+598,1016,Female,32.0,France,2024-12-17,Clothing,174.48,1,PayPal
+599,1013,Female,19.0,Australia,2023-08-20,Books,209.64,2,Bank Transfer
+600,1030,Female,69.0,Australia,2024-02-07,Clothing,380.3,1,Bank Transfer
+601,1023,Female,67.0,USA,2023-09-13,Clothing,372.99,1,Bank Transfer
+602,1098,Male,35.0,USA,2023-01-15,Clothing,307.91,1,Credit Card
+603,1059,,21.0,France,2022-08-18,Clothing,57.44,3,Bank Transfer
+604,1044,Male,69.0,France,2024-10-16,Toys,80.03,1,Credit Card
+605,1097,,48.0,USA,2024-12-04,Books,51.41,3,Credit Card
+606,1002,,51.0,UK,2022-01-09,Clothing,290.7,1,Bank Transfer
+607,1036,Male,40.0,UK,2022-06-15,Electronics,439.18,1,Credit Card
+608,1042,,67.0,USA,2023-10-23,Electronics,219.73,2,PayPal
+609,1039,,55.0,USA,2022-12-06,Electronics,84.62,3,Credit Card
+610,1089,Male,32.0,UK,2022-10-01,Beauty,281.23,1,Bank Transfer
+611,1054,,28.0,UK,2024-12-17,Beauty,406.82,3,PayPal
+612,1086,Female,24.0,Australia,2024-03-15,Home,372.15,3,Credit Card
+613,1038,,33.0,Germany,2023-12-23,Toys,441.32,4,Bank Transfer
+614,1014,Male,60.0,UK,2022-03-20,Electronics,142.56,2,Bank Transfer
+615,1003,Female,33.0,UK,2024-05-15,Toys,101.01,2,PayPal
+616,1092,Female,35.0,Canada,2023-01-23,Electronics,440.51,2,Bank Transfer
+617,1085,,52.0,Australia,2022-07-08,Home,330.49,4,Bank Transfer
+618,1024,Male,,Australia,2023-12-11,Books,158.91,4,PayPal
+619,1012,Female,68.0,France,2022-07-27,Toys,372.46,2,Credit Card
+620,1081,,65.0,Germany,2023-12-23,Books,408.48,4,PayPal
+621,1032,Female,21.0,Germany,2024-11-03,Home,309.41,4,PayPal
+622,1015,Male,66.0,USA,2024-04-05,Toys,345.5,4,PayPal
+623,1041,,32.0,Canada,2024-05-18,Books,190.75,2,Credit Card
+624,1065,Female,54.0,France,2024-07-14,Home,271.65,2,Credit Card
+625,1054,Male,,Germany,2023-05-08,Clothing,264.46,2,Credit Card
+626,1098,Female,69.0,UK,2023-11-19,Toys,424.78,4,Credit Card
+627,1041,,42.0,UK,2024-08-09,Books,420.78,2,Credit Card
+628,1033,Male,40.0,UK,2024-02-24,Home,417.18,4,PayPal
+629,1029,,,France,2023-10-25,Clothing,10.46,1,Credit Card
+630,1012,Female,,Australia,2024-05-01,Toys,376.03,4,PayPal
+631,1012,Female,29.0,Australia,2023-11-24,Clothing,380.54,3,PayPal
+632,1017,Male,29.0,Germany,2022-09-05,Electronics,340.8,2,Credit Card
+633,1031,Female,33.0,Australia,2024-01-08,Toys,379.35,2,Bank Transfer
+634,1095,,55.0,France,2023-12-01,Home,421.78,3,Bank Transfer
+635,1098,Female,38.0,USA,2023-02-07,Home,237.81,4,Credit Card
+636,1038,,69.0,USA,2023-01-20,Toys,253.51,1,Credit Card
+637,1045,Female,65.0,Australia,2024-09-17,Electronics,66.73,3,Credit Card
+638,1028,,62.0,Canada,2023-03-07,Toys,195.76,3,Credit Card
+639,1061,,40.0,USA,2024-03-20,Books,323.47,4,PayPal
+640,1092,,55.0,Germany,2024-01-23,Home,391.3,2,Bank Transfer
+641,1061,Female,19.0,Germany,2024-08-31,Beauty,112.52,4,PayPal
+642,1056,,63.0,Australia,2023-01-07,Clothing,73.22,3,Bank Transfer
+643,1015,Male,62.0,Germany,2023-03-03,Home,333.21,3,PayPal
+644,1055,Female,40.0,UK,2023-11-15,Electronics,5.93,2,PayPal
+645,1009,,54.0,UK,2022-05-01,Beauty,93.29,2,Credit Card
+646,1029,,54.0,Germany,2023-03-20,Toys,19.39,2,PayPal
+647,1024,,27.0,Australia,2022-12-31,Home,87.61,4,PayPal
+648,1083,,54.0,USA,2023-02-27,Books,94.75,2,Credit Card
+649,1004,Male,30.0,USA,2023-06-06,Beauty,196.9,3,Bank Transfer
+650,1064,Male,,Canada,2023-05-12,Electronics,204.15,3,Bank Transfer
+651,1093,Male,69.0,France,2024-04-19,Electronics,437.76,1,PayPal
+652,1048,,,Canada,2022-05-06,Beauty,257.5,4,Bank Transfer
+653,1002,,49.0,Australia,2022-08-03,Clothing,363.09,1,PayPal
+654,1044,Female,52.0,Australia,2022-08-23,Home,56.55,3,PayPal
+655,1013,Male,37.0,Australia,2022-12-26,Toys,116.59,1,Bank Transfer
+656,1029,,29.0,France,2023-08-19,Electronics,352.96,3,Bank Transfer
+657,1067,,49.0,USA,2024-12-14,Books,31.14,1,Bank Transfer
+658,1017,Male,20.0,Germany,2022-08-26,Books,245.87,2,Bank Transfer
+659,1061,,23.0,UK,2022-11-29,Toys,301.69,1,Bank Transfer
+660,1036,,21.0,Canada,2022-04-10,Books,303.06,2,Bank Transfer
+661,1024,,32.0,Canada,2023-10-07,Clothing,16.35,2,Bank Transfer
+662,1047,,56.0,USA,2023-09-26,Toys,164.44,4,Bank Transfer
+663,1064,Female,32.0,France,2023-05-30,Books,320.06,2,Credit Card
+664,1052,Female,19.0,Canada,2024-04-22,Clothing,78.75,2,Bank Transfer
+665,1078,Female,51.0,France,2023-12-25,Books,349.23,1,Credit Card
+666,1072,Male,48.0,Canada,2023-10-08,Home,374.23,3,PayPal
+667,1014,Male,18.0,Australia,2022-04-07,Toys,491.07,4,PayPal
+668,1048,Male,39.0,Germany,2022-11-18,Books,108.87,2,Credit Card
+669,1087,Female,57.0,USA,2023-10-15,Books,413.44,4,Credit Card
+670,1067,Male,30.0,France,2023-08-29,Clothing,262.55,1,Bank Transfer
+671,1011,,69.0,USA,2024-06-26,Home,189.86,2,Bank Transfer
+672,1058,,26.0,Australia,2024-12-16,Home,65.58,1,PayPal
+673,1036,,39.0,Australia,2022-01-31,Clothing,369.08,4,Bank Transfer
+674,1060,,63.0,UK,2024-06-13,Home,121.75,1,Credit Card
+675,1042,,29.0,USA,2023-08-14,Beauty,188.85,4,Bank Transfer
+676,1069,,69.0,France,2024-01-11,Books,35.96,1,PayPal
+677,1038,,,France,2022-01-10,Books,401.68,4,Bank Transfer
+678,1055,Male,,Australia,2023-07-01,Home,384.46,3,Bank Transfer
+679,1062,Female,38.0,UK,2023-04-09,Books,368.14,1,Credit Card
+680,1045,Female,21.0,UK,2023-08-29,Home,153.22,1,Credit Card
+681,1087,Female,19.0,Canada,2023-10-13,Clothing,90.87,3,PayPal
+682,1010,Female,27.0,France,2024-04-16,Toys,320.59,3,PayPal
+683,1061,,55.0,USA,2024-04-28,Clothing,250.6,1,PayPal
+684,1076,,63.0,UK,2024-07-26,Toys,93.23,3,PayPal
+685,1097,,27.0,Australia,2022-12-09,Beauty,344.53,2,PayPal
+686,1024,,67.0,USA,2024-01-29,Clothing,495.61,4,PayPal
+687,1070,Male,25.0,UK,2022-12-07,Electronics,374.87,4,Credit Card
+688,1051,Female,,France,2023-02-28,Beauty,371.29,4,PayPal
+689,1003,Male,51.0,UK,2023-11-09,Books,475.4,2,PayPal
+690,1058,Female,,France,2024-01-25,Clothing,105.45,3,Bank Transfer
+691,1071,Male,41.0,UK,2022-02-15,Toys,284.95,3,Credit Card
+692,1019,Female,22.0,Canada,2023-08-28,Home,489.93,1,Bank Transfer
+693,1092,Female,41.0,Australia,2023-06-07,Home,86.82,3,Bank Transfer
+694,1062,Male,63.0,UK,2024-11-05,Clothing,351.62,1,Credit Card
+695,1053,Male,60.0,Canada,2024-11-21,Clothing,294.98,2,PayPal
+696,1073,,43.0,Australia,2023-09-21,Beauty,295.31,4,Bank Transfer
+697,1097,Male,55.0,Canada,2022-09-14,Clothing,350.35,4,PayPal
+698,1056,Female,24.0,USA,2023-12-28,Home,465.16,4,Credit Card
+699,1089,Female,39.0,France,2022-07-18,Electronics,392.38,3,Bank Transfer
+700,1040,Female,37.0,Australia,2024-08-24,Clothing,32.79,1,Bank Transfer
+701,1002,Female,38.0,UK,2024-04-09,Home,427.1,1,Credit Card
+702,1005,Male,26.0,UK,2022-02-11,Home,116.64,2,Credit Card
+703,1004,,28.0,Germany,2023-09-05,Clothing,191.57,3,Bank Transfer
+704,1004,Female,64.0,UK,2024-07-08,Beauty,233.56,2,Bank Transfer
+705,1053,Female,45.0,France,2024-05-26,Toys,243.05,1,Bank Transfer
+706,1046,Female,68.0,France,2024-10-26,Toys,220.41,1,Credit Card
+707,1086,Male,58.0,UK,2022-02-12,Beauty,468.99,4,PayPal
+708,1048,Female,49.0,Australia,2022-05-11,Books,354.48,3,PayPal
+709,1008,,59.0,Canada,2024-09-25,Home,317.43,1,PayPal
+710,1098,,38.0,Germany,2023-10-28,Books,29.67,4,PayPal
+711,1019,Female,29.0,France,2022-07-30,Books,452.44,3,Credit Card
+712,1060,Female,63.0,Germany,2023-12-19,Toys,455.15,2,Credit Card
+713,1034,Male,53.0,Germany,2022-10-10,Toys,391.21,3,PayPal
+714,1049,Female,62.0,France,2022-03-20,Electronics,8.48,3,Bank Transfer
+715,1081,Male,,Canada,2023-02-09,Home,33.35,1,Bank Transfer
+716,1061,,57.0,Canada,2023-08-12,Electronics,116.49,1,Credit Card
+717,1016,Male,68.0,France,2023-05-24,Beauty,70.02,3,PayPal
+718,1087,Male,40.0,UK,2022-11-25,Clothing,202.42,1,Credit Card
+719,1002,Female,32.0,Australia,2023-12-08,Electronics,461.7,1,PayPal
+720,1031,,60.0,Australia,2023-05-23,Clothing,238.67,1,PayPal
+721,1098,Male,55.0,UK,2023-06-09,Books,11.63,4,Bank Transfer
+722,1012,,,Germany,2023-08-12,Home,144.96,4,Bank Transfer
+723,1088,Male,29.0,Australia,2023-03-09,Beauty,27.07,3,Bank Transfer
+724,1072,,42.0,UK,2023-10-17,Electronics,22.96,1,Credit Card
+725,1067,Male,37.0,Germany,2023-01-27,Home,141.48,4,Bank Transfer
+726,1013,,64.0,Australia,2022-05-08,Beauty,141.43,3,Bank Transfer
+727,1097,Male,62.0,Australia,2024-01-01,Books,394.63,1,Credit Card
+728,1010,,36.0,UK,2022-01-31,Books,487.54,2,Credit Card
+729,1055,Male,26.0,Australia,2024-04-17,Books,188.75,1,Credit Card
+730,1066,Female,29.0,Canada,2022-03-22,Books,217.3,1,Bank Transfer
+731,1091,,64.0,Canada,2023-06-28,Toys,423.17,4,PayPal
+732,1028,Female,18.0,Canada,2022-12-15,Toys,137.73,3,Bank Transfer
+733,1008,Female,62.0,UK,2024-10-06,Books,82.41,3,PayPal
+734,1066,Male,54.0,Australia,2022-04-17,Books,427.28,4,Credit Card
+735,1024,Female,43.0,Germany,2024-10-09,Electronics,28.02,1,Bank Transfer
+736,1097,,,Australia,2022-03-04,Home,311.75,2,Bank Transfer
+737,1075,Male,67.0,Germany,2022-02-18,Electronics,283.19,1,PayPal
+738,1041,Male,54.0,Australia,2023-01-20,Books,176.23,1,Bank Transfer
+739,1008,,20.0,Canada,2022-11-06,Beauty,161.02,2,Bank Transfer
+740,1078,,29.0,Australia,2022-02-01,Toys,387.07,4,Bank Transfer
+741,1039,Female,56.0,Australia,2024-08-23,Clothing,47.78,3,Credit Card
+742,1024,Female,38.0,Canada,2022-08-25,Toys,122.21,4,PayPal
+743,1004,Male,69.0,UK,2023-01-06,Toys,367.56,4,Bank Transfer
+744,1010,,57.0,UK,2022-07-16,Beauty,276.42,1,PayPal
+745,1058,,32.0,Australia,2024-01-06,Beauty,68.35,3,Credit Card
+746,1097,Male,58.0,Australia,2024-11-05,Toys,441.66,3,Credit Card
+747,1087,Female,54.0,Germany,2022-06-27,Clothing,199.76,4,PayPal
+748,1078,,24.0,Australia,2024-05-26,Books,414.79,2,Bank Transfer
+749,1037,Female,49.0,USA,2022-12-05,Books,394.92,4,Bank Transfer
+750,1071,Female,27.0,Germany,2023-12-24,Books,314.09,2,Credit Card
+751,1004,Male,39.0,UK,2024-12-22,Beauty,0.0,3,Credit Card
+752,1047,,65.0,France,2023-02-03,Toys,489.88,4,Credit Card
+753,1089,Male,22.0,UK,2023-07-28,Home,76.76,1,Credit Card
+754,1017,Male,33.0,UK,2022-09-18,Beauty,363.95,4,Bank Transfer
+755,1069,Female,40.0,Australia,2024-07-30,Home,99.64,3,Credit Card
+756,1036,,38.0,Australia,2024-08-01,Electronics,172.44,1,PayPal
+757,1059,Male,28.0,France,2022-06-27,Home,157.81,1,PayPal
+758,1047,,58.0,Australia,2022-09-12,Toys,473.78,2,PayPal
+759,1076,Male,,Australia,2023-04-29,Books,483.84,1,Bank Transfer
+760,1027,,23.0,UK,2022-06-17,Home,95.59,1,PayPal
+761,1068,Male,,Germany,2024-06-17,Beauty,15.91,4,PayPal
+762,1076,Female,63.0,France,2022-02-09,Clothing,361.4,3,Bank Transfer
+763,1080,Female,60.0,USA,2023-04-30,Clothing,211.91,2,Credit Card
+764,1039,Male,58.0,UK,2024-06-13,Beauty,48.98,4,Credit Card
+765,1044,Female,64.0,USA,2024-11-18,Books,343.46,1,Credit Card
+766,1095,Male,,USA,2023-08-07,Home,274.83,1,Credit Card
+767,1061,Female,39.0,France,2023-09-09,Beauty,490.36,2,Credit Card
+768,1092,,46.0,Canada,2022-11-05,Toys,117.57,3,Bank Transfer
+769,1057,Female,18.0,USA,2022-04-29,Toys,204.97,2,PayPal
+770,1066,,34.0,Australia,2024-07-08,Home,273.56,4,Credit Card
+771,1055,,31.0,USA,2024-12-08,Electronics,396.89,2,PayPal
+772,1039,Female,33.0,Canada,2024-09-01,Electronics,276.68,1,PayPal
+773,1097,,62.0,Germany,2023-01-13,Clothing,308.39,4,PayPal
+774,1039,Female,22.0,Canada,2022-06-08,Books,116.94,1,Bank Transfer
+775,1090,,40.0,Germany,2024-12-19,Clothing,424.22,3,Credit Card
+776,1076,Female,34.0,Australia,2023-04-14,Books,217.17,1,Bank Transfer
+777,1032,,68.0,Germany,2024-11-28,Books,74.78,1,PayPal
+778,1005,Male,24.0,Canada,2024-07-21,Beauty,333.77,2,Credit Card
+779,1087,Female,64.0,USA,2022-07-08,Books,111.96,1,Credit Card
+780,1018,Female,18.0,Australia,2024-05-29,Beauty,53.29,4,Bank Transfer
+781,1079,Female,21.0,Germany,2022-03-05,Books,431.68,4,Bank Transfer
+782,1039,,42.0,Canada,2023-06-24,Toys,232.78,3,PayPal
+783,1091,Male,46.0,UK,2024-04-07,Beauty,375.9,4,PayPal
+784,1096,,64.0,USA,2023-10-28,Home,148.84,2,PayPal
+785,1058,,44.0,Germany,2024-10-24,Books,394.55,3,PayPal
+786,1058,Female,28.0,France,2023-07-30,Home,60.41,4,Credit Card
+787,1047,,,USA,2022-04-18,Books,181.21,2,Bank Transfer
+788,1040,,44.0,UK,2024-02-25,Beauty,489.14,0,Bank Transfer
+789,1012,Male,49.0,Australia,2024-10-02,Toys,398.02,4,Credit Card
+790,1044,,,Australia,2023-06-15,Toys,251.14,1,Credit Card
+791,1088,Male,42.0,UK,2022-01-20,Home,173.19,4,Bank Transfer
+792,1052,Female,40.0,Canada,2023-10-15,Home,436.71,4,PayPal
+793,1041,Male,52.0,Australia,2024-02-01,Clothing,274.7,2,Bank Transfer
+794,1099,Male,42.0,Australia,2022-06-13,Clothing,380.42,2,Bank Transfer
+795,1062,Female,24.0,UK,2023-11-05,Electronics,0.0,1,Bank Transfer
+796,1026,Male,,France,2023-07-17,Clothing,13.88,4,Credit Card
+797,1037,Male,48.0,Canada,2024-09-14,Beauty,67.5,1,Credit Card
+798,1059,Female,68.0,UK,2023-12-16,Clothing,331.52,4,Credit Card
+799,1006,,,Australia,2022-08-26,Beauty,85.0,3,Credit Card
+800,1004,Male,54.0,Germany,2023-11-08,Books,131.47,3,Credit Card
+801,1044,,59.0,Australia,2022-10-01,Beauty,473.59,1,Bank Transfer
+802,1057,Female,66.0,Australia,2024-03-21,Beauty,282.29,1,PayPal
+803,1030,Female,61.0,USA,2024-10-07,Beauty,376.61,1,Credit Card
+804,1022,,32.0,France,2023-02-24,Electronics,281.2,2,Credit Card
+805,1041,Male,28.0,France,2024-08-14,Clothing,278.49,2,Credit Card
+806,1009,,46.0,France,2024-04-16,Clothing,51.61,2,Bank Transfer
+807,1031,Female,22.0,Australia,2024-01-22,Home,175.11,1,Bank Transfer
+808,1052,Female,69.0,Germany,2023-12-24,Electronics,144.8,4,Bank Transfer
+809,1029,Male,,UK,2023-11-08,Electronics,198.41,3,PayPal
+810,1038,Female,20.0,USA,2024-07-09,Electronics,400.18,1,PayPal
+811,1030,,36.0,USA,2023-02-21,Home,189.11,2,Credit Card
+812,1081,,19.0,Australia,2023-05-16,Toys,228.59,2,Credit Card
+813,1099,,38.0,Germany,2023-01-17,Electronics,201.7,1,Credit Card
+814,1001,,34.0,Canada,2022-05-15,Electronics,51.24,1,PayPal
+815,1077,Male,24.0,UK,2023-03-10,Home,223.33,2,Credit Card
+816,1076,,22.0,France,2023-12-02,Toys,101.83,4,Credit Card
+817,1092,Male,39.0,Canada,2023-01-14,Electronics,97.43,2,Bank Transfer
+818,1011,Female,28.0,Australia,2023-12-23,Electronics,51.55,2,PayPal
+819,1038,Female,,Australia,2024-06-04,Books,181.55,0,Bank Transfer
+820,1065,Male,42.0,Australia,2024-08-06,Toys,379.95,4,Bank Transfer
+821,1095,Male,28.0,Australia,2024-11-03,Clothing,141.84,2,Bank Transfer
+822,1012,Female,64.0,Germany,2023-08-12,Electronics,159.61,2,Bank Transfer
+823,1045,Female,22.0,UK,2023-06-07,Beauty,323.12,3,Bank Transfer
+824,1026,,53.0,UK,2022-02-14,Home,101.94,1,Bank Transfer
+825,1016,Male,23.0,Australia,2024-02-07,Books,448.99,3,Bank Transfer
+826,1094,Female,39.0,UK,2023-05-20,Clothing,262.49,3,Credit Card
+827,1097,Male,56.0,Canada,2022-10-10,Clothing,226.56,2,PayPal
+828,1059,Female,57.0,Australia,2024-01-28,Beauty,281.12,1,Bank Transfer
+829,1063,Male,48.0,Canada,2022-11-26,Books,87.19,4,Bank Transfer
+830,1087,Male,63.0,Germany,2023-07-06,Home,308.67,2,PayPal
+831,1034,Female,19.0,France,2023-02-06,Beauty,184.73,4,Credit Card
+832,1069,,45.0,Canada,2023-06-13,Clothing,449.11,4,Credit Card
+833,1082,,59.0,Australia,2023-03-11,Clothing,88.58,1,PayPal
+834,1029,,28.0,USA,2024-07-15,Toys,255.99,3,PayPal
+835,1070,Female,56.0,Canada,2024-12-25,Clothing,301.07,1,PayPal
+836,1073,Female,,Canada,2023-03-06,Electronics,21.52,4,PayPal
+837,1095,,45.0,Australia,2024-05-13,Electronics,185.03,2,Credit Card
+838,1097,Female,28.0,UK,2022-01-16,Beauty,367.65,4,PayPal
+839,1062,Female,21.0,USA,2024-03-13,Books,411.09,2,Bank Transfer
+840,1027,,24.0,France,2022-10-24,Books,160.02,2,Credit Card
+841,1059,Female,39.0,USA,2022-05-13,Home,400.3,1,PayPal
+842,1078,Female,31.0,France,2023-01-10,Home,484.04,4,PayPal
+843,1093,Male,30.0,Germany,2023-09-24,Toys,429.15,3,Credit Card
+844,1036,Male,44.0,UK,2024-01-29,Books,63.23,4,Credit Card
+845,1092,,62.0,Germany,2024-05-12,Toys,371.17,4,Bank Transfer
+846,1021,Male,53.0,Canada,2023-01-09,Home,163.24,3,PayPal
+847,1067,Male,64.0,Canada,2024-12-08,Clothing,494.27,1,PayPal
+848,1019,Female,64.0,UK,2024-01-10,Beauty,245.25,4,Bank Transfer
+849,1095,Male,52.0,Germany,2024-09-30,Toys,65.6,4,PayPal
+850,1099,Female,34.0,USA,2024-02-02,Clothing,363.97,2,Bank Transfer
+851,1067,Male,60.0,Germany,2023-11-28,Toys,164.89,4,Credit Card
+852,1090,,36.0,France,2022-01-27,Toys,498.55,3,Bank Transfer
+853,1063,Female,37.0,Australia,2022-05-25,Home,489.99,2,Credit Card
+854,1016,Male,33.0,Canada,2023-04-03,Beauty,329.79,1,Bank Transfer
+855,1011,Female,24.0,USA,2022-12-11,Beauty,69.26,2,Credit Card
+856,1021,,21.0,Canada,2023-09-21,Beauty,345.0,3,Credit Card
+857,1016,,43.0,Germany,2024-12-10,Toys,51.05,3,Bank Transfer
+858,1009,Female,54.0,UK,2023-01-13,Home,19.54,2,Bank Transfer
+859,1064,,53.0,USA,2023-04-21,Toys,412.36,1,Bank Transfer
+860,1021,,,Australia,2024-10-28,Beauty,108.83,2,Bank Transfer
+861,1089,Male,49.0,UK,2024-06-22,Beauty,192.62,1,Credit Card
+862,1081,,27.0,Australia,2023-07-28,Toys,486.86,2,PayPal
+863,1049,Male,21.0,Germany,2024-01-06,Books,171.74,3,Bank Transfer
+864,1013,Female,41.0,France,2024-05-09,Books,151.76,4,Bank Transfer
+865,1063,,18.0,UK,2024-04-04,Home,459.51,4,Bank Transfer
+866,1046,Female,45.0,UK,2023-06-19,Toys,59.82,1,Bank Transfer
+867,1028,,23.0,Germany,2023-10-23,Clothing,380.99,1,PayPal
+868,1075,Male,36.0,USA,2024-05-04,Electronics,494.09,1,PayPal
+869,1035,,,Australia,2023-05-29,Home,451.14,3,Bank Transfer
+870,1098,Female,60.0,Germany,2023-07-01,Books,327.58,2,PayPal
+871,1051,,58.0,UK,2024-12-27,Books,160.46,3,PayPal
+872,1075,Male,56.0,Canada,2023-12-06,Home,130.89,4,Bank Transfer
+873,1006,Female,48.0,Canada,2023-02-25,Books,410.53,1,Bank Transfer
+874,1028,Male,30.0,UK,2023-04-22,Clothing,440.51,2,Bank Transfer
+875,1010,,24.0,USA,2023-01-26,Books,265.09,4,PayPal
+876,1032,,19.0,UK,2022-12-25,Electronics,125.95,4,Credit Card
+877,1005,Male,31.0,Canada,2022-07-07,Electronics,60.91,4,Bank Transfer
+878,1078,Female,28.0,France,2022-10-27,Toys,48.15,3,Bank Transfer
+879,1031,Male,58.0,UK,2023-05-06,Clothing,360.94,1,PayPal
+880,1050,Female,36.0,UK,2022-07-05,Books,212.96,4,Bank Transfer
+881,1074,Female,23.0,France,2024-04-12,Books,453.15,1,Bank Transfer
+882,1057,Female,48.0,USA,2024-12-08,Home,371.14,3,Bank Transfer
+883,1086,Male,,Germany,2022-10-15,Toys,99.67,4,PayPal
+884,1025,Female,25.0,Canada,2022-10-25,Electronics,308.82,3,PayPal
+885,1097,Male,37.0,Canada,2022-12-03,Beauty,220.58,3,Credit Card
+886,1045,Male,68.0,Australia,2024-01-23,Home,290.74,1,Bank Transfer
+887,1097,Male,43.0,Germany,2023-03-06,Home,370.34,4,Credit Card
+888,1028,,48.0,Germany,2024-07-04,Books,404.07,3,Bank Transfer
+889,1003,,49.0,Germany,2024-03-25,Electronics,422.65,4,PayPal
+890,1080,,60.0,Germany,2024-07-16,Home,130.72,1,Credit Card
+891,1098,Female,34.0,Canada,2023-03-16,Books,20.4,3,Credit Card
+892,1012,,23.0,UK,2022-06-06,Toys,370.95,1,Credit Card
+893,1038,,59.0,UK,2022-10-29,Clothing,57.64,4,Credit Card
+894,1014,,52.0,France,2023-04-06,Electronics,160.89,4,PayPal
+895,1028,Female,42.0,UK,2022-12-20,Toys,6.89,0,Bank Transfer
+896,1028,Male,29.0,Australia,2023-07-15,Books,342.43,2,Credit Card
+897,1074,,41.0,USA,2022-10-06,Clothing,87.73,3,Bank Transfer
+898,1031,Male,,USA,2023-04-15,Home,329.36,4,Credit Card
+899,1001,Male,42.0,Australia,2022-01-22,Toys,495.91,4,Bank Transfer
+900,1046,Male,41.0,Germany,2024-04-09,Home,40.97,3,PayPal
+901,1077,Male,29.0,France,2022-07-16,Home,43.15,1,PayPal
+902,1083,,46.0,Canada,2023-03-03,Clothing,173.49,1,Credit Card
+903,1021,Female,20.0,Australia,2022-03-12,Clothing,433.86,1,PayPal
+904,1074,,34.0,UK,2022-03-26,Beauty,111.69,2,PayPal
+905,1026,Female,46.0,UK,2024-05-09,Beauty,183.39,2,Bank Transfer
+906,1066,,47.0,Canada,2023-03-30,Beauty,38.91,4,Bank Transfer
+907,1080,,34.0,USA,2024-12-19,Home,382.76,1,Credit Card
+908,1055,Male,32.0,Australia,2022-07-16,Home,207.11,3,Credit Card
+909,1091,Female,,Germany,2024-09-17,Clothing,380.83,4,Bank Transfer
+910,1092,,35.0,France,2024-02-02,Books,452.29,3,Credit Card
+911,1020,Female,54.0,USA,2022-06-09,Electronics,120.22,4,Bank Transfer
+912,1046,Female,21.0,France,2022-01-20,Home,404.66,2,PayPal
+913,1079,,27.0,Germany,2024-06-10,Beauty,34.25,4,PayPal
+914,1058,Female,66.0,UK,2023-03-18,Clothing,449.93,2,Credit Card
+915,1083,,62.0,Australia,2023-12-31,Toys,327.13,4,PayPal
+916,1005,,60.0,Germany,2024-01-14,Toys,437.74,1,PayPal
+917,1018,Male,24.0,USA,2023-11-16,Beauty,5.09,3,Bank Transfer
+918,1056,Male,23.0,UK,2023-06-14,Beauty,88.7,1,Bank Transfer
+919,1068,Female,60.0,Germany,2022-10-14,Books,197.93,4,PayPal
+920,1002,Male,40.0,UK,2022-03-21,Books,192.85,4,Credit Card
+921,1000,Female,69.0,UK,2023-01-28,Beauty,117.23,4,Credit Card
+922,1057,,52.0,France,2024-01-13,Beauty,193.9,2,Bank Transfer
+923,1037,Male,44.0,France,2022-06-27,Toys,68.78,3,PayPal
+924,1014,,66.0,USA,2022-04-12,Books,209.32,3,PayPal
+925,1033,Male,55.0,Germany,2023-09-15,Home,402.17,4,PayPal
+926,1060,Male,32.0,Australia,2024-02-03,Clothing,242.14,4,Bank Transfer
+927,1034,Male,53.0,Canada,2022-04-26,Electronics,13.91,0,Bank Transfer
+928,1063,,21.0,Germany,2024-06-15,Clothing,213.61,1,Bank Transfer
+929,1024,Female,,UK,2024-09-04,Clothing,18.45,1,Credit Card
+930,1023,Male,42.0,USA,2024-12-02,Books,483.29,3,Credit Card
+931,1011,,,USA,2022-03-25,Electronics,68.09,2,Credit Card
+932,1017,Female,51.0,Canada,2022-08-24,Beauty,355.31,4,PayPal
+933,1014,Female,44.0,UK,2022-08-20,Home,486.52,3,PayPal
+934,1079,Male,52.0,UK,2024-05-24,Toys,413.89,2,Bank Transfer
+935,1026,,61.0,USA,2023-04-17,Home,351.16,1,PayPal
+936,1071,,,Australia,2022-05-13,Books,420.53,2,PayPal
+937,1059,Female,48.0,USA,2023-01-21,Beauty,490.99,1,Credit Card
+938,1045,,54.0,Canada,2022-07-04,Toys,312.57,2,Bank Transfer
+939,1088,Female,,Australia,2024-05-16,Home,281.8,3,Credit Card
+940,1016,Female,33.0,Australia,2023-10-09,Clothing,315.98,1,PayPal
+941,1092,Female,48.0,Canada,2024-07-30,Books,268.67,3,Credit Card
+942,1052,Male,37.0,Australia,2024-07-15,Electronics,319.37,3,Bank Transfer
+943,1007,,23.0,France,2024-08-18,Clothing,227.67,1,PayPal
+944,1078,Male,43.0,USA,2022-12-17,Electronics,113.13,1,Bank Transfer
+945,1026,Female,,Canada,2024-03-22,Toys,64.52,4,PayPal
+946,1045,,63.0,UK,2023-08-14,Electronics,0.0,4,PayPal
+947,1049,,20.0,Australia,2023-12-01,Clothing,135.34,4,PayPal
+948,1070,Female,50.0,Australia,2023-11-19,Electronics,27.83,3,Bank Transfer
+949,1002,,54.0,France,2023-04-07,Books,285.75,3,Credit Card
+950,1092,Female,51.0,Australia,2024-07-03,Books,145.5,4,Bank Transfer
+951,1063,Female,69.0,USA,2023-10-29,Clothing,413.14,3,PayPal
+952,1043,Female,54.0,Australia,2023-04-20,Beauty,41.75,3,Bank Transfer
+953,1052,Female,61.0,Australia,2024-06-02,Home,117.04,1,Bank Transfer
+954,1023,,57.0,Canada,2024-08-22,Beauty,366.47,1,Bank Transfer
+955,1059,Male,27.0,USA,2022-04-04,Electronics,301.41,3,PayPal
+956,1002,,25.0,France,2024-08-05,Clothing,36.92,4,Bank Transfer
+957,1019,Male,66.0,Australia,2022-06-04,Electronics,439.23,2,Bank Transfer
+958,1045,,46.0,Germany,2022-11-19,Clothing,439.24,4,Credit Card
+959,1014,Female,29.0,USA,2024-08-29,Electronics,168.55,2,Credit Card
+960,1024,,28.0,USA,2022-11-24,Home,173.5,4,Bank Transfer
+961,1093,,31.0,USA,2023-02-16,Clothing,494.57,1,Bank Transfer
+962,1077,,69.0,USA,2024-10-22,Books,314.96,3,PayPal
+963,1070,Female,30.0,Canada,2022-05-07,Home,268.0,3,PayPal
+964,1016,Male,26.0,Germany,2022-09-01,Books,419.89,1,Credit Card
+965,1083,,20.0,UK,2023-01-08,Home,146.22,2,Credit Card
+966,1099,Female,45.0,USA,2022-09-28,Books,217.45,2,PayPal
+967,1008,Male,23.0,UK,2024-05-07,Home,137.55,2,Credit Card
+968,1037,Female,61.0,Canada,2022-04-27,Beauty,395.63,1,PayPal
+969,1047,Male,45.0,Germany,2022-09-01,Electronics,288.81,2,PayPal
+970,1059,Female,30.0,France,2022-01-05,Books,331.12,1,Bank Transfer
+971,1062,Female,,France,2023-09-27,Electronics,129.89,4,Bank Transfer
+972,1085,Female,58.0,France,2023-12-01,Clothing,114.01,4,Credit Card
+973,1001,Female,27.0,Australia,2024-12-06,Electronics,246.75,1,Bank Transfer
+974,1087,Female,,France,2024-07-11,Books,370.1,3,Bank Transfer
+975,1071,,56.0,France,2023-12-31,Home,264.99,4,PayPal
+976,1010,,34.0,Germany,2023-03-29,Electronics,21.16,2,Credit Card
+977,1063,Male,38.0,USA,2022-02-20,Toys,434.93,1,Bank Transfer
+978,1076,,64.0,France,2022-12-26,Home,37.02,2,Credit Card
+979,1080,Female,69.0,Australia,2023-03-24,Clothing,478.13,2,PayPal
+980,1071,Female,22.0,USA,2023-03-16,Clothing,17.45,3,Bank Transfer
+981,1020,,23.0,UK,2024-12-28,Books,348.75,2,PayPal
+982,1017,Male,42.0,USA,2023-12-07,Home,45.69,3,Bank Transfer
+983,1093,Male,53.0,Australia,2022-04-21,Electronics,455.78,4,Credit Card
+984,1063,Male,43.0,Australia,2024-12-03,Electronics,234.89,1,PayPal
+985,1081,,53.0,UK,2022-12-29,Beauty,73.07,2,PayPal
+986,1094,Female,38.0,USA,2023-02-15,Clothing,173.7,1,Credit Card
+987,1037,Male,,Australia,2024-08-28,Home,86.59,2,PayPal
+988,1031,Male,35.0,UK,2024-07-05,Home,89.44,1,Credit Card
+989,1010,Male,51.0,USA,2024-10-24,Clothing,474.31,2,PayPal
+990,1044,Female,47.0,Australia,2022-11-04,Beauty,225.4,2,PayPal
+991,1088,Female,,USA,2023-10-23,Electronics,395.46,2,PayPal
+992,1032,Male,18.0,Germany,2022-06-28,Clothing,321.6,2,Credit Card
+993,1040,Female,68.0,UK,2024-04-25,Home,339.83,2,Bank Transfer
+994,1007,Male,62.0,USA,2022-12-16,Beauty,70.19,2,PayPal
+995,1010,,57.0,Germany,2024-10-03,Electronics,120.92,2,Credit Card
+996,1085,Male,55.0,Australia,2022-08-20,Toys,394.44,2,Credit Card
+997,1050,,51.0,Germany,2023-02-17,Beauty,485.53,2,PayPal
+998,1087,Female,68.0,UK,2022-08-09,Clothing,135.02,1,Credit Card
+999,1040,Male,44.0,USA,2022-04-21,Home,139.43,3,Credit Card
+1000,1016,Female,25.0,Germany,2022-04-03,Home,239.08,2,Credit Card
