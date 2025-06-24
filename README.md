@@ -1,6 +1,7 @@
 # Exploratory Data Analysis of E-commerce Transactions
 
-This project performs exploratory data analysis (EDA) on a synthetic dataset of e-commerce transactions. The main goals are data cleaning, feature engineering, descriptive statistics, and insightful visualizations.
+This project performs exploratory data analysis (EDA) on a synthetic dataset of e-commerce transactions. 
+The main goals are data cleaning, feature engineering, descriptive statistics, and insightful visualizations.
 
 ## Dataset
 
